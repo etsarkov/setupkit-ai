@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "version": "0.14-local-draft",
+  "revision_date": "2026-09-27",
+  "status": "PRIVATE_STAGING_HOST_UNVERIFIED",
+  "published_at": null,
+  "starter": "AI_WORK_SETUP_STARTER.md",
+  "starter_sha256": "b1f7b0d8f114afb6fe573f030735ce17d663a00bf9c89331b498154487f8e7c4",
+  "start_prompt": "START_PROMPT.txt",
+  "start_prompt_sha256": "4b8db7b36b18de1830be99ff58d3587e0a3152b1b30376b5571ce8eb06100c3f",
+  "repository": "etsarkov/setupkit-ai",
+  "planned_public_ref": "starter-0.14-local-draft",
+  "public_source_verified": false,
+  "supported_hosts_verified": [],
+  "license_status": "CANDIDATE_ONLY_NOT_ADOPTED",
+  "website_deployed": false
+}
