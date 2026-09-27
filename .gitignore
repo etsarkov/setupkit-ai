@@ -1,0 +1,51 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+credentials*
+secrets*
+# Local state, dependencies and output
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.next/
+dist/
+build/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+*.zip
+*.tar
+*.gz
+.vercel/
+.netlify/
+# Private operations and visitor content
+work/
+outputs/
+knowledge-base/
+private/
+uploads/
+backups/
+logs/
+evidence/
+.codex/
+.agents/
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
