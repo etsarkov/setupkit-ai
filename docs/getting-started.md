@@ -6,7 +6,7 @@ Copy the start prompt, paste it into your current AI chat and send it. Answer yo
 
 Open [the complete current text](https://setupkit.ai/kit/) and copy the complete text, including its final marker. Paste it into the same chat. If it is too long, paste numbered parts in order. Wait until all parts are supplied, then send the completion instruction shown on that page. The assistant should confirm the edition, date, complete sections and final marker, reuse your answers and continue from your last confirmed step. It must ask for missing parts instead of reconstructing them.
 
-If the website is unavailable, open [the complete guide in this repository](../AI_WORK_SETUP_STARTER.md) and copy its text instead. Do not connect an account or bypass restrictions just to retrieve the guide.
+If the website is unavailable, open [the complete guide in this repository](../STARTER.md) and copy its text instead. Do not connect an account or bypass restrictions just to retrieve the guide.
 
 ## When another work mode is useful
 
