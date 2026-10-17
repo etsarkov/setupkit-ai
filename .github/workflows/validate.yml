@@ -39,9 +39,14 @@ jobs:
                   assert re.fullmatch('[a-f0-9]{64}', expected)
                   assert hashlib.sha256(payload[name]).hexdigest() == expected, 'Content mismatch: ' + name
               release = json.loads(payload['release.json'])
-              assert hashlib.sha256(payload['AI_WORK_SETUP_STARTER.md']).hexdigest() == release['starter_sha256']
+              assert hashlib.sha256(payload['STARTER.md']).hexdigest() == release['starter_sha256']
               assert hashlib.sha256(payload['START_PROMPT.txt']).hexdigest() == release['start_prompt_sha256']
-              assert ('END OF SETUPKIT ' + release['version'] + ' ' + release['revision_date']) in payload['AI_WORK_SETUP_STARTER.md'].decode()
+              assert ('END OF SETUPKIT ' + release['version'] + ' ' + release['revision_date']) in payload['STARTER.md'].decode()
+              assert release['planned_ref'] == 'setupkit-v' + release['version']
+              for name, data in payload.items():
+                  if name.endswith(('.md', '.txt', '.json')):
+                      assert b'AI_WORK_SETUP_STARTER.md' not in data, 'Old public filename: ' + name
+                      assert b'blob/starter-' not in data, 'Old public tag: ' + name
               assert release['guide_license']['id'] == 'CC-BY-4.0'
               assert release['supporting_document_license']['id'] == 'CC-BY-4.0'
               return True
