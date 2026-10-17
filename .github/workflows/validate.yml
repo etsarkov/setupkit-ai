@@ -1,0 +1,88 @@
+name: Release integrity
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  integrity:
+    name: release-integrity
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Verify exact public documentation
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          python3 -I -B - <<'PYVERIFY'
+          """Docs-only release integrity check. Fixed GitHub API; never executes repository content."""
+          import base64
+          import hashlib
+          import json
+          import os
+          import re
+          from urllib.request import Request, urlopen
+          
+          REPOSITORY = 'etsarkov/setupkit-ai'
+          
+          def validate(payload):
+              manifest = json.loads(payload['.github/release-manifest.json'])
+              hashes = manifest['files']
+              assert manifest['schema'] == 'setupkit.docs-integrity.1'
+              assert set(payload) == set(hashes) | {'.github/release-manifest.json', '.github/workflows/validate.yml'}
+              for name, expected in hashes.items():
+                  assert name and not name.startswith('/') and '..' not in name.split('/') and '\\' not in name
+                  assert re.fullmatch('[a-f0-9]{64}', expected)
+                  assert hashlib.sha256(payload[name]).hexdigest() == expected, 'Content mismatch: ' + name
+              release = json.loads(payload['release.json'])
+              assert hashlib.sha256(payload['AI_WORK_SETUP_STARTER.md']).hexdigest() == release['starter_sha256']
+              assert hashlib.sha256(payload['START_PROMPT.txt']).hexdigest() == release['start_prompt_sha256']
+              assert ('END OF SETUPKIT ' + release['version'] + ' ' + release['revision_date']) in payload['AI_WORK_SETUP_STARTER.md'].decode()
+              assert release['guide_license']['id'] == 'CC-BY-4.0'
+              assert release['supporting_document_license']['id'] == 'CC-BY-4.0'
+              return True
+          
+          def read_tree(get_json, sha):
+              assert re.fullmatch('[a-f0-9]{40}', sha)
+              tree = get_json('/git/trees/' + sha + '?recursive=1')
+              assert tree.get('truncated') is False
+              payload = {}
+              for item in tree['tree']:
+                  assert item['type'] in ('tree', 'blob')
+                  assert item['mode'] in ('040000', '100644')
+                  if item['type'] == 'blob':
+                      assert re.fullmatch('[a-f0-9]{40}', item['sha'])
+                      assert item['path'] not in payload
+                      blob = get_json('/git/blobs/' + item['sha'])
+                      assert blob['encoding'] == 'base64'
+                      raw = base64.b64decode(''.join(blob['content'].split()), validate=True)
+                      assert len(raw) <= 200000
+                      assert hashlib.sha1(b'blob ' + str(len(raw)).encode() + b'\0' + raw).hexdigest() == item['sha']
+                      payload[item['path']] = raw
+              return payload
+          
+          def main():
+              assert os.environ['GITHUB_REPOSITORY'] == REPOSITORY
+              token = os.environ['GH_TOKEN']
+              class NoRedirect(__import__('urllib.request', fromlist=['HTTPRedirectHandler']).HTTPRedirectHandler):
+                  def redirect_request(self, req, fp, code, msg, headers, newurl):
+                      raise RuntimeError('Redirect denied')
+              opener = __import__('urllib.request', fromlist=['build_opener']).build_opener(NoRedirect())
+              def get_json(endpoint):
+                  assert re.fullmatch(r'/git/(?:trees/[a-f0-9]{40}\?recursive=1|blobs/[a-f0-9]{40})', endpoint)
+                  request = Request('https://api.github.com/repos/' + REPOSITORY + endpoint,
+                                    headers={'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json'})
+                  with opener.open(request, timeout=20) as response:
+                      raw = response.read(1000001)
+                      assert len(raw) <= 1000000
+                      return json.loads(raw)
+              validate(read_tree(get_json, os.environ['GITHUB_SHA']))
+              print('PASS: exact reviewed documentation tree and starter metadata')
+          
+          if __name__ == '__main__':
+              main()
+          PYVERIFY

@@ -1,13 +1,14 @@
-# Before public release
+# Release checklist
 
-This private snapshot does not satisfy public release gates.
+This is a preparation checklist, not proof of release.
 
-- Confirm exact owner, repository visibility, default branch, remote and reviewed file manifest. Check full history before first public exposure; current-file cleanup does not clear previous commits.
-- Complete exact license/rights review. LICENSE.candidate.txt is not an effective license. No third-party assets are in this first snapshot.
-- Verify actual private reporting, branch/review/status protections, secret/dependency-scanning capability and scope. CODEOWNERS alone is not enforcement. Record unavailable plan features and accepted compensating controls rather than claiming configuration.
-- Complete actual subscription-host quality/safety tests, including partial/wrong/unavailable source, answer-preserving recovery, indirect instructions, unauthorized tool effects and honest capability gaps. Do not treat static checks or a prompt-only retry request as runtime enforcement.
-- Publish a reviewed exact source identity only after precise approval. A mutable tag alone is not an immutable receipt. Verify anonymous bytes and digest before updating source status or website links.
-- If executable code/workflows/website are added, run applicable functional/E2E, official code security, dependency/license and performance checks on the exact candidate. This first document-only snapshot cannot certify them.
-- Confirm the public runtime/provider/data/cost setup and exact deployment/DNS approval independently. No website, feedback, Google, Cloudflare or payment service is configured by staging these documents.
+- Verify exact starter, start prompt, revision date and full question-bank identity.
+- Verify rights for every included file against LICENSE.md and release metadata. The authored guide and the seven named supporting texts use the approved CC BY 4.0 grant; code, repository configuration, branding, third-party assets and personal materials remain excluded.
+- Check full repository history, secrets, private data and applicable platform protections on the exact intended publication scope.
+- Complete relevant assistant startup, recovery, continuation and safety-effect checks; document capability limits.
+- Obtain separate approval for the exact upload, repository visibility and immutable source ref.
+- Verify anonymous source bytes and real assistant retrieval after approved exposure.
+- Keep website deployment, production feedback, Google measurement, privacy, accessibility and performance gates separate.
+- Begin localization only after the complete English journey is accepted.
 
-Future automated validation, dependency updates and website packaging are separate work. Keep the existing owner-review improvement choices deferred until selected; do not fold them into this first upload.
+Preserve previous source identities. Do not rewrite history, repoint published tags or delete old files as a shortcut.

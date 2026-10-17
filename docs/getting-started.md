@@ -1,23 +1,13 @@
-# Getting started
+# How to start
 
-This edition is a private staging snapshot. The source URL in START_PROMPT.txt is not anonymously available. Do not claim the one-prompt public path works yet.
+Copy the start prompt, paste it into your current AI chat and send it. Answer your assistant's questions and choose a useful task. No SetupKit signup or app installation is needed just to supply text and review a draft. Your assistant's actual tools, costs and data rules still apply.
 
-The intended public journey is:
+## If the guide cannot be read
 
-1. Copy the start prompt.
-2. Paste it into your existing AI chat.
-3. The assistant reads the complete exact edition and confirms the content it can actually access.
-4. Explain your goal, which assistant you use and how you use it.
-5. Answer the relevant questions and work toward one useful result you can review.
+Open [the complete current text](https://setupkit.ai/kit/) and copy the complete text, including its final marker. Paste it into the same chat. If it is too long, paste numbered parts in order. Wait until all parts are supplied, then send the completion instruction shown on that page. The assistant should confirm the edition, date, complete sections and final marker, reuse your answers and continue from your last confirmed step. It must ask for missing parts instead of reconstructing them.
 
-No SetupKit signup, site AI subscription, installer or developer API key is required. Your own assistant's costs, capabilities, permissions and data rules still apply.
+If the website is unavailable, open [the complete guide in this repository](../AI_WORK_SETUP_STARTER.md) and copy its text instead. Do not connect an account or bypass restrictions just to retrieve the guide.
 
-## If reading fails
+## When another work mode is useful
 
-The prompt tells the assistant to stop the method-dependent flow, explain what is missing, and ask you to return to the copy page. Expand Could not load the starter?, download the complete text document, attach it in the same chat and send the exact resume instruction. Your earlier answers should be reused. If attachments are unavailable, provide the complete text in ordered parts. Missing sections must not be reconstructed.
-
-In this private snapshot, the equivalent full document is ../AI_WORK_SETUP_STARTER.md. It is a text document, not an executable application.
-
-## If a task needs other tools
-
-Continue the questions using the capabilities actually available. Before a dependent task, the assistant should explain what it can do now, what access/tool is missing, and the choices: manual work, later, or a voluntary move to a suitable environment. An application icon or brand alone proves nothing about local files or browser control. If you choose to move, a reviewed continuation file/text can carry your existing answers; installation and new permissions require separate choices.
+If your task needs tools or file access, ask what the current chat can do first. You can continue manually, defer the step or choose another work mode. If you move, ask for a reviewed continuation summary with the relevant answers, sources and open questions. Keep it with your own work. Do not send it to SetupKit. Reading instructions does not grant permission to install, save, send or change anything.

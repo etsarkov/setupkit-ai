@@ -1,9 +1,5 @@
 # Contributing
 
-This is private preparation, not a supported public release.
+For a question, suggestion or non-sensitive problem, describe your goal, guide edition, assistant and actual work mode, what you expected and what happened. Use a small invented example. Use [Ask a question](https://setupkit.ai/feedback/?type=question) or [Suggest an improvement](https://setupkit.ai/feedback/?type=suggestion), or an Issue if Issues are enabled and you have access. Do not post personal chats, secrets or private files.
 
-For a normal question, suggestion or non-sensitive problem, describe the goal, starter edition, assistant and actual usage mode, expected result and what happened. Include only a minimal synthetic example. Do not include personal chat exports, secrets or third-party private files. Issues may be used if they are enabled and you have access.
-
-For a security concern, follow SECURITY.md. Do not publish sensitive details. Contributions, license acceptance, compatibility claims and public release require maintainer review; nothing is auto-merged or auto-deployed.
-
-The current starter remains a staging snapshot of the reviewed method. Before editing it, agree the maintenance-source transition and preserve question identifiers, permissions, recovery and version/byte consistency. Update release metadata and the launcher together. Keep each proposed improvement separate from the approved current behavior.
+For a security concern, follow [the security policy](SECURITY.md). Proposed edits are not automatic releases. Preserve stable question meanings, existing answers and permission boundaries. A proposed change must be reviewed before it becomes part of the guide.

@@ -1,36 +1,29 @@
 # SetupKit
 
-A free Markdown guide for helping your AI assistant understand your work, preferences and boundaries, then work toward a useful first result.
+Help your AI understand how you work. One free guide helps you create working rules and work on a real task in your own AI chat.
 
-**Private preparation snapshot — not a public release.** Assistant-host behavior has not yet been verified. The GitHub link in the start prompt is planned and cannot be used anonymously while this repository is private. No website, feedback service, analytics or payment system is deployed by this repository.
+## How to start
 
-## What is here
+1. Copy the [start prompt](START_PROMPT.txt).
+2. Paste it into your AI chat and send it.
+3. Answer the relevant questions and choose a task to work on together.
 
-- [The complete starter](AI_WORK_SETUP_STARTER.md): edition `0.14-local-draft`, updated `2026-09-27` (revision date, not launch date).
-- [Start prompt](START_PROMPT.txt): the same exact launcher as the current website preparation.
-- [Getting started](docs/getting-started.md), [compatibility](docs/compatibility.md) and [release checklist](docs/release-checklist.md).
-- [Release metadata](release.json): exact starter digest and planned source identity.
+You can start in your current chat. Tell your assistant which tool you use and how you use it. If a task needs extra access, check what your chat can do first. You can work manually, leave the step for later or choose another work mode. Installing an app alone does not guarantee the tools you need.
 
-The starter keeps the original 93 questions. Your assistant should ask the relevant ones, reuse answers already supplied and explain missing capabilities early. It can help you draft a working agreement or continuation summary; it does not install applications, grant permissions or guarantee memory across chats.
+## Current edition
 
-## Intended entry after public-source verification
+[The complete guide](AI_WORK_SETUP_STARTER.md) is edition `0.16.3`, updated `2026-10-17`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
 
-Copy the start prompt and paste it into your own assistant. An already available permitted reading tool retrieves the complete versioned guide. If reading fails or the content is incomplete, use the explicit manual file/text recovery instructions. Real ChatGPT/Claude acceptance and exact public source bytes must be verified before advertising that entry as working. Gemini guidance is deferred.
+If the source cannot be read, follow [the complete-text recovery steps](docs/getting-started.md#if-the-guide-cannot-be-read). Missing content must be requested, not invented. [Compatibility and limits](docs/compatibility.md) explain what has and has not been verified.
 
-During private preparation, inspecting or manually supplying the complete file is an experimental validation path, not proof of compatibility. Never ask an assistant to authenticate to GitHub or grant broad access just to load it.
+## Your work stays with you
 
-## Data and control
+No SetupKit account is needed. SetupKit does not receive the answers you give your assistant. Your assistant's costs, permissions and data rules apply. A request to draft is not approval to send, publish, install, connect an account or change files.
 
-No account with SetupKit is required. SetupKit does not receive your interview answers. They stay in the assistant or files you choose, subject to that provider's rules. Do not include secrets in a profile. A request to draft is not approval to send, publish, install, connect an account or change files.
+## Author and reuse
 
-## Feedback and security
+Created by [Eugene Tsarkov](https://www.linkedin.com/in/etsarkov/). An independent, free project. The authored starter guide text is licensed under [CC BY 4.0](LICENSE.md), including commercial sharing and adaptations subject to the license conditions. Give credit, link to the original guide and license, and indicate changes as required. The seven supporting texts named in LICENSE.md use the same CC BY4.0 terms. Repository configuration remains outside the grant. No license for code, logos or third-party assets is implied.
 
-[Contribution guidance](CONTRIBUTING.md) describes ordinary reports. [Security policy](SECURITY.md) describes the private-reporting boundary; a dedicated private channel has not been activated. Do not put secrets or sensitive reports into Issues.
+## Feedback and language
 
-## Language and license
-
-English is the source of truth; the guided conversation can use your preferred language. No translated README is advertised in this snapshot.
-
-The owner has selected permissive reuse with attribution in principle. The exact license remains pending. [Proposed MIT text](docs/LICENSE.candidate.txt) is a review candidate, not an effective grant or a claim that third-party rights have been cleared. No fonts, brand assets or third-party code are included in this document-only package.
-
-This private repository is an initial staging snapshot. Public availability, live source identity, operating ownership, platform protections and actual-host validation are separate gates. No automatic publishing workflow is included.
+See [contribution guidance](CONTRIBUTING.md) and [security reporting](SECURITY.md). Do not publish private chats, files or secrets in an Issue. English is the source of truth; the guided conversation can use your chosen language. Translated READMEs and the website language switcher are planned after complete English verification; none is advertised as available here.

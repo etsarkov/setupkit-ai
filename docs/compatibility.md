@@ -1,14 +1,12 @@
 # Compatibility and limits
 
-No actual assistant-host compatibility claim is certified for this private edition. ChatGPT and Claude are planned validation targets; Gemini guidance is deferred. The method must profile the person's actual usage mode, not infer it from a product name.
+SetupKit has been checked in selected ChatGPT/Codex and Claude conversations. Those checks do not guarantee the same tools or behavior in every chat. Gemini and Perplexity have not been verified for this edition. Assistant capabilities vary by application, account, plan and provider updates.
 
-| Situation | What can be possible | Important limit |
+| Work mode | Useful starting point | Limit |
 |---|---|---|
-| Browser chat | Supplied text, uploaded copies and reviewed drafts | Automatic URL access, complete retrieval and attachment support depend on actual tools/plan |
-| Cloud work environment | Permitted scripts, skills, remote files or browser tools | Does not imply access to original files or logged-in browser on the person's computer |
-| Desktop chat application | Chat and features the actual application provides | Installing it does not automatically provide a local executor or filesystem access |
-| Local work environment | Scoped original-file/tools access when explicitly available | Writes, scripts, installations and external actions remain permission-bound |
+| Browser chat | Supply text and review a draft | URL reads, attachments, file access and other tools depend on the actual chat |
+| Cloud work | Permitted scripts and remote files | Does not imply access to original local files or your signed-in browser |
+| Desktop chat | Features the application actually provides | Installation alone does not provide an executor or filesystem permission |
+| Local work | Explicitly scoped original-file and tool access | Writes and external actions remain permission-bound |
 
-The starter is plain Markdown, not an installed skill or an executable script. Reading it cannot grant a tool. Memory is not a canonical Markdown knowledge base; a downloaded draft is not a save into an original file; an uploaded copy is not live synchronization.
-
-Official navigation pages recorded with this edition: https://chatgpt.com/download/ and https://claude.com/download . They are navigation links, not a promise of exact OS/plan/tool eligibility. The assistant should check current official requirements when a move becomes relevant, or mark them unverified. No developer/API billing route is silently substituted for an existing subscription.
+The guide is plain Markdown, not an installed skill or a technical approval control. Uploaded copies are not live synchronization. A continuation summary does not confer permissions. If access is denied or missing, preserve the existing work and ask for the minimum selected input instead of recreating a setup.

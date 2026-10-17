@@ -1,0 +1,18 @@
+{
+  "schema": "setupkit.docs-integrity.1",
+  "files": {
+    ".github/CODEOWNERS": "1eb23bbba49a835079de6c6c63c71ead688c524bf174767e64c1d8ddb5cdb66c",
+    ".gitignore": "225430bef5ad31f59d5096776cdd52691760261aa5c0cd9cd81e44154e57e881",
+    "AI_WORK_SETUP_STARTER.md": "2b9b6f27cb6b4ea6a259c82f78b09e0f23b441dccd07bff5a7f82457a042b085",
+    "CONTRIBUTING.md": "de6c9464f4d0f0c2f9120a18a4372b17e00fd1d302e4ec73b31ce937c7ab0012",
+    "LICENSE.md": "f46a6e0b38d6c57aa856d22ca13a12b7e3ed8677ad2551dd2fdd1527bf58cc67",
+    "README.md": "0e480334f22f3635cbdbfabcab24d1c8fbf1ce5acd01978ed6ebd32930be4585",
+    "SECURITY.md": "3eb64c54f0a94effd29dd0b152c2cb483415a37970a4df705bedf0183aedc2d2",
+    "START_PROMPT.txt": "d2cb1816bff9ade2add85a09d2a785c9127edbe08ab588e335ec531cdc28a97c",
+    "docs/LICENSE.candidate.txt": "b3051f00a8d49004c0db1a7363656976cdb1816630d1903cb0786cd65b2113ed",
+    "docs/compatibility.md": "a5dffb173625f980b7b31022a91ead83691c1a9ac10e6ff815408270d70ada8f",
+    "docs/getting-started.md": "3a050379834d484752a8db5846fa2ea38b15869a9c7f9ba52098669c37278bd2",
+    "docs/release-checklist.md": "b782b482af697541b3565520807369981b51a63aee4de081009c4df3cc1a02e2",
+    "release.json": "3d7aab18c4e9ddb33eb1041298a0db06eeba1c97893954bfe7d13a4b82bac29d"
+  }
+}
