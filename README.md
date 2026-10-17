@@ -1,5 +1,7 @@
 # SetupKit
 
+English · [Español](README.es.md) · [Português (Brasil)](README.pt.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [简体中文](README.zh.md)
+
 Help your AI understand how you work. One free guide helps you create working rules and work on a real task in your own AI chat.
 
 ## How to start
@@ -26,4 +28,4 @@ Created by [Eugene Tsarkov](https://www.linkedin.com/in/etsarkov/). An independe
 
 ## Feedback and language
 
-See [contribution guidance](CONTRIBUTING.md) and [security reporting](SECURITY.md). Do not publish private chats, files or secrets in an Issue. English is the source of truth; the guided conversation can use your chosen language. Translated READMEs and the website language switcher are planned after complete English verification; none is advertised as available here.
+See [contribution guidance](CONTRIBUTING.md) and [security reporting](SECURITY.md). Do not publish private chats, files or secrets in an Issue. English is the source of truth; the guided conversation can use your chosen language. Choose a README translation above to get started in that language. The canonical guide remains in English.
