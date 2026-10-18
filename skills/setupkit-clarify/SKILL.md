@@ -16,7 +16,7 @@ Interrogate the decision, not the user. Surface the smallest set of unanswered q
 
 ## Workflow
 
-1. Restate the intended outcome in one sentence.
+1. Make the first sentence of the user-visible response a brief restatement of the intended outcome, using only the provided brief. Write this sentence before any questions; do not leave it only in internal reasoning.
 2. Separate known facts, user decisions, assumptions, hypotheses, and unknowns.
 3. Identify contradictions and decision-critical gaps.
 4. Ask no more than 5 concise questions in one block, and fewer when fewer are needed. Phrase them in product language: user outcome, business rule, evidence, risk, cost, time, or reversibility.
