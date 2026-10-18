@@ -1,0 +1,26 @@
+{
+  "schema": "setupkit-skills-package/1",
+  "name": "SetupKit Skills",
+  "version": "0.1.0",
+  "author": "Eugene Tsarkov",
+  "license": "MIT",
+  "skills": [
+    {
+      "id": "setupkit-clarify",
+      "name": "SetupKit Clarify",
+      "path": "setupkit-clarify/SKILL.md"
+    },
+    {
+      "id": "setupkit-fact-check",
+      "name": "SetupKit Fact Check",
+      "path": "setupkit-fact-check/SKILL.md"
+    }
+  ],
+  "files": {
+    "LICENSE": "0b8a64ca9c2d333cb580f1f64c80cb120ac82d308b031718b71c8855cee900b7",
+    "PROVENANCE.md": "ae66bcce6868f3ffebf30bf2a344e8f9a701846e32d0787c0eb8148a4421deee",
+    "README.md": "9de88ab30b99d4ac450ec5f9c41e83dc6834768764c10bfabd078dd410435aad",
+    "setupkit-clarify/SKILL.md": "4537b22eb5a36795055617a2d73862832e5fa2b16242b738db9ba9158dbc67f1",
+    "setupkit-fact-check/SKILL.md": "c0a2ad7a97b86a1fa5e1ecefac6a10922ec03301142ab6f181a906adbd6bf704"
+  }
+}
