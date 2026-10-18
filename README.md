@@ -18,6 +18,11 @@ You can start in your current chat. Tell your assistant which tool you use and h
 
 If the source cannot be read, follow [the complete-text recovery steps](docs/getting-started.md#if-the-guide-cannot-be-read). Missing content must be requested, not invented. [Compatibility and limits](docs/compatibility.md) explain what has and has not been verified.
 
+## Skills
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): asks focused questions to clarify a task before work starts.
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): reviews claims, supporting evidence and media requirements before publication.
+
 ## Your work stays with you
 
 No SetupKit account is needed. SetupKit does not receive the answers you give your assistant. Your assistant's costs, permissions and data rules apply. A request to draft is not approval to send, publish, install, connect an account or change files.

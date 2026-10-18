@@ -18,6 +18,11 @@ Puedes empezar en tu chat actual. Dile a tu asistente qué herramienta usas y c�
 
 Si no puede leer la fuente, sigue los [pasos para proporcionar el texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). El contenido que falte debe pedirse, no inventarse. La página [Compatibilidad y límites](docs/compatibility.md) explica qué se ha verificado y qué no. Estos documentos de referencia y la guía original están en inglés.
 
+## Skills
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): plantea preguntas concretas para aclarar una tarea antes de empezar.
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): revisa las afirmaciones, las pruebas que las respaldan y los requisitos de los recursos multimedia antes de publicar.
+
 ## Tu trabajo se queda contigo
 
 No necesitas una cuenta de SetupKit. SetupKit no recibe las respuestas que das a tu asistente. Se aplican los costes, permisos y reglas de tratamiento de datos de tu asistente. Pedir un borrador no autoriza a enviar, publicar, instalar, conectar una cuenta ni modificar archivos.

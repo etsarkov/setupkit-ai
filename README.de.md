@@ -18,6 +18,11 @@ Du kannst in deinem bisherigen Chat anfangen. Sag deinem Assistenten, welches To
 
 Kann die Quelle nicht gelesen werden, folge den [Schritten zum Übermitteln des vollständigen Textes](docs/getting-started.md#if-the-guide-cannot-be-read). Fehlende Inhalte müssen angefordert werden; sie dürfen nicht erfunden werden. Die Seite [Kompatibilität und Grenzen](docs/compatibility.md) erklärt, was geprüft wurde und was nicht. Diese Referenzdokumente und der maßgebliche Leitfaden sind auf Englisch.
 
+## Skills
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): klärt eine Aufgabe vor Arbeitsbeginn mit gezielten Fragen.
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): prüft vor der Veröffentlichung Aussagen, Belege und Anforderungen an Medieninhalte.
+
 ## Deine Arbeit bleibt bei dir
 
 Du brauchst kein SetupKit-Konto. SetupKit erhält keine Antworten, die du deinem Assistenten gibst. Es gelten die Kosten, Berechtigungen und Regeln zur Datenverarbeitung deines Assistenten. Die Bitte um einen Entwurf ist keine Erlaubnis zum Senden, Veröffentlichen, Installieren, Verbinden eines Kontos oder Ändern von Dateien.

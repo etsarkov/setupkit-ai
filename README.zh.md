@@ -18,6 +18,11 @@
 
 如果无法读取来源，请按照[提供完整文本的步骤](docs/getting-started.md#if-the-guide-cannot-be-read)操作。缺失的内容应向你索取，不能凭空编造。[兼容性与限制](docs/compatibility.md)说明了哪些内容已经验证，哪些尚未验证。这些参考文档和作为依据的指南正文均为英文。
 
+## 技能
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): 在开始工作前，通过有针对性的问题明确任务。
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): 在发布前，核查事实性陈述、相关证据和媒体素材的相关要求。
+
 ## 工作内容由你掌握
 
 无需注册 SetupKit 账号。SetupKit 不会收到你向助手提供的回答。你所用助手的费用、权限和数据处理规则仍然适用。要求起草内容，并不等于允许发送、发布、安装、连接账号或修改文件。
