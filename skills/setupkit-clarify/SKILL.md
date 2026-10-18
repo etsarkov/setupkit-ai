@@ -19,7 +19,7 @@ Interrogate the decision, not the user. Surface the smallest set of unanswered q
 1. Restate the intended outcome in one sentence.
 2. Separate known facts, user decisions, assumptions, hypotheses, and unknowns.
 3. Identify contradictions and decision-critical gaps.
-4. Ask at most 3-5 concise questions in one block. Phrase them in product language: user outcome, business rule, evidence, risk, cost, time, or reversibility.
+4. Ask no more than 5 concise questions in one block, and fewer when fewer are needed. Phrase them in product language: user outcome, business rule, evidence, risk, cost, time, or reversibility.
 5. Explain briefly why each answer matters when the impact is not obvious.
 6. After the answers, reassess. Ask another small block only if a remaining unknown can still change the decision.
 7. Stop questioning when the task is sufficiently specified. Summarize the resolved scope, accepted assumptions, deferred questions, and next safe action.

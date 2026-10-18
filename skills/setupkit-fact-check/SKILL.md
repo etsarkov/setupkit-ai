@@ -1,6 +1,6 @@
 ---
 name: setupkit-fact-check
-description: Verify the final wording, evidence, dates, quotations, provenance, and boundaries of factual claims in public content. Use implicitly after humanizer for every external post, thread, article, newsletter, presentation, marketing asset, and photo, video, or audio script; also use when the user explicitly asks to fact-check. Re-run after any material factual edit.
+description: Verify the final wording, evidence, dates, quotations, provenance, and boundaries of factual claims in public content. Use implicitly for every external post, thread, article, newsletter, presentation, marketing asset, and photo, video, or audio script when the final draft is ready for publication; if a humanizer is used, run this check after it. Also use when the user explicitly asks to fact-check. Re-run after any material factual edit.
 license: MIT
 metadata:
   author: "Eugene Tsarkov"
@@ -30,9 +30,9 @@ Act as the final evidence gate, not as a second copywriter. Check the exact fina
 7. Check media provenance, rights, consent, accessibility, and AI disclosure when a post includes an image, video, or audio asset. Never recommend removing provenance metadata to conceal AI origin.
 8. Produce a compact claim ledger with: claim, type, status, source, and required correction.
 9. Return one decision:
-   - `PASS`: all load-bearing claims are supported and the remaining uncertainty is accurately disclosed;
-   - `PASS WITH EDITS`: provide the minimum precise corrections and verify the corrected text;
-   - `BLOCK`: one or more load-bearing claims remain unsupported, contradicted, misleading, or unverifiable.
+   - `PASS`: all load-bearing claims and applicable material media provenance, rights, consent, accessibility, and AI-disclosure requirements are supported, and the remaining uncertainty is accurately disclosed;
+   - `PASS WITH EDITS`: provide the minimum precise corrections and verify the corrected text and applicable media requirements;
+   - `BLOCK`: one or more load-bearing claims remain unsupported, contradicted, misleading, or unverifiable, or applicable material media provenance, rights, consent, accessibility, or AI-disclosure requirements remain unresolved.
 
 ## Guardrails
 
