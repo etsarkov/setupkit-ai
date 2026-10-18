@@ -1,40 +1,50 @@
 # SetupKit Skills
 
-Skills for clarifying a request and checking facts before publication.
+Author: **[Eugene Tsarkov](https://www.linkedin.com/in/etsarkov/)** · [SetupKit](https://github.com/etsarkov/setupkit-ai) · License: **MIT**
 
-Author and maintainer: [Eugene Tsarkov](https://www.linkedin.com/in/etsarkov/). Developed with assistance from OpenAI Codex. Part of [SetupKit](https://github.com/etsarkov/setupkit-ai).
+English · [Español](README.es.md) · [Português (Brasil)](README.pt.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [简体中文](README.zh.md)
 
-| Skill | Use it when | Result |
+Clarify the task before work. Review the evidence before publication.
+
+## Choose a skill
+
+| Your situation | Skill | What you get |
 |---|---|---|
-| [SetupKit Clarify](setupkit-clarify/SKILL.md) | An unanswered question could change the scope, cost, risk or definition of success. | A short set of relevant questions and a clear account of what is settled. |
-| [SetupKit Fact Check](setupkit-fact-check/SKILL.md) | A public text is ready for its final factual review, or you explicitly request a fact-check. | A claim ledger, unresolved issues and a PASS, PASS WITH EDITS or BLOCK decision. |
+| A request has gaps that could change the task | [Clarify](setupkit-clarify/README.md) | Focused questions and a clearer account of the scope |
+| A public text or a claim needs factual review | [Fact Check](setupkit-fact-check/README.md) | A claim ledger, evidence gaps and a review decision |
 
-## Clarify
+Each skill page includes the selected example scenarios and a link to its full SKILL.md.
 
-Clarify asks about the gaps that could change the task. It works in short question blocks and stops when there is enough information to proceed. A simple, well-specified request should not become an interview.
+## Installation
 
-Skill identifier: `setupkit-clarify`.
+Read the skill instructions first. For a first try, use a new empty test project. Before running the command, check for existing skill folders in the target and shared project locations; decide any update separately. See the [common installation guide](../INSTALL.md).
 
-## Fact Check
+```bash
+npx skills add etsarkov/setupkit-ai \
+  --skill setupkit-clarify \
+  --skill setupkit-fact-check
+```
 
-Fact Check examines the exact wording intended for publication. It separates facts, personal experience, opinions and hypotheses, checks the supporting evidence, and flags claims that need correction or confirmation. Changes to factual wording require another check.
+Choose the target assistant and project scope. Review preselected choices, destinations and the final summary before confirming. Some assistants share .agents/skills; other assistants in the project may discover files placed there.
 
-A PASS is an assessment of the checked claims and available evidence. It does not authorize publication or replace professional advice where needed.
+npx downloads and executes the installer. See the common installation guide for the exact versions and modes tested, and for compatibility limits.
 
-Skill identifier: `setupkit-fact-check`.
+## Using the skills
 
-## Using the files
+After your assistant has loaded the skill, use the identifier setupkit-clarify or setupkit-fact-check. Discovery, invocation, source access and tool permissions depend on the host; installer target support does not establish identical behavior across assistants.
 
-Read the linked SKILL.md before adding it to an AI host that supports skill instructions. Use the identifier after the host has loaded the skill. Invocation, source access and tool permissions depend on that host; compatibility with every host is not claimed.
+Fact Check can follow an editorial step such as a humanizer. A humanizer is not required, included or installed by this package.
 
-Fact Check can follow an editorial step such as a humanizer. This package does not include or install a humanizer. Both skills remain subject to your host's permissions and approval rules. They do not grant access to accounts or authorize external actions.
+The skills remain subject to your assistant's permissions and approval rules. They do not grant account access or authorize spending, sending, installation or publication.
 
-Use only material you are entitled to share with your chosen host. Review its data-handling terms before providing confidential or personal information.
+Use only material you are entitled to share with your chosen assistant. Review its data-handling terms before supplying confidential or personal information.
 
 ## License and provenance
 
-[MIT License](LICENSE). Copyright (c) 2026 Eugene Tsarkov.
+[MIT](LICENSE). Copyright (c) 2026 Eugene Tsarkov. Developed with assistance from OpenAI Codex.
 
-Each SKILL.md also shows the author name, SetupKit project link and MIT identifier directly below its title. Metadata and the complete license text remain inside the file, so those notices are present when the file is copied on its own.
+See [provenance](PROVENANCE.md) for the development history and known related work. The author credit covers these maintained implementations; it does not claim invention of general questioning or fact-checking methods.
 
-See [provenance](PROVENANCE.md) for the development history, AI assistance and known related work. The author credit covers these maintained implementations; it does not claim invention of general questioning or fact-checking methods.
+The author name, SetupKit link, MIT identifier and complete license text also remain inside each SKILL.md, so those notices accompany a standalone copy.
+
+English is the source of truth. The README translations describe the same skills; each skill has one English SKILL.md.

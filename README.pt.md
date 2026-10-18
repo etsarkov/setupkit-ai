@@ -20,8 +20,18 @@ Se não conseguir ler a fonte, siga as [etapas para fornecer o texto completo](d
 
 ## Skills
 
-- [Clarify](skills/setupkit-clarify/SKILL.md): faz perguntas objetivas para esclarecer uma tarefa antes de começar.
-- [Fact Check](skills/setupkit-fact-check/SKILL.md): revisa afirmações, evidências de apoio e requisitos de mídia antes da publicação.
+- [Clarify](skills/setupkit-clarify/README.pt.md): faz perguntas objetivas para esclarecer uma tarefa antes de começar.
+- [Fact Check](skills/setupkit-fact-check/README.pt.md): revisa afirmações, evidências de apoio e requisitos de mídia antes da publicação.
+
+Para instalar os dois, leia primeiro o [guia geral de instalação](INSTALL.pt.md) e confira as pastas de skills existentes. Para a primeira tentativa, use um projeto de teste novo e vazio.
+
+```bash
+npx skills add etsarkov/setupkit-ai \
+  --skill setupkit-clarify \
+  --skill setupkit-fact-check
+```
+
+Escolha o assistente e o escopo do projeto; revise os destinos antes de confirmar. npx executa o instalador. Veja [a apresentação dos skills](skills/README.pt.md) para os limites de compatibilidade e as instruções de instalação individual.
 
 ## Seu trabalho fica com você
 

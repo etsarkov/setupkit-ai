@@ -20,8 +20,18 @@
 
 ## 技能
 
-- [Clarify](skills/setupkit-clarify/SKILL.md): 在开始工作前，通过有针对性的问题明确任务。
-- [Fact Check](skills/setupkit-fact-check/SKILL.md): 在发布前，核查事实性陈述、相关证据和媒体素材的相关要求。
+- [Clarify](skills/setupkit-clarify/README.zh.md): 在开始工作前，通过有针对性的问题明确任务。
+- [Fact Check](skills/setupkit-fact-check/README.zh.md): 在发布前，核查事实性陈述、相关证据和媒体素材的相关要求。
+
+如需安装两个技能，请先阅读[通用安装指南](INSTALL.zh.md)并检查现有技能文件夹。首次尝试请使用新的空白测试项目。
+
+```bash
+npx skills add etsarkov/setupkit-ai \
+  --skill setupkit-clarify \
+  --skill setupkit-fact-check
+```
+
+选择助手和当前项目范围，确认前检查目标路径。npx 会运行安装程序。兼容性限制和单个技能的安装说明见[技能概览](skills/README.zh.md)。
 
 ## 工作内容由你掌握
 
