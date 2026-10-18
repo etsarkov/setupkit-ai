@@ -18,6 +18,11 @@ Vous pouvez commencer dans votre conversation actuelle. Indiquez à votre assist
 
 S’il ne peut pas lire la source, suivez les [étapes pour fournir le texte complet](docs/getting-started.md#if-the-guide-cannot-be-read). Tout contenu manquant doit être demandé, pas inventé. La page [Compatibilité et limites](docs/compatibility.md) précise ce qui a été vérifié et ce qui ne l’a pas été. Ces documents de référence et le guide faisant autorité sont en anglais.
 
+## Skills
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): pose des questions ciblées pour préciser une tâche avant de commencer.
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): examine les affirmations, les éléments qui les étayent et les exigences liées aux contenus multimédias avant publication.
+
 ## Votre travail reste entre vos mains
 
 Aucun compte SetupKit n’est nécessaire. SetupKit ne reçoit pas les réponses que vous donnez à votre assistant. Les coûts, autorisations et règles de traitement des données de votre assistant s’appliquent. Demander un brouillon n’autorise pas à envoyer, publier, installer, connecter un compte ou modifier des fichiers.

@@ -18,6 +18,11 @@ Você pode começar no chat que já usa. Diga ao assistente qual ferramenta usa 
 
 Se não conseguir ler a fonte, siga as [etapas para fornecer o texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). O conteúdo que faltar deve ser solicitado, não inventado. A página [Compatibilidade e limites](docs/compatibility.md) explica o que foi verificado e o que não foi. Esses documentos de referência e o guia original estão em inglês.
 
+## Skills
+
+- [Clarify](skills/setupkit-clarify/SKILL.md): faz perguntas objetivas para esclarecer uma tarefa antes de começar.
+- [Fact Check](skills/setupkit-fact-check/SKILL.md): revisa afirmações, evidências de apoio e requisitos de mídia antes da publicação.
+
 ## Seu trabalho fica com você
 
 Não é preciso ter uma conta no SetupKit. O SetupKit não recebe as respostas que você dá ao assistente. Valem os custos, as permissões e as regras de tratamento de dados do seu assistente. Pedir um rascunho não autoriza enviar, publicar, instalar, conectar uma conta ou alterar arquivos.
