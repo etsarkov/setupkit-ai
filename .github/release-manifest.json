@@ -20,6 +20,12 @@
     "README.ja.md": "1605b5c5c91dbfef58d730c8788509f39e9ee50a4a68871ccb2058d0af86b609",
     "README.pt.md": "d046568f9443ee1531dd6247ee802717d2a8227fb98365d48cc677d47de3815d",
     "README.ru.md": "85cb403a4961cd756dba758aed4b97ccabd94f930e6565a5760772e4c3648e21",
-    "README.zh.md": "cbcb7380c55f1ffbd787f664744b4c625667fae195088ba331087826745eda05"
+    "README.zh.md": "cbcb7380c55f1ffbd787f664744b4c625667fae195088ba331087826745eda05",
+    "skills/LICENSE": "0b8a64ca9c2d333cb580f1f64c80cb120ac82d308b031718b71c8855cee900b7",
+    "skills/PROVENANCE.md": "ae66bcce6868f3ffebf30bf2a344e8f9a701846e32d0787c0eb8148a4421deee",
+    "skills/README.md": "9de88ab30b99d4ac450ec5f9c41e83dc6834768764c10bfabd078dd410435aad",
+    "skills/manifest.json": "f02069fdb6a3579d8caffb57723ce0560b79e681c0ee20013e96d498fef3cd11",
+    "skills/setupkit-clarify/SKILL.md": "da0e097e3a46e92e7a61fc340f18726b8313f2e2cab1fac3874271b169a4a326",
+    "skills/setupkit-fact-check/SKILL.md": "f21b484ac962c5784e9fb67490985c17521f931d0e753bc9b652a2c823ba711d"
   }
 }
