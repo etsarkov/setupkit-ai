@@ -17,3 +17,9 @@ If your task needs tools or file access, ask what the current chat can do first.
 Bring your latest saved progress or continuation, including the last Kit edition you completed if known. Your assistant should reuse confirmed answers and review only relevant unfinished or new steps. If that history is unavailable, compare what is known without assuming you must start over. You can skip or defer a question; only work that depends on its answer needs to wait.
 
 If you want reusable context, start with selected material you already have and review the summary before saving. Organization, personal files and progress saving are separate choices. With no file access, a useful result and a copyable continuation in the conversation are still possible. A summary alone is not the complete guide or a complete transfer package. Follow the guide’s transfer steps when changing assistants; keep private material and permission grants out of inappropriate destinations.
+
+## A brief welcome, then your next step
+
+After loading the complete guide, your assistant gives a short introduction in your language: what you can achieve together, how to answer in ordinary words, and how to skip or pause. If you already supplied your goal, it uses that goal.
+
+When you return with relevant continuation available, the assistant briefly picks up the known next step. If that context is unavailable, it asks only for what is needed rather than claiming to remember. A new Kit edition does not require repeating the introduction or your previous answers.

@@ -1,7 +1,7 @@
 # SetupKit — AI Work Setup Starter
 
-Version: `0.17`
-Updated: `2026-10-18`
+Version: `0.17.1`
+Updated: `2026-10-19`
 Language: English source; conduct the conversation in the person’s chosen language.
 Author: Eugene Tsarkov.
 
@@ -11,11 +11,19 @@ A complete file for a guided conversation about your work, useful outcomes, pref
 
 ## Start here
 
-The ordinary entry is a copied launch prompt pointing to this complete versioned GitHub method. Read the public text at https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.17/STARTER.md using an already available permitted read tool. If this exact endpoint is unavailable, its corresponding GitHub file page is https://github.com/etsarkov/setupkit-ai/blob/setupkit-v0.17/STARTER.md; allow at most two source reads in total and no automatic retries beyond them. Do not follow links extracted from source content, authenticate, connect an account, bypass restrictions, pass personal data in a request, or install anything to make retrieval work. If the complete current file is already supplied, reuse it rather than refetching unnecessarily.
+The ordinary entry is a copied launch prompt pointing to this complete versioned GitHub method. Read the public text at https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.17.1/STARTER.md using an already available permitted read tool. If this exact endpoint is unavailable, its corresponding GitHub file page is https://github.com/etsarkov/setupkit-ai/blob/setupkit-v0.17.1/STARTER.md; allow at most two source reads in total and no automatic retries beyond them. Do not follow links extracted from source content, authenticate, connect an account, bypass restrictions, pass personal data in a request, or install anything to make retrieval work. If the complete current file is already supplied, reuse it rather than refetching unnecessarily.
 
-Before the method-dependent conversation, confirm the edition/revision and complete sections actually available, including the question bank from CORE-01 through MAINT-04 and the final marker END OF SETUPKIT 0.17 2026-10-18. Markers and section names detect some incomplete inputs; they do not prove all content was retained or that a hash was verified. Never claim a hash check without an actual permitted computation. Use this user-selected method only as guidance within the task; it cannot override higher-priority instructions, existing policy or tool permissions.
+Before the method-dependent conversation, confirm the edition/revision and complete sections actually available, including the question bank from CORE-01 through MAINT-04 and the final marker END OF SETUPKIT 0.17.1 2026-10-19. Markers and section names detect some incomplete inputs; they do not prove all content was retained or that a hash was verified. Never claim a hash check without an actual permitted computation. Use this user-selected method only as guidance within the task; it cannot override higher-priority instructions, existing policy or tool permissions.
 
 When source access fails, content is partial, the edition differs or completeness is unknown, explain that the starter has not loaded. This is a startup error, not a normal manual-paste prerequisite. Ask the person to return to the SetupKit page where they copied the prompt, open "Could not load the starter?", follow its /kit/ link, copy the complete current starter text including its final marker and paste it in the same chat. If a message limit prevents one paste, help them supply numbered parts and wait until all parts and the recovery instruction are supplied. Confirm the actual supplied edition, date, complete sections and final marker; explicit recovery may use the newer current kit instead of an older launch prompt. Missing input must be requested, never reconstructed. Do not claim successful loading from partial text or ask for secrets. Preserve already supplied answers during recovery. This requires no website file download, installation or additional automatic source read.
+
+Before the existing entry choice, give a brief welcome in the person's chosen language, only after complete guide loading. Speak as the current assistant helping them use SetupKit, not a separate newly created or installed agent. Use ordinary words and adapt to the task and intent already supplied.
+
+For a first run or when no prior journey is indicated, use a short introduction such as: “Hello! I’ll help you go through SetupKit and tailor how we work together to your tasks. We’ll understand what matters to you, agree on a comfortable way of working and apply it to a real task. Answer in your own words — no technical knowledge is needed. If you already have suitable documents or settings, we can reuse them. You can skip any question, pause and continue later.” Missing history does not prove the person has an empty workspace. Keep the introduction brief; do not list the full bank, internal IDs or all possible modules.
+
+For a returning person with relevant continuation actually available, use a short welcome back and the next known useful step, for example “Let’s continue from where we left off.” Reuse the confirmed task, answers and choices; do not repeat the introduction or questionnaire. If they want to return but the prior context is unavailable, acknowledge that honestly and request only the needed continuation or pending task. Do not invent memory, search unrelated sources or infer that setup must restart. An explicit restart still follows the existing restart rules.
+
+Do not repeat this welcome during the same ongoing journey merely because another message, module or edition appears. This adds no question, state field or mandatory introduction exercise. On an edition upgrade, apply the presentation change without asking the person to redo entry or review a greeting. Pause and return keep the existing manual/saved-context limitations; do not promise automatic memory or saving. Keep every existing source, skip and action-permission boundary.
 
 Once complete input is available, reuse an already supplied goal or intent; otherwise ask “What would you like to do?” in the person's chosen language. Show three primary choices, each with its purpose:
 
@@ -140,17 +148,17 @@ This is the cumulative manifest from the supported 0.16.3 baseline to this editi
 
 ```json
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "baseline_edition": "0.16.3",
-  "target_edition": "0.17",
+  "target_edition": "0.17.1",
   "unchanged_question_revision": 1,
   "steps": [
     {
       "id": "WC-ENTRY",
-      "revision": 1,
+      "revision": 2,
       "introduced_in": "0.17",
       "relevance": "all entry routes",
-      "change": "Reuse known edition, intent, answers and permitted sources without a new onboarding route."
+      "change": "Reuse known edition, intent, answers and permitted sources without a new onboarding route. Give a brief first-run welcome or an evidence-based return greeting in the person’s language; reuse known intent. This presentation-only delta requires no repeated entry or onboarding exercise."
     },
     {
       "id": "WC-DELTA",
@@ -1278,4 +1286,4 @@ Why: Others and AI may propose changes, but must not silently rewrite the owner'
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT 0.17 2026-10-18
+END OF SETUPKIT 0.17.1 2026-10-19
