@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "0.16.3",
-  "revision_date": "2026-10-17",
-  "starter_sha256": "3745c9ea7becd748998af7d53be8ae204d70f4ae9ed31c969d8187901dee3a5e",
-  "start_prompt_sha256": "de0a3150c9fb7fbf3aceb94790101f13fc8af416fc7bc1aa2ab68a9e9f1a344d",
-  "planned_ref": "setupkit-v0.16.3",
+  "version": "0.17",
+  "revision_date": "2026-10-18",
+  "starter_sha256": "4d3f0b9cde5cefb9764a752ea9deedc7678e629b15696a45adedc7ecac0b4571",
+  "start_prompt_sha256": "bd918aa67fc152b4922ab1d2e8bc01c7e894588f5685cecbc75f96318c511468",
+  "planned_ref": "setupkit-v0.17",
   "published_at": null,
   "public_source_verified": false,
   "website_deployed": false,
@@ -14,7 +14,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "holder": "Eugene Tsarkov",
     "scope": "authored-guide-text-only",
-    "notice": "SetupKit starter guide \u00a9 2026 Eugene Tsarkov. The authored guide text is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the author and copyright notice, link to the original guide and license, and indicate changes as required by the license. No endorsement is implied. The guide is provided as-is, without warranties, as set out in the license. This grant excludes SetupKit branding, logos, website code, third-party assets and users' personal materials."
+    "notice": "SetupKit starter guide © 2026 Eugene Tsarkov. The authored guide text is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the author and copyright notice, link to the original guide and license, and indicate changes as required by the license. No endorsement is implied. The guide is provided as-is, without warranties, as set out in the license. This grant excludes SetupKit branding, logos, website code, third-party assets and users' personal materials."
   },
   "supporting_document_license": {
     "id": "CC-BY-4.0",
@@ -29,6 +29,6 @@
     ],
     "holder": "Eugene Tsarkov",
     "url": "https://creativecommons.org/licenses/by/4.0/",
-    "notice": "SetupKit supporting documentation \u00a9 2026 Eugene Tsarkov. The authored text in README.md, START_PROMPT.txt, CONTRIBUTING.md, SECURITY.md, docs/getting-started.md, docs/compatibility.md and docs/release-checklist.md is licensed under Creative Commons Attribution4.0 International (CC BY4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the supplied author, copyright, license and disclaimer notices, link to the original material and license, and indicate changes as required by the license. No endorsement is implied. The material is provided as-is under the license's warranty disclaimer. This grant covers only the owner's rights in these named texts. Website and preparation code, repository configuration, branding, third-party assets, the inactive MIT template and personal materials are excluded."
+    "notice": "SetupKit supporting documentation © 2026 Eugene Tsarkov. The authored text in README.md, START_PROMPT.txt, CONTRIBUTING.md, SECURITY.md, docs/getting-started.md, docs/compatibility.md and docs/release-checklist.md is licensed under Creative Commons Attribution4.0 International (CC BY4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the supplied author, copyright, license and disclaimer notices, link to the original material and license, and indicate changes as required by the license. No endorsement is implied. The material is provided as-is under the license's warranty disclaimer. This grant covers only the owner's rights in these named texts. Website and preparation code, repository configuration, branding, third-party assets, the inactive MIT template and personal materials are excluded."
   }
 }

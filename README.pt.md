@@ -14,9 +14,15 @@ Você pode começar no chat que já usa. Diga ao assistente qual ferramenta usa 
 
 ## Edição atual
 
-[O guia completo](STARTER.md) está na edição `0.16.3`, atualizada em `2026-10-17`. Seu assistente deve fazer perguntas relevantes, explicar por que elas importam e aproveitar as respostas que você já deu.
+[O guia completo](STARTER.md) está na edição `0.17`, atualizada em `2026-10-18`. Seu assistente deve fazer perguntas relevantes, explicar por que elas importam e aproveitar as respostas que você já deu.
 
 Se não conseguir ler a fonte, siga as [etapas para fornecer o texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). O conteúdo que faltar deve ser solicitado, não inventado. A página [Compatibilidade e limites](docs/compatibility.md) explica o que foi verificado e o que não foi. Esses documentos de referência e o guia original estão em inglês.
+
+## Organização e contexto opcionais
+
+Se for útil, você também pode organizar seu espaço de trabalho atual e preparar um pequeno conjunto de arquivos revisados sobre você, seus objetivos e seu trabalho. Comece com materiais que já tenha, como um currículo ou notas dos projetos que escolher. Você decide quais mudanças fazer; pode pular perguntas ou deixá-las para depois.
+
+Ao retomar o trabalho, forneça o progresso salvo ou o resumo para continuar, para que seu assistente possa reutilizar as respostas confirmadas e revisar as etapas pendentes ou novas que sejam relevantes. Os arquivos só são salvos com sua aprovação e com o acesso que seu assistente realmente tiver; criá-los não garante memória nem sincronização automáticas.
 
 ## Skills
 

@@ -14,9 +14,15 @@ Du kannst in deinem bisherigen Chat anfangen. Sag deinem Assistenten, welches To
 
 ## Aktuelle Ausgabe
 
-[Der vollständige Leitfaden](STARTER.md) hat die Version `0.16.3`, aktualisiert am `2026-10-17`. Dein Assistent soll passende Fragen stellen, ihre Bedeutung erklären und bereits gegebene Antworten weiterverwenden.
+[Der vollständige Leitfaden](STARTER.md) hat die Version `0.17`, aktualisiert am `2026-10-18`. Dein Assistent soll passende Fragen stellen, ihre Bedeutung erklären und bereits gegebene Antworten weiterverwenden.
 
 Kann die Quelle nicht gelesen werden, folge den [Schritten zum Übermitteln des vollständigen Textes](docs/getting-started.md#if-the-guide-cannot-be-read). Fehlende Inhalte müssen angefordert werden; sie dürfen nicht erfunden werden. Die Seite [Kompatibilität und Grenzen](docs/compatibility.md) erklärt, was geprüft wurde und was nicht. Diese Referenzdokumente und der maßgebliche Leitfaden sind auf Englisch.
+
+## Arbeitsbereich und Kontext nach Bedarf
+
+Wenn es dir hilft, kannst du auch deinen bestehenden Arbeitsbereich ordnen und einige geprüfte Dateien über dich, deine Ziele und deine Arbeit zusammenstellen. Beginne mit vorhandenen Unterlagen, etwa einem Lebenslauf oder ausgewählten Projektnotizen. Du entscheidest, welche Änderungen du möchtest; Fragen kannst du überspringen oder auf später verschieben.
+
+Wenn du weitermachst, bring deinen gespeicherten Fortschritt oder deine Zusammenfassung zum Fortsetzen mit. So kann dein Assistent bestätigte Antworten weiterverwenden und relevante offene oder neue Schritte prüfen. Dateien werden nur mit deiner Zustimmung und den tatsächlich verfügbaren Zugriffsrechten deines Assistenten gespeichert. Allein das Anlegen von Dateien garantiert weder automatische Erinnerung noch Synchronisierung.
 
 ## Skills
 
