@@ -14,7 +14,7 @@ Puedes empezar en tu chat actual. Dile a tu asistente qué herramienta usas y c�
 
 ## Edición actual
 
-[La guía completa](STARTER.md) corresponde a la edición `0.17`, actualizada el `2026-10-18`. Tu asistente debe hacer preguntas pertinentes, explicar por qué importan y reutilizar las respuestas que ya hayas dado.
+[La guía completa](STARTER.md) corresponde a la edición `0.17.1`, actualizada el `2026-10-19`. Tu asistente debe hacer preguntas pertinentes, explicar por qué importan y reutilizar las respuestas que ya hayas dado.
 
 Si no puede leer la fuente, sigue los [pasos para proporcionar el texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). El contenido que falte debe pedirse, no inventarse. La página [Compatibilidad y límites](docs/compatibility.md) explica qué se ha verificado y qué no. Estos documentos de referencia y la guía original están en inglés.
 
