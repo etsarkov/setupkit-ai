@@ -14,9 +14,15 @@ You can start in your current chat. Tell your assistant which tool you use and h
 
 ## Current edition
 
-[The complete guide](STARTER.md) is edition `0.16.3`, updated `2026-10-17`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
+[The complete guide](STARTER.md) is edition `0.17`, updated `2026-10-18`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
 
 If the source cannot be read, follow [the complete-text recovery steps](docs/getting-started.md#if-the-guide-cannot-be-read). Missing content must be requested, not invented. [Compatibility and limits](docs/compatibility.md) explain what has and has not been verified.
+
+## Optional workspace and context
+
+If useful, you can also organize your existing workspace and prepare a small set of reviewed files about you, your goals and your work. Start with material you already have, such as a CV or selected project notes. Choose which changes to make; you can skip questions or leave them for later.
+
+When you return, bring your saved progress or continuation so your assistant can reuse confirmed answers and review relevant unfinished or new steps. Files are saved only with your approval and the access your assistant actually has; creating them does not guarantee automatic memory or synchronization.
 
 ## Skills
 

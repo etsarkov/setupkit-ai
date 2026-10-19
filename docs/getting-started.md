@@ -11,3 +11,9 @@ If the website is unavailable, open [the complete guide in this repository](../S
 ## When another work mode is useful
 
 If your task needs tools or file access, ask what the current chat can do first. You can continue manually, defer the step or choose another work mode. If you move, ask for a reviewed continuation summary with the relevant answers, sources and open questions. Keep it with your own work. Do not send it to SetupKit. Reading instructions does not grant permission to install, save, send or change anything.
+
+## Return without starting over
+
+Bring your latest saved progress or continuation, including the last Kit edition you completed if known. Your assistant should reuse confirmed answers and review only relevant unfinished or new steps. If that history is unavailable, compare what is known without assuming you must start over. You can skip or defer a question; only work that depends on its answer needs to wait.
+
+If you want reusable context, start with selected material you already have and review the summary before saving. Organization, personal files and progress saving are separate choices. With no file access, a useful result and a copyable continuation in the conversation are still possible. A summary alone is not the complete guide or a complete transfer package. Follow the guide’s transfer steps when changing assistants; keep private material and permission grants out of inappropriate destinations.

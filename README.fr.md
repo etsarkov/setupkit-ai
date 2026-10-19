@@ -14,9 +14,15 @@ Vous pouvez commencer dans votre conversation actuelle. Indiquez à votre assist
 
 ## Édition actuelle
 
-[Le guide complet](STARTER.md) est à la version `0.16.3`, mise à jour le `2026-10-17`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
+[Le guide complet](STARTER.md) est à la version `0.17`, mise à jour le `2026-10-18`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
 
 S’il ne peut pas lire la source, suivez les [étapes pour fournir le texte complet](docs/getting-started.md#if-the-guide-cannot-be-read). Tout contenu manquant doit être demandé, pas inventé. La page [Compatibilité et limites](docs/compatibility.md) précise ce qui a été vérifié et ce qui ne l’a pas été. Ces documents de référence et le guide faisant autorité sont en anglais.
+
+## Organisation et contexte, si vous le souhaitez
+
+Si cela vous est utile, vous pouvez aussi organiser votre espace de travail actuel et préparer quelques fichiers relus sur vous, vos objectifs et votre travail. Partez de documents que vous avez déjà, comme un CV ou des notes sur les projets de votre choix. Vous décidez des changements à apporter ; vous pouvez passer une question ou la remettre à plus tard.
+
+Lorsque vous reprenez le travail, fournissez votre progression enregistrée ou votre résumé de reprise. Votre assistant pourra ainsi réutiliser les réponses confirmées et examiner les étapes inachevées ou nouvelles qui vous concernent. Les fichiers ne sont enregistrés qu’avec votre accord et les accès dont votre assistant dispose réellement ; leur création ne garantit ni mémoire ni synchronisation automatiques.
 
 ## Skills
 
