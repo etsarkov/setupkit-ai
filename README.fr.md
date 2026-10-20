@@ -14,7 +14,7 @@ Vous pouvez commencer dans votre conversation actuelle. Indiquez à votre assist
 
 ## Édition actuelle
 
-[Le guide complet](COMPLETE.md) est à la version `0.19.1`, mise à jour le `2026-10-20`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
+[Le guide complet](COMPLETE.md) est à la version `0.19.2`, mise à jour le `2026-10-20`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
 
 S’il ne peut pas lire la source, suivez les [étapes pour fournir le texte complet](docs/getting-started.md#if-the-guide-cannot-be-read). Tout contenu manquant doit être demandé, pas inventé. La page [Compatibilité et limites](docs/compatibility.md) précise ce qui a été vérifié et ce qui ne l’a pas été. Ces documents de référence et le guide faisant autorité sont en anglais.
 

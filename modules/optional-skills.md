@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Relevant optional skills with existing restrictions
+# SetupKit 0.19.2 · Relevant optional skills with existing restrictions
 
 Block: optional-skills. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/optional-skills/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/optional-skills/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Offer the two SetupKit skills, then respond to real needs
 
@@ -30,6 +30,6 @@ With separate save approval, put the reviewed recommendation rule in the person'
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK optional-skills 0.19.1
+END OF SETUPKIT BLOCK optional-skills 0.19.2

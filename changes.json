@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "baseline_edition": "0.16.3",
-  "target_edition": "0.19.1",
+  "target_edition": "0.19.2",
   "unchanged_question_revision": 1,
   "steps": [
     {
@@ -124,8 +124,13 @@
     }
   ],
   "release_correction": {
-    "from_edition": "0.19",
+    "from_edition": "0.19.1",
     "method_rules_changed": false,
-    "question_revision_changed": false
+    "question_revision_changed": false,
+    "correctness_fix": {
+      "id": "edition-alias",
+      "restored_semantics_from_edition": "0.19",
+      "scope": "Preserve the historical 0.19/0.19.0 alias; patch editions remain distinct."
+    }
   }
 }

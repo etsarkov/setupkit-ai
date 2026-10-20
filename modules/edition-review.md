@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Compare actual prior progress and relevant deltas
+# SetupKit 0.19.2 · Compare actual prior progress and relevant deltas
 
 Block: edition-review. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/edition-review/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/edition-review/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Keep progress across Kit editions
 
@@ -14,7 +14,7 @@ After the complete core and instructions required for the chosen route are avail
 
 Keep three edition facts separate: `last_seen_edition` (actually read), `started_edition` (work begun) and `last_completed_edition` (completion supported by review/evidence). A downloaded file, a version string, one finished module or saved profile never proves completion of the entire chosen journey. Keep unknown values unknown. All original question IDs and meanings retain revision 1, and the five question states are unchanged. Added question IDs also begin at meaning revision 1 and activate individually only for the individually relevant gaps in context-gaps. Reuse applicable confirmed answers and original provenance rather than repeating the interview.
 
-The existing short zero-patch convention applies: edition 0.17 represents numeric version 0.17.0, edition 0.18 represents numeric version 0.18.0, and edition 0.19.1 represents numeric version 0.19.0. Treat each short/full pair as the same edition for comparison; retain original recorded provenance and use only the exact canonical published tag for source retrieval. This equivalence does not invent a second URL or a completed edition.
+The existing short zero-patch convention applies: edition 0.17 represents numeric version 0.17.0, edition 0.18 represents numeric version 0.18.0, and edition 0.19 represents numeric version 0.19.0. Treat each short/full pair as the same edition for comparison; retain original recorded provenance and use only the exact canonical published tag for source retrieval. This equivalence does not invent a second URL or a completed edition.
 
 Use the same-edition edition-manifest block when a relevant comparison is needed; do not fetch arbitrary history or intermediate release URLs. For a known 0.16.3 history, review only relevant additions not already satisfied by approved equivalent work. For a same-edition return, resume the unfinished chosen step. If the actual guide or recorded step revision differs, compare only the relevant changed steps and reuse equivalent completed work; a matching edition string alone is not proof of identical source. Record an observed source revision/hash in review provenance only when actually available or computed. Unknown revision history gets a bounded comparison, never a full reset. When several editions were skipped, combine all available relevant changes since the actual completed edition, deduplicate stable step IDs, and use the latest applicable revision; do not apply only the latest patch. A later edition is not evidence that every intervening change is present in this manifest. Unknown older history, unavailable intermediate changes, newer/corrupt state or contradictory records require a bounded manual comparison of confirmed outcomes and the next relevant gap. Preserve the original and do not reset, downgrade or invent migration history.
 
@@ -31,6 +31,6 @@ Prepared 0.18 is source lineage, not evidence of a public 0.18 tag. Compare the 
 
 ## Related steps — only when relevant
 
-[edition-manifest](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-manifest.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-gaps.md). These are choices, not a required reading sequence.
+[edition-manifest](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-manifest.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-gaps.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK edition-review 0.19.1
+END OF SETUPKIT BLOCK edition-review 0.19.2

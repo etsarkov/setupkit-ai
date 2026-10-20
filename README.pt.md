@@ -14,7 +14,7 @@ Você pode começar no chat que já usa. Diga ao assistente qual ferramenta usa 
 
 ## Edição atual
 
-[O guia completo](COMPLETE.md) está na edição `0.19.1`, atualizada em `2026-10-20`. Seu assistente deve fazer perguntas relevantes, explicar por que elas importam e aproveitar as respostas que você já deu.
+[O guia completo](COMPLETE.md) está na edição `0.19.2`, atualizada em `2026-10-20`. Seu assistente deve fazer perguntas relevantes, explicar por que elas importam e aproveitar as respostas que você já deu.
 
 Se não conseguir ler a fonte, siga as [etapas para fornecer o texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). O conteúdo que faltar deve ser solicitado, não inventado. A página [Compatibilidade e limites](docs/compatibility.md) explica o que foi verificado e o que não foi. Esses documentos de referência e o guia original estão em inglês.
 
