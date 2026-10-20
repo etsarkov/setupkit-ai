@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Resume the actual selected goal
+# SetupKit 0.19.1 · Resume the actual selected goal
 
-Block: return-route. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/return-route/
+Block: return-route. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/return-route/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Outcome and invariants
 
@@ -38,6 +38,6 @@ Mandatory invariants:
 
 ## Related steps — only when relevant
 
-[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/checkpoint.md). These are choices, not a required reading sequence.
+[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/checkpoint.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK return-route 0.19
+END OF SETUPKIT BLOCK return-route 0.19.1

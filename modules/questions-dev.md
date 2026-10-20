@@ -1,10 +1,10 @@
-# SetupKit 0.19 · DEV question definitions (individual activation only)
+# SetupKit 0.19.1 · DEV question definitions (individual activation only)
 
-Block: questions-dev. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-dev/
+Block: questions-dev. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-dev/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -64,4 +64,4 @@ Why: Each release or external action requires its own exact approval by default.
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-dev 0.19
+END OF SETUPKIT BLOCK questions-dev 0.19.1

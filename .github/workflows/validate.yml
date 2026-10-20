@@ -39,6 +39,12 @@ jobs:
                   assert re.fullmatch('[a-f0-9]{64}', expected)
                   assert hashlib.sha256(payload[name]).hexdigest() == expected, 'Content mismatch: ' + name
               release = json.loads(payload['release.json'])
+              assert release['schema_version'] == 2
+              assert not {'published_at', 'public_source_verified', 'website_deployed', 'supported_hosts_verified'} & release.keys()
+              assert release['publication_status_url'] == 'https://api.github.com/repos/etsarkov/setupkit-ai/releases/tags/' + release['planned_ref']
+              edition_line = 'Edition: ' + release['version'] + '. Updated: ' + release['revision_date'] + '.'
+              assert edition_line in payload['STARTER.md'].decode()
+              assert edition_line in payload['COMPLETE.md'].decode()
               assert hashlib.sha256(payload['STARTER.md']).hexdigest() == release['starter_sha256']
               assert hashlib.sha256(payload['START_PROMPT.txt']).hexdigest() == release['start_prompt_sha256']
               assert ('END OF SETUPKIT CORE ' + release['version'] + ' ' + release['revision_date']) in payload['STARTER.md'].decode()

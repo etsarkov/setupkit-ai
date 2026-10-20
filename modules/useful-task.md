@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Do a useful task with sufficient context and capability
+# SetupKit 0.19.1 · Do a useful task with sufficient context and capability
 
-Block: useful-task. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/useful-task/
+Block: useful-task. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/useful-task/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Explain a task's requirements early
 
@@ -29,6 +29,6 @@ Optional save: reread exact target, show path and full proposed content/delta, e
 
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK useful-task 0.19
+END OF SETUPKIT BLOCK useful-task 0.19.1

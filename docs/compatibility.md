@@ -20,3 +20,11 @@ Edition 0.18 adds optional review and agreed placement of selected incoming mate
 ## Edition 0.19: modular delivery
 
 The start prompt includes the compact core. Additional same-edition sections are loaded only when needed; exact text remains available for manual copying. Returning users can supply the existing chat or a saved checkpoint. A website link does not carry personal progress, grant permissions or prove that earlier steps were completed. Selected 0.19 scenarios were checked with fictional data in ChatGPT, Codex and Claude: requesting missing instructions and working with supplied instructions. Codex checks also covered continuation. These limited checks do not guarantee every scenario, successful URL access in every chat or future model behavior.
+
+## Edition 0.19.1: date and metadata correction
+
+Edition 0.19.1 corrects the edition date to 2026-10-20 and updates versioned links
+and integrity metadata. Method rules, question definitions and permission
+boundaries are unchanged from 0.19. The assistant observations described above
+were made on 0.19; no new 0.19.1 model tests are claimed. The correction is checked
+for instruction equivalence, dates, hashes and versioned-reader behavior.
