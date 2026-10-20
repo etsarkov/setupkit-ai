@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Cumulative method changes; no permission or completion evidence
+# SetupKit 0.19.2 · Cumulative method changes; no permission or completion evidence
 
 Block: edition-manifest. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/edition-manifest/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-review.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/edition-manifest/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Cumulative changes
 
@@ -14,7 +14,7 @@ This is method metadata, not user progress or authority.
 {
 "manifest_version": 3,
 "baseline_edition": "0.16.3",
-"target_edition": "0.19.1",
+"target_edition": "0.19.2",
 "unchanged_question_revision": 1,
 "steps": [
 {
@@ -139,4 +139,4 @@ This is method metadata, not user progress or authority.
 }
 ```
 
-END OF SETUPKIT BLOCK edition-manifest 0.19.1
+END OF SETUPKIT BLOCK edition-manifest 0.19.2

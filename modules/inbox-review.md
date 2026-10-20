@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Review the clear items together; leave uncertainty visible
+# SetupKit 0.19.2 · Review the clear items together; leave uncertainty visible
 
 Block: inbox-review. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/inbox-review/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/inbox-review/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Review the clear items together; leave uncertainty visible
 
@@ -19,6 +19,6 @@ Placement review, confirmation of a statement, and permission to write are disti
 
 ## Related steps — only when relevant
 
-[inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-apply.md). These are choices, not a required reading sequence.
+[inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-apply.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-review 0.19.1
+END OF SETUPKIT BLOCK inbox-review 0.19.2

@@ -14,7 +14,7 @@ Du kannst in deinem bisherigen Chat anfangen. Sag deinem Assistenten, welches To
 
 ## Aktuelle Ausgabe
 
-[Der vollständige Leitfaden](COMPLETE.md) hat die Version `0.19.1`, aktualisiert am `2026-10-20`. Dein Assistent soll passende Fragen stellen, ihre Bedeutung erklären und bereits gegebene Antworten weiterverwenden.
+[Der vollständige Leitfaden](COMPLETE.md) hat die Version `0.19.2`, aktualisiert am `2026-10-20`. Dein Assistent soll passende Fragen stellen, ihre Bedeutung erklären und bereits gegebene Antworten weiterverwenden.
 
 Kann die Quelle nicht gelesen werden, folge den [Schritten zum Übermitteln des vollständigen Textes](docs/getting-started.md#if-the-guide-cannot-be-read). Fehlende Inhalte müssen angefordert werden; sie dürfen nicht erfunden werden. Die Seite [Kompatibilität und Grenzen](docs/compatibility.md) erklärt, was geprüft wurde und was nicht. Diese Referenzdokumente und der maßgebliche Leitfaden sind auf Englisch.
 

@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Connect another assistant using actual capabilities
+# SetupKit 0.19.2 · Connect another assistant using actual capabilities
 
 Block: assistant-attach. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/assistant-attach/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/assistant-attach/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Connect another AI tool to an existing setup
 
@@ -25,6 +25,6 @@ Keep an attachment record with target identity/surface, entry and source referen
 
 ## Related steps — only when relevant
 
-[transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-preview.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
+[transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-preview.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK assistant-attach 0.19.1
+END OF SETUPKIT BLOCK assistant-attach 0.19.2

@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · Ask only useful remaining gaps
+# SetupKit 0.19.2 · Ask only useful remaining gaps
 
 Block: context-gaps. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/context-gaps/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/context-gaps/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Ask only the remaining useful gaps
 
@@ -24,6 +24,6 @@ Use the existing five question states and include every newly activated asked ID
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-ledger.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-gaps 0.19.1
+END OF SETUPKIT BLOCK context-gaps 0.19.2

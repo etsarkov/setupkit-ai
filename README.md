@@ -14,7 +14,7 @@ You can start in your current chat. Tell your assistant which tool you use and h
 
 ## Current edition
 
-[The complete guide](COMPLETE.md) is edition `0.19.1`, updated `2026-10-20`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
+[The complete guide](COMPLETE.md) is edition `0.19.2`, updated `2026-10-20`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
 
 If the source cannot be read, follow [the complete-text recovery steps](docs/getting-started.md#if-the-guide-cannot-be-read). Missing content must be requested, not invented. [Compatibility and limits](docs/compatibility.md) explain what has and has not been verified.
 

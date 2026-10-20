@@ -1,7 +1,7 @@
 {
   "schema": "setupkit.distribution/1",
-  "edition": "0.19.1",
-  "numeric_version": "0.19.1",
+  "edition": "0.19.2",
+  "numeric_version": "0.19.2",
   "updated": "2026-10-20",
   "packaging": "compact-core-and-phase-blocks",
   "state_schema_version": 1,
@@ -9,11 +9,11 @@
   "question_count": 103,
   "core": "STARTER.md",
   "complete": "COMPLETE.md",
-  "public_tag": "setupkit-v0.19.1",
-  "raw_root": "https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/",
-  "reader_root": "https://setupkit.ai/kit/0.19.1/",
-  "core_sha256": "7d6b8e92fe6e9c2dad7eccf2c7a60ca65c68d031b772a0cef52d99a35a0bb857",
-  "complete_sha256": "15cef374bcc96f10936d5145f9a3f09bd34c928c33cb16fe60fe2d70182b264f",
+  "public_tag": "setupkit-v0.19.2",
+  "raw_root": "https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/",
+  "reader_root": "https://setupkit.ai/kit/0.19.2/",
+  "core_sha256": "f5ad42174c8c0d26710c578aa8f1b89cc3a832ad10c2b346ee1d0b779f77608f",
+  "complete_sha256": "c0fd98b1ec287c7458594ee3894f8e644887cfaeb9362b24519586dcdec3f340",
   "baseline_sha256": "121659a585931b16c1401506eb5cc1e835e940736d6c5915d107b18e21a92049",
   "body_byte_budget": 6144,
   "block_count": 46,
@@ -24,8 +24,8 @@
       "path": "modules/context-input.md",
       "title": "Use chosen personal material",
       "bytes": 5376,
-      "sha256": "83fb21113793d4b8066598348fb141d3ca70c005060e035f2a704fbc66fdb39b",
-      "body_sha256": "570ceafcb0204aeb91fe6b8bd9d40ed7d7b56ca2bb8877a4103b262461720d81",
+      "sha256": "dfc2cb09dd9b200c9a9395773673050922e33a24e4eba423ee9ec49e7a0f2a52",
+      "body_sha256": "ecb2cdeca5ba9307ef331e9bc3acb11c4dd86e2d50228a14a54ad4d86e8d8eb7",
       "required_instruction_units": [
         "core"
       ],
@@ -39,8 +39,8 @@
       "path": "modules/project-overview.md",
       "title": "Review only selected projects",
       "bytes": 4140,
-      "sha256": "f6a8b2f420b3ed8f9fc88cf9a09a580bea3ead6fe213c125d69f59f434d52334",
-      "body_sha256": "d4818beeb17a7c2f93325d2d8ab7371fe3d8a4a86414cbf38b36b02cb68808e9",
+      "sha256": "313bda68d56f409f1f5b3b50a03b0c381e8a1884914abcd9d437df433bcf7d4d",
+      "body_sha256": "ebcd11458cffb802c8ec7cfc94d86e025d80f481da7453b7d86c6b103ddc177f",
       "required_instruction_units": [
         "core"
       ],
@@ -54,8 +54,8 @@
       "path": "modules/question-dialogue.md",
       "title": "Ask needed questions and preserve their meaning",
       "bytes": 5822,
-      "sha256": "84de25490a9304c382b1e760b97c65b161f86a83dcccdff765972b9d73917231",
-      "body_sha256": "e0420a3286a40412be474d5de272f48ab326404f8c208e79d94bc21b583ba3ab",
+      "sha256": "5e076c2528000ecfbe74d7425d124344b7a52e7dfeb57093e54fb2e1c499707a",
+      "body_sha256": "281a6cd4bad692bc2d3d72f8f888c1d676be6e6088fd44fec7154c05d61811f5",
       "required_instruction_units": [
         "core"
       ],
@@ -69,7 +69,7 @@
       "path": "modules/question-ledger.md",
       "title": "Compute and display honest progress",
       "bytes": 3674,
-      "sha256": "2a4960d29b0ade68c7a8fc61c190aa78137cdd0cac9ae9bc827a931f58f9e136",
+      "sha256": "bf0fc85835e0733fd6a196b0af82ffe5bc4c9d472c12fea505009bad34283556",
       "body_sha256": "ea8c1ebb30dff9f891037a35275e32aeb3be1351eb5f9b3d33227917111c4027",
       "required_instruction_units": [
         "core"
@@ -86,8 +86,8 @@
       "path": "modules/context-records.md",
       "title": "Review useful context files",
       "bytes": 5623,
-      "sha256": "b477da06760168d5aab53a67a229dc3a83838f24100703fe57a62a04ace707fd",
-      "body_sha256": "7a7d72f3c9201d59313b22f6e05b2efcb127f0f6b4694225c4f47baa6a42fb7a",
+      "sha256": "7095819743d0a39cd9bae69d9575db6a836af66e0b9ef78ff84400371d1e410e",
+      "body_sha256": "71ab5fc089eb1af5938b7eb87a3a568ddfdabd073cc10f9c89cdd26d45b5d7e8",
       "required_instruction_units": [
         "core"
       ],
@@ -103,8 +103,8 @@
       "path": "modules/context-gaps.md",
       "title": "Ask only useful remaining gaps",
       "bytes": 4765,
-      "sha256": "fd2ffd79b7317bc64a4ee2c405fbaab66e541a88b2a663fd7a43fff9b940263d",
-      "body_sha256": "2b03e099eaa1254d4a234b946a7774fd46d3580859075c9472f93527cf99ef7b",
+      "sha256": "8b1743f0d1aeeea44b2f25de7ec7c7c332cf7f350f3a41d5bd326eecadb9e613",
+      "body_sha256": "2ca1f58339ccb24bd5b34b3f17b05fc0a74674ba2e138362305919f595f75466",
       "required_instruction_units": [
         "core",
         "question-dialogue"
@@ -119,8 +119,8 @@
       "path": "modules/workspace-layout.md",
       "title": "Review optional organization",
       "bytes": 4892,
-      "sha256": "395bddbc5eabb19d9ccbaf23a9619a628286e0412725977bcbdf0f220c2acf5b",
-      "body_sha256": "13bf35e9e887a4eddf8a7170bad3febaff19409ad0b87f5d843aeb77d0e4de6e",
+      "sha256": "d9e9f69f9101ee410e6e726945e792dddd1934d4ad0bf1a107e525f7ae7365e9",
+      "body_sha256": "95efdb557756d487ce2311a538e19c5f44c02bca6899b2eb35eacd67c859b599",
       "required_instruction_units": [
         "core"
       ],
@@ -134,8 +134,8 @@
       "path": "modules/inbox-intake.md",
       "title": "Select a useful, permitted batch",
       "bytes": 3949,
-      "sha256": "565fbb2dadd0f3e5e557803e409735e275f8f766904cf9968f5166e1856767f5",
-      "body_sha256": "d82e11454647b969eefc21accacb83036a3e2af2e6bfcd2a91752deca5bde6d9",
+      "sha256": "b2ebc8548ca1ee4400e6bbccdb19a5e2660beeeddcb6d233a6c2a38572fb312e",
+      "body_sha256": "aedf2c3bda01437d0ddc88afbe4c98f262735531df1e6b6cd803d358e35bc30d",
       "required_instruction_units": [
         "core"
       ],
@@ -149,8 +149,8 @@
       "path": "modules/inbox-proposal.md",
       "title": "Propose one home and a useful next step",
       "bytes": 4169,
-      "sha256": "2599b72990b84f5044f310373b1fd324ee61d0e82e9d4494e3d78c5511c66eb8",
-      "body_sha256": "d55aa4eef322e06a97c8c2f69ee6d4a20ee22cfe23704c3839101bb067f2b8eb",
+      "sha256": "9bbd51d87a2e459563e481078f1370f0ae4942898e9a38968d23109806a0dda7",
+      "body_sha256": "739b961dbec34c1bfcb39298e8ae6ed6f1b87fce7f97f37e581aeb2b7860e82e",
       "required_instruction_units": [
         "core"
       ],
@@ -166,8 +166,8 @@
       "path": "modules/inbox-review.md",
       "title": "Review the clear items together; leave uncertainty visible",
       "bytes": 3311,
-      "sha256": "2695db5d26d42d3b52b9c48534bd763ffa576bb87f123fa37bafe67455a98a5b",
-      "body_sha256": "50ee3619cf04f689d6cc4ec7196724ccc08e53efdbc067a46dabf384c272afa1",
+      "sha256": "359be270032cb3a69893ca0fcc10e6f3342150d67f7d4f433678d54d62445a0d",
+      "body_sha256": "ef1d15ed0eddb81acdbdaad6c4ef22c34727cb1ea079f802d7e81829e9c97107",
       "required_instruction_units": [
         "core"
       ],
@@ -183,8 +183,8 @@
       "path": "modules/inbox-apply.md",
       "title": "Apply only supported actions and verify what happened",
       "bytes": 4699,
-      "sha256": "097c3b671989a3e37485c98336fd18033d51e29af051393a169fcec268fad86c",
-      "body_sha256": "57336c83327b9856bcab5f0dcd7f035ee5bf4e1002a5ba3eaeb9eafe1b527f56",
+      "sha256": "a100c66a9b74f8328f74c99c457e87cf46c4153559c15bd2f00951ff58700c74",
+      "body_sha256": "062e40dd57ef87c678833508cd9095cbed98538711d1a825834ad72e12670fac",
       "required_instruction_units": [
         "core",
         "inbox-review"
@@ -203,8 +203,8 @@
       "path": "modules/inbox-return.md",
       "title": "Keep a useful continuation without another interview",
       "bytes": 3565,
-      "sha256": "8c18f1d81103e9954309d7c9bd67b6839501ba9c2c9aa62843c21c34df7dd625",
-      "body_sha256": "7d388a43f2f4268e83c355bbe730c57d5c5aa11d832d8ac642bfd3cb448cd128",
+      "sha256": "954fd557ab5f5ad52b3360a0963a7f75158542dd277c0618432c6813ac34a979",
+      "body_sha256": "dcd2a57980f8fe0dd6316a912fe28f95d8348c9af915fdc2117d171ecb100fcf",
       "required_instruction_units": [
         "core"
       ],
@@ -220,8 +220,8 @@
       "path": "modules/useful-task.md",
       "title": "Do a useful task with sufficient context and capability",
       "bytes": 5779,
-      "sha256": "e2b3d4aae7574d553a3028ff1d25c16027e1ab2e1fd0544fee32432182486dd1",
-      "body_sha256": "de045ebb43083f79ad90c7342b56e5140886546841368e7e0f21ea00b79ed6ae",
+      "sha256": "2a032add42d9f859a6f0f0bead199bd4f24b4367ce2f286b330c363dd98bbb97",
+      "body_sha256": "4427e4fcd933e69a302b7f63aee2c81a2e40430361b5dd0e213c94b88334785a",
       "required_instruction_units": [
         "core"
       ],
@@ -235,8 +235,8 @@
       "path": "modules/optional-skills.md",
       "title": "Relevant optional skills with existing restrictions",
       "bytes": 5986,
-      "sha256": "9d2ad2ba373e375458b61d79a59e247c7ef62f421410b6cae9dc969a2a895a27",
-      "body_sha256": "3430dfabba5c91042a30259da2d656b8dcbd289e27f48bbd65aa027f6f8459a9",
+      "sha256": "23104212c61a0d1e72f00fe75a638d835b5d6c4101619ce5d91b119f1bbd17ad",
+      "body_sha256": "168786f5b493c9d37fd2cc96ef5a837a0703aae873362c1c337863ddfb504a92",
       "required_instruction_units": [
         "core"
       ],
@@ -250,8 +250,8 @@
       "path": "modules/assistant-switch.md",
       "title": "Review a voluntary change of assistant",
       "bytes": 2524,
-      "sha256": "ee6a44271a07a73d6a1988a4957102044d0c81cf700b99383a38190773aa92b4",
-      "body_sha256": "c8703de47e3492e07bd6adf34b87cded811841cad717c4219d7d8316f4988e96",
+      "sha256": "bc12b40a7a132eac2b6724e3b9432865b1994423f8b55bca391b2784601aeddb",
+      "body_sha256": "1ca9f12787c20e01351a9ac1271bb5cf87c5f4b475d4498c722fffca163b4354",
       "required_instruction_units": [
         "core"
       ],
@@ -265,8 +265,8 @@
       "path": "modules/transfer-preview.md",
       "title": "Review the personal continuation content",
       "bytes": 4022,
-      "sha256": "407f241ffad69cd451eb933df4b10a5d4883c4df025430c466e6f683026a8039",
-      "body_sha256": "f6d1c36a5b8db60f5e1abfbe23bc0cc2d30cf912d3452e622918ffedbcdff9e0",
+      "sha256": "8608f3e70d0de293dc24e72d82844b31a8f9d1ac1c3951ee6f3f6c5eed6a23a1",
+      "body_sha256": "75c44f90de6633333019884ef1dcb73f79800690ff472923aac758c0a430cd29",
       "required_instruction_units": [
         "core",
         "question-ledger",
@@ -284,8 +284,8 @@
       "path": "modules/transfer-assembly.md",
       "title": "Assemble exact complete-method continuation",
       "bytes": 3712,
-      "sha256": "bcf17c53a27bf98d45cb4356aab63b3a0e8ec37db99f38bfe46acc78a780372c",
-      "body_sha256": "a611db12842fae688b28ed3350ac67b5bfa4cd9a07e176a11706bd93345672b2",
+      "sha256": "6a02d9c902db135fca138360b6cdac814d714e75b28f6ea13c2efa44fe6d523b",
+      "body_sha256": "fedc56126c085465d827a4be7340676f135f78f2a8adfc15357dd8654d9d0254",
       "required_instruction_units": [
         "core",
         "transfer-preview"
@@ -303,8 +303,8 @@
       "path": "modules/transfer-receive.md",
       "title": "Receive and reuse actual continuation",
       "bytes": 3331,
-      "sha256": "94918813c41f26c1c8afcb1623c45d0eac002dff413cf8b610fc2b1afd4af12d",
-      "body_sha256": "c038cafdf273ff03eeb4cfd5001eaf0c90e08390af095ec79f1a2fe71bcc04eb",
+      "sha256": "728540691bd807202f7652e31dd397b8a2e3e962c23ad2158cb0c1fa2905bf67",
+      "body_sha256": "32b2a70111778006dddbd6984a7e11f88c41b7cf730684a22678f36adae3197d",
       "required_instruction_units": [
         "core"
       ],
@@ -318,8 +318,8 @@
       "path": "modules/pause-return.md",
       "title": "Pause or continue without false saved-state claims",
       "bytes": 4073,
-      "sha256": "275935ca61e387fc78cc54fdfd463faf1cc2d6bc8e28b745d02c7ce69d75cad5",
-      "body_sha256": "0d91d555176e2c93d0e3e981f1e9a1701a746c1ded462a43ca7e53bf09dba9a2",
+      "sha256": "57869a293d22125e104bbb2a2562aec35ba6bbf77f605d50f62c1806212cde7a",
+      "body_sha256": "5febcd3dd448ed35c26f8c5eaddf3f3d3bd6572cd1e195c32643882018276377",
       "required_instruction_units": [
         "core",
         "checkpoint"
@@ -334,8 +334,8 @@
       "path": "modules/save-progress.md",
       "title": "Save approved state and verify the result",
       "bytes": 4967,
-      "sha256": "fdb937c4bb9784f6a1c277c2879eaed62af7a3199847248f3537f029e60201e8",
-      "body_sha256": "a226d1244e5cb0e8a2a94a10580aac168235f61bbfccfb4ac75dcd07d1a6bee4",
+      "sha256": "59b9309b7335fc70446239d1cb0fc15f478e35c2282f3fdd53c0253876472153",
+      "body_sha256": "039d1b70b63d645ccd67404eb7e1567063964a2e72f26edf4c9b6cd400f8a109",
       "required_instruction_units": [
         "core",
         "question-ledger",
@@ -353,9 +353,9 @@
       "module": "M00",
       "path": "modules/edition-review.md",
       "title": "Compare actual prior progress and relevant deltas",
-      "bytes": 5756,
-      "sha256": "3d4f8fcd77bce16c2367312be041c1df11b08726eca3068ee2b4c34c61f7e38a",
-      "body_sha256": "acea52e7503f6d0826e500f8237f40e5deadec94b84b875e24f9cf5153519f2f",
+      "bytes": 5754,
+      "sha256": "b4a11b65e4b07d6937d741aead7fc7bb1526d28505b130fd0104214bc7aee26b",
+      "body_sha256": "6d7faed12cb8c2753a4cfcf4fdec4c2f11acb7aaece7f7dac1831a8cd44ff8bb",
       "required_instruction_units": [
         "core"
       ],
@@ -369,8 +369,8 @@
       "path": "modules/edition-manifest.md",
       "title": "Cumulative method changes; no permission or completion evidence",
       "bytes": 6144,
-      "sha256": "aa398f30a49db0f8d747ed6760c5f399e485646c28d8fdf318b9a4d2b360b288",
-      "body_sha256": "d3c234635a0633446289136e8a738365fd370d47c7d9f9f828b90c05df85d6ab",
+      "sha256": "0e5b68c61160109091e56eaf7f3c06cc0d0a0c16ae028e6011af4574f6538472",
+      "body_sha256": "236a3e2d44c26cd416b5b598c84f089ddc779c87ff9ab358f51345dfcadcaa52",
       "required_instruction_units": [
         "core",
         "edition-review"
@@ -385,7 +385,7 @@
       "path": "modules/questions-core.md",
       "title": "CORE question definitions (individual activation only)",
       "bytes": 2643,
-      "sha256": "a12952af5b2bd1a8f887b31da5851442d2c7706285151070b52a1b24703bc729",
+      "sha256": "9859d76adac85ebc5c32948592db15bf6bf69fa0ba56f408b2c1a7b42f776b2a",
       "body_sha256": "b572fa6fc84b0b005e4fa4a4253f91e1ba33f0ae3e7951a2108395d06d35388b",
       "required_instruction_units": [
         "core",
@@ -407,7 +407,7 @@
       "path": "modules/questions-ctx.md",
       "title": "CTX question definitions (individual activation only)",
       "bytes": 3572,
-      "sha256": "0ebb46421afa31e2181baf0f5c9a03039315da17724422bbdaa1f417afd38b41",
+      "sha256": "43323f173015ac86f927d1e2f1fa3e179688ef7ec12a32c9ccb66a22121d9e48",
       "body_sha256": "10e92467ada5dfb9dbc3e36c3002616263eb8b616fed927580491edab7c59139",
       "required_instruction_units": [
         "core",
@@ -427,7 +427,7 @@
       "path": "modules/questions-goal.md",
       "title": "GOAL question definitions (individual activation only)",
       "bytes": 4268,
-      "sha256": "14e666ee821da5dfac4a6ca2cce235ab5b0c84c1dfe32a34bec18644958db818",
+      "sha256": "739ac0bd51189315311072a3bf06cc9875909fbf19819a95c35e715cfcc5d962",
       "body_sha256": "bd39db0849baf094017db12032b60e8e652cb4ae9cb5aae532de82172bafe7f0",
       "required_instruction_units": [
         "core",
@@ -451,7 +451,7 @@
       "path": "modules/questions-comms.md",
       "title": "COMMS question definitions (individual activation only)",
       "bytes": 2634,
-      "sha256": "f44fa922109bf0ad64ba5c6dd27a2d523fedbf4f97c5c9ad37b50d4745044bc3",
+      "sha256": "4a50a65f0b20505fb0cc9739a168c0003a54853922d34f8c8ab6308fb3eaa8fb",
       "body_sha256": "0b36b2ad58e342c585e0a9d05dfd876a88844506d8ee06cc236711a1f9573224",
       "required_instruction_units": [
         "core",
@@ -474,7 +474,7 @@
       "path": "modules/questions-auth.md",
       "title": "AUTH question definitions (individual activation only)",
       "bytes": 3049,
-      "sha256": "aa62d240a6566e52acb4ec4913e35cd997c832a7dd8fe91014e68f86697d1784",
+      "sha256": "0db6bb527079470e4181c8b2e3c47d734790fa1cd8be609b887e64c1b5b275d1",
       "body_sha256": "fda408c1d49ffd1a1119eb458063adcf248b40773f2093e8d8a12bd50b5a6345",
       "required_instruction_units": [
         "core",
@@ -498,7 +498,7 @@
       "path": "modules/questions-data.md",
       "title": "DATA question definitions (individual activation only)",
       "bytes": 2919,
-      "sha256": "552a7560b5b394e799b9e02fd166843c2efd9100949c70cb00cae0ff722ccc54",
+      "sha256": "cebe18017cb3dccff7e0059518af6595ea9fe2ac951e85ccdb20816be34bff48",
       "body_sha256": "2eab5fd054f93c92d5ebf8b4ed198b6cc0a1cd282ef7e08cf122c0d5f0371423",
       "required_instruction_units": [
         "core",
@@ -522,7 +522,7 @@
       "path": "modules/questions-work.md",
       "title": "WORK question definitions (individual activation only)",
       "bytes": 3631,
-      "sha256": "5cc76227034f29437b157b996a2a701ed5a746585bb618921629e09b06d93691",
+      "sha256": "89be199fe38d10d55c8dc98e6ddc401b37c096ea34a78692a7a5f70bbfc22e52",
       "body_sha256": "2bc96c764ca5bf9b9306df6d0cbf0db3b463c28cd6b02eda5cdc996d5eb000cc",
       "required_instruction_units": [
         "core",
@@ -546,7 +546,7 @@
       "path": "modules/questions-now.md",
       "title": "NOW question definitions (individual activation only)",
       "bytes": 1812,
-      "sha256": "5a3a18d57c2336a8a6e259e5d8ecad060da2f9f108b977886863950ec4eb3b7a",
+      "sha256": "17f77bf642791fb47e1a7d6c233ea3d8c95280ff783b39ace0a98f5057bb61b5",
       "body_sha256": "64d5737ed99415d80fd68867017286dd663a57889ae4ca30b77e9eb70b13eb78",
       "required_instruction_units": [
         "core",
@@ -564,7 +564,7 @@
       "path": "modules/questions-org.md",
       "title": "ORG question definitions (individual activation only)",
       "bytes": 4166,
-      "sha256": "0f4ae625bd9d97d9832b4459f38fff98fe6c2012ea42eec4189f3e4b758f1b5e",
+      "sha256": "3330f87dd0bc7e3e1ae0f3ce98dc23b080e4bfdbafeeef13ef014e688e3f2015",
       "body_sha256": "22a174313bc8fbbaf16eacbf4038bf85a2d43227e2f583a3ba727845f554e283",
       "required_instruction_units": [
         "core",
@@ -593,7 +593,7 @@
       "path": "modules/questions-org-portfolio.md",
       "title": "ORG-portfolio question definitions (individual activation only)",
       "bytes": 3657,
-      "sha256": "d9d313761ec64a93f0d1ff142eb87a4d3a88f38523294acabce2b5eeeda6538e",
+      "sha256": "81af571d28b1941c055e5f0104a7e827c8f2b8e495fb63dc049688e87ca6cf44",
       "body_sha256": "f242d9ebd765718d379a38f8d6240f4f50ee07b424f5cb95cae7f5f828ed9f2c",
       "required_instruction_units": [
         "core",
@@ -613,7 +613,7 @@
       "path": "modules/questions-res.md",
       "title": "RES question definitions (individual activation only)",
       "bytes": 2895,
-      "sha256": "3106b0e3c13056f2566f68a4acd2f6e71458b8c2ab7c73702f6034d4d9d1e684",
+      "sha256": "8ffca0d0e38cb0d568de146a3eb2d7985a99c35ecf6774e1f9b22b738e5b7971",
       "body_sha256": "fea3ca57988c06b4ef0774a2bc681a5996848eab4d2d48efb017e65b3a13465a",
       "required_instruction_units": [
         "core",
@@ -638,7 +638,7 @@
       "path": "modules/questions-content.md",
       "title": "CONTENT question definitions (individual activation only)",
       "bytes": 2812,
-      "sha256": "02941b9d3724af396304651014dd6cae04da7b9896d672df20162bae330d892b",
+      "sha256": "24220acaafbee9058e726dbdaec62df8fdf8eb432cb0a26edd1ecd67a7c3c6e6",
       "body_sha256": "90aac072ce79cd77f3eb6cecf5d42192d2c403d3f6f27f8e14999b56fb9a56fd",
       "required_instruction_units": [
         "core",
@@ -662,7 +662,7 @@
       "path": "modules/questions-prod.md",
       "title": "PROD question definitions (individual activation only)",
       "bytes": 2684,
-      "sha256": "8327084a0a3ed30f2d716fa77e359d99b6152146c5c729cc3b4f315b8c4ad70c",
+      "sha256": "5b5b187d3a23401eaa4b40493e4e0005e72314a1e09666948a58e77107d7dde1",
       "body_sha256": "0f7ae342c6d56150eb22457624f200429cc3660f1d79d2585595c97bc7b0cd17",
       "required_instruction_units": [
         "core",
@@ -686,7 +686,7 @@
       "path": "modules/questions-dev.md",
       "title": "DEV question definitions (individual activation only)",
       "bytes": 2688,
-      "sha256": "0de86c86e01be6c1751b5e444b7c3f84061747cfdbc95f740833de76be46dbd9",
+      "sha256": "f06917174d523880f1962f6c62769af90691c3ac3103bb6dd275252d804f36f1",
       "body_sha256": "bd70fcb8ef957010105a0c2c2d16f891296e021566b7a4f39edb5cf0e4d0b721",
       "required_instruction_units": [
         "core",
@@ -710,7 +710,7 @@
       "path": "modules/questions-tools.md",
       "title": "TOOLS question definitions (individual activation only)",
       "bytes": 2235,
-      "sha256": "990500a582da484cb715f985d78b03df7c7fcc0a28cc4006d29ea2be45bc2212",
+      "sha256": "52bd528923e964f3e898427e41e0a2a2173345eeafa9a2ca5e91d8a873149bfd",
       "body_sha256": "32962a8a88786d01e81626f92bb869a1aef863219987e8a32ff1f9b6a0aa82be",
       "required_instruction_units": [
         "core",
@@ -732,7 +732,7 @@
       "path": "modules/questions-rem.md",
       "title": "REM question definitions (individual activation only)",
       "bytes": 2505,
-      "sha256": "be9e1ac14635867caea3bb9a2505536acc7c7269548e360822166543a4b3f952",
+      "sha256": "f6bd94ce89cfe1cd485af5d6137cb20914e5698b549ce6b900fae3192b040264",
       "body_sha256": "5d325458cff31ac5967e06ecdd2802a8a60bcb5a1f93df55d84e70de1adef836",
       "required_instruction_units": [
         "core",
@@ -756,7 +756,7 @@
       "path": "modules/questions-maint.md",
       "title": "MAINT question definitions (individual activation only)",
       "bytes": 1878,
-      "sha256": "df0b1cf4dfb12dde54773693768f837356aea24a3d2689ee9c29e37f79c061db",
+      "sha256": "4b71eb93244756d9b9b9bd684e0f3641b16a42d3c48eeee87d4b5a90f03aa38c",
       "body_sha256": "90a9e0fa111b60935f0026f4a5c94a709bda15b91ffdd8c68178f57d6dd4faec",
       "required_instruction_units": [
         "core",
@@ -777,8 +777,8 @@
       "path": "modules/entry-details.md",
       "title": "Choose or reuse the entry and welcome",
       "bytes": 5082,
-      "sha256": "f3f5c995117b135c50ea401727527ed7c7cbef674bd723bfdf6eae38cc26fc07",
-      "body_sha256": "3d0e2a84534547e95dbc829a93bf620c746e84a151c19592b4e3b6d062180bb7",
+      "sha256": "e07364ba79e0d18a4590e1686dfeecf809f446f6c9846c6383ec22bd8d1fb52b",
+      "body_sha256": "7e7782d882aa671569e06c70b842c034516fe04b8dc4c5ad41672cbbb3509b6d",
       "required_instruction_units": [
         "core"
       ],
@@ -794,8 +794,8 @@
       "path": "modules/assistant-attach.md",
       "title": "Connect another assistant using actual capabilities",
       "bytes": 5006,
-      "sha256": "da4e560e1895f27503d891b63f7ae3d1aada8ed02fd7fa5c8c12455721902e72",
-      "body_sha256": "c3e6dd3ddfa81bbf464cda37fd108bf434a102b0bad1b40b2089b3cc8f580097",
+      "sha256": "e72308b9c6fcdf2a7784dfe079ae9aaeaf59d62931410b0c8ad24e1a58297cf0",
+      "body_sha256": "44bfdf47c7b1ee3bb8675ee2b7ac09f8c4e64eab132356d0c793821e44d7e861",
       "required_instruction_units": [
         "core"
       ],
@@ -809,8 +809,8 @@
       "path": "modules/return-route.md",
       "title": "Resume the actual selected goal",
       "bytes": 5485,
-      "sha256": "50b3553f6fb28b3f5d9eefa8da9c6cdc264e6d46002c7487afe3d7cbb21b3779",
-      "body_sha256": "8c8f3313d3fe1dd1c3da6ca082296192ceb9d657e88fb490f7197dae3988baef",
+      "sha256": "de03c9680c27b74706a12d3939af72cf842188a78100bd1559866982c9ad7df3",
+      "body_sha256": "9ed6ccac2cec830aa14be0727bed0da4be562a0a78a93c750b8683e91e98f1c6",
       "required_instruction_units": [
         "core"
       ],
@@ -824,8 +824,8 @@
       "path": "modules/checkpoint.md",
       "title": "Keep one readable continuation point",
       "bytes": 4488,
-      "sha256": "02cb4795a3deb5f261f168a1a3c5f01400fc7c0882cb4b0f73f1abbdf5b60a58",
-      "body_sha256": "1a15188ddfd8187cb05ab3a50c980d3343457f69708a305227e4274b1995e80b",
+      "sha256": "50265458024bab797cff397fe3e7883394306099b70aa022cd8eba5d760d6804",
+      "body_sha256": "133be87489c91a63354d04907aea07fe0042cd4331871834963c9a0a5644052a",
       "required_instruction_units": [
         "core"
       ],
@@ -839,8 +839,8 @@
       "path": "modules/return-modes.md",
       "title": "Continue with the actual available host and input",
       "bytes": 4931,
-      "sha256": "b789e80a8bea418f028537af1b6a16da63e07324dc58272e98da3774c06f76c9",
-      "body_sha256": "736d3d27f3c796b97659428f1c72cd75dd869ff4dc0bee703fba73c6171f2ce6",
+      "sha256": "bc81674c45a69c85f62c3bcd3730d12f8f3b0482e5541680f8f3de9cd0fc820f",
+      "body_sha256": "074a28951d43dd4cd87ba0623083ca38871002fed80149c0a21e6a23f4e3a34d",
       "required_instruction_units": [
         "core"
       ],
@@ -854,7 +854,7 @@
       "path": "modules/load-recovery.md",
       "title": "Recover only missing required instructions",
       "bytes": 4111,
-      "sha256": "221f94cc0b616e9f4d5d66c8a7a4f20ebcde371475cbcd4f860ae407fe0c771c",
+      "sha256": "240a747887e684ef6374ecc6d10121e769278b512296ae342c709598ede05220",
       "body_sha256": "3cd37e838478957fd53a236717c7047336755f36395659041b1d66266eaf4457",
       "required_instruction_units": [
         "core"
@@ -869,8 +869,8 @@
       "path": "modules/question-index.md",
       "title": "Find only the relevant question meanings",
       "bytes": 3594,
-      "sha256": "928d48e0bb004176bbfaea595e42c766c225a45efd557179f7e7a9219192824d",
-      "body_sha256": "27738f8ecd6025fa19203d1eee544dfe6101bb5becbf9093167d84640ac4325b",
+      "sha256": "556eeddf0e3735347c797ec5f4d0a1f701eb7e8f20895d81c2a424bbf7ad5255",
+      "body_sha256": "5030e0e55d46d9f290ee503c0b39ae57ea185df3205c9e4065e7beb2828cc396",
       "required_instruction_units": [
         "core"
       ],
@@ -883,42 +883,42 @@
     "en": {
       "path": "prompts/en.txt",
       "bytes": 6126,
-      "sha256": "3f46ee48254b1fc938e0b682abbaed27acd49b6c9d2ad9f588d9d6e6722a81f1"
+      "sha256": "062b170bfa2d482e433e37fd1576a4116ad34a8cbaa55b3aabeadfcb5a8d414e"
     },
     "es": {
       "path": "prompts/es.txt",
       "bytes": 6130,
-      "sha256": "afcbf01f02c69ba6aaca362612eeaceee889d53339efc0d6e6523b76d7688dfa"
+      "sha256": "45e39227bd4a27d5b580184574d4a13ee354514daccd2b71dbee6043a4f975e7"
     },
     "pt": {
       "path": "prompts/pt.txt",
       "bytes": 6144,
-      "sha256": "ff40a3ece144106802d851210c75782c3768619731e20192bb59432886876bee"
+      "sha256": "d5a8339ba19b5215401bc7f86cc28737b499ae5715dc24ee9fc0b817d22e02a4"
     },
     "ja": {
       "path": "prompts/ja.txt",
       "bytes": 6149,
-      "sha256": "6bd2e294ba7eebdb1820c7b697ba912edeef69d241e592941aafec6c3c673fde"
+      "sha256": "9a693d4ac3aa46a89db3abc99a4c94ec6cbe30b71efab3288b88b885c823d4a4"
     },
     "de": {
       "path": "prompts/de.txt",
       "bytes": 6139,
-      "sha256": "55ae391f31f2f22d99241ef690c1339ab3038638500ab36526c96b8088dc91aa"
+      "sha256": "0eabff6c713147b24cb2d645e4069608169bdd7a20851c503eadfbde99c7b7e5"
     },
     "fr": {
       "path": "prompts/fr.txt",
       "bytes": 6139,
-      "sha256": "a02a6f5e0a28cd2cffcc08b99b34b44e3b0f50ba49caa68889e833f7358921f7"
+      "sha256": "a03ccbf1cda8a5e54adf8e1702f68309983a68b388868726d6f3e409dfff2f3e"
     },
     "ru": {
       "path": "prompts/ru.txt",
       "bytes": 6160,
-      "sha256": "54a9f172a5585900f82d494197fd4dc0d05776061e70f4e742d69b57ed147dc8"
+      "sha256": "e0ae31bfc1248eec51f7231f39f63d4b284d05f86b83ce7ce66e79eed5001164"
     },
     "zh": {
       "path": "prompts/zh.txt",
       "bytes": 6131,
-      "sha256": "a9e213fc40892742ece7564e5fe9ec490d96a84691f1d1d965d6768ef95e57ea"
+      "sha256": "440394ef99eb84d00ddb5267b195515a494a06df35accc82504f4dc2ebf4593b"
     }
   },
   "copy_prompt_byte_budget": 6160

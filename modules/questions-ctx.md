@@ -1,10 +1,10 @@
-# SetupKit 0.19.1 · CTX question definitions (individual activation only)
+# SetupKit 0.19.2 · CTX question definitions (individual activation only)
 
 Block: questions-ctx. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.1/questions-ctx/
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.2/questions-ctx/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -38,4 +38,4 @@ Effect / if deferred: These principles help compare options in a way that fits y
 
 Activate / reuse: Principles would affect a chosen decision/help style and are not already explicit in confirmed answers. Reuse confirmed applicable answers and selected sources first. Relevant IDs: GOAL-02, GOAL-04, AUTH-07. Actual stated principles can be reused; priorities, prohibited AI actions and minimum safety protections are not automatically the person's whole value system.
 
-END OF SETUPKIT BLOCK questions-ctx 0.19.1
+END OF SETUPKIT BLOCK questions-ctx 0.19.2
