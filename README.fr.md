@@ -6,7 +6,7 @@ Aidez votre IA à comprendre votre façon de travailler. Un guide gratuit vous a
 
 ## Pour commencer
 
-1. Copiez le [prompt de départ](START_PROMPT.txt).
+1. Copiez le [prompt de départ](prompts/fr.txt).
 2. Collez-le dans votre conversation avec une IA et envoyez-le. Demandez à poursuivre en français.
 3. Répondez aux questions pertinentes et choisissez une tâche à réaliser ensemble.
 
@@ -14,7 +14,7 @@ Vous pouvez commencer dans votre conversation actuelle. Indiquez à votre assist
 
 ## Édition actuelle
 
-[Le guide complet](STARTER.md) est à la version `0.17.1`, mise à jour le `2026-10-19`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
+[Le guide complet](COMPLETE.md) est à la version `0.19`, mise à jour le `2026-10-19`. Votre assistant doit poser des questions pertinentes, expliquer leur intérêt et réutiliser les réponses que vous avez déjà données.
 
 S’il ne peut pas lire la source, suivez les [étapes pour fournir le texte complet](docs/getting-started.md#if-the-guide-cannot-be-read). Tout contenu manquant doit être demandé, pas inventé. La page [Compatibilité et limites](docs/compatibility.md) précise ce qui a été vérifié et ce qui ne l’a pas été. Ces documents de référence et le guide faisant autorité sont en anglais.
 
@@ -23,6 +23,10 @@ S’il ne peut pas lire la source, suivez les [étapes pour fournir le texte com
 Si cela vous est utile, vous pouvez aussi organiser votre espace de travail actuel et préparer quelques fichiers relus sur vous, vos objectifs et votre travail. Partez de documents que vous avez déjà, comme un CV ou des notes sur les projets de votre choix. Vous décidez des changements à apporter ; vous pouvez passer une question ou la remettre à plus tard.
 
 Lorsque vous reprenez le travail, fournissez votre progression enregistrée ou votre résumé de reprise. Votre assistant pourra ainsi réutiliser les réponses confirmées et examiner les étapes inachevées ou nouvelles qui vous concernent. Les fichiers ne sont enregistrés qu’avec votre accord et les accès dont votre assistant dispose réellement ; leur création ne garantit ni mémoire ni synchronisation automatiques.
+
+## Trier les documents choisis, si cela vous est utile
+
+Demandez à votre assistant de vous aider à trier les fichiers, liens ou notes que vous choisissez. Il peut proposer à quel projet rattacher chaque élément, où le conserver et ce qu’il serait utile de résumer, en gardant les références aux originaux. Relisez la proposition et choisissez ce que vous souhaitez modifier ou remettre à plus tard. Les fichiers ne sont enregistrés ou déplacés qu’avec votre accord et les accès nécessaires ; sinon, vous recevez un plan à suivre manuellement. À la reprise, fournissez le relevé vérifié pour que l’assistant se concentre sur les éléments nouveaux, modifiés ou en attente.
 
 ## Skills
 

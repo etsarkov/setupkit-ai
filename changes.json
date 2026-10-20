@@ -1,0 +1,126 @@
+{
+  "manifest_version": 3,
+  "baseline_edition": "0.16.3",
+  "target_edition": "0.19",
+  "unchanged_question_revision": 1,
+  "steps": [
+    {
+      "id": "WC-ENTRY",
+      "revision": 3,
+      "introduced_in": "0.17",
+      "relevance": "all entry routes",
+      "change": "Reuse known edition, intent, answers and permitted sources without a new onboarding route. Give a brief first-run welcome or an evidence-based return greeting in the person’s language; reuse known intent. This presentation-only delta requires no repeated entry or onboarding exercise. The copied compact core routes to complete phase instructions; complete recovery continues without a second command."
+    },
+    {
+      "id": "WC-DELTA",
+      "revision": 3,
+      "introduced_in": "0.17",
+      "relevance": "continuation or optional progress saving",
+      "change": "Separate seen/started/completed editions; compare actual relevant step revisions even when an edition string matches, preserving known answers and choices. Keep a readable evidence-based checkpoint in existing state/card; reconcile unknown action outcomes and concurrent changes before dependent work."
+    },
+    {
+      "id": "WC-ORG",
+      "revision": 2,
+      "introduced_in": "0.17",
+      "relevance": "organization chosen by the person",
+      "change": "Review the agreed working area narrowly, show source-bound project candidates for selection, then adapt the optional layout and accompany only approved adoption."
+    },
+    {
+      "id": "WC-CONTEXT",
+      "revision": 2,
+      "introduced_in": "0.17",
+      "relevance": "reusable personal/work context chosen by the person",
+      "change": "Offer selected CV/professional-page/notes first, show a short reviewable summary, then ask only individually relevant gaps; preserve manual and skip paths."
+    },
+    {
+      "id": "WC-NAV",
+      "revision": 1,
+      "introduced_in": "0.17",
+      "relevance": "a real task needs available context",
+      "change": "Select the minimum relevant context and verify one source detail and one applicable preference."
+    },
+    {
+      "id": "WC-SKILLS",
+      "revision": 1,
+      "introduced_in": "0.17",
+      "relevance": "chosen-journey completion or a later suitable task, with suggestions permitted",
+      "change": "Offer both owned skills optionally once at completion; after no-install-now, allow a relevant later offer while respecting no-more-suggestions."
+    },
+    {
+      "id": "WC-GAPS",
+      "revision": 1,
+      "introduced_in": "0.17",
+      "relevance": "chosen personal/work context or project overview has a material missing fact after source/answer reuse",
+      "change": "Use only the individually needed added questions; preserve why/effect/fallback, five states, honest counts and no repeat of known facts."
+    },
+    {
+      "id": "WC-INBOX",
+      "revision": 1,
+      "introduced_in": "0.18",
+      "relevance": "the person chooses a task using selected incoming materials or an inbox; never a background or mandatory onboarding step",
+      "change": "Review permitted incoming material with provenance, propose one canonical home and useful extraction, distinguish routing from knowledge confirmation, apply only exact approved supported actions or provide an unapplied manual plan, and resume only relevant new/changed/pending material without repeated questions."
+    }
+  ],
+  "question_additions": [
+    {
+      "id": "CTX-01",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "CTX-02",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "CTX-03",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "GOAL-06",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "GOAL-07",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "NOW-01",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "ORG-13",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "ORG-14",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "ORG-15",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    },
+    {
+      "id": "WORK-07",
+      "meaning_revision": 1,
+      "introduced_in": "0.17",
+      "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
+    }
+  ]
+}

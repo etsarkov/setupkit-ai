@@ -1,0 +1,924 @@
+{
+  "schema": "setupkit.distribution/1",
+  "edition": "0.19",
+  "numeric_version": "0.19.0",
+  "updated": "2026-10-19",
+  "packaging": "compact-core-and-phase-blocks",
+  "state_schema_version": 1,
+  "change_manifest_version": 3,
+  "question_count": 103,
+  "core": "STARTER.md",
+  "complete": "COMPLETE.md",
+  "public_tag": "setupkit-v0.19",
+  "raw_root": "https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/",
+  "reader_root": "https://setupkit.ai/kit/0.19/",
+  "core_sha256": "0a901074c20e1cf171ceab41f1683532781230185c31c1e2e9bbfdfe3f72c7c5",
+  "complete_sha256": "c0c79e98b9a1fbb3f40ef50945b86e80947927004d98d703942482138c77c888",
+  "baseline_sha256": "121659a585931b16c1401506eb5cc1e835e940736d6c5915d107b18e21a92049",
+  "body_byte_budget": 6144,
+  "block_count": 46,
+  "blocks": [
+    {
+      "id": "context-input",
+      "module": "M01",
+      "path": "modules/context-input.md",
+      "title": "Use chosen personal material",
+      "bytes": 5358,
+      "sha256": "2d4c1d29aef51bdfcda5c7fd8e487817b6cfe63ea2019f0e16694b5c21b225be",
+      "body_sha256": "7e3728e1786aedb4bad440addb46710bb8a565bca4f56329c42f92c1747c162d",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "project-overview",
+      "module": "M02",
+      "path": "modules/project-overview.md",
+      "title": "Review only selected projects",
+      "bytes": 4120,
+      "sha256": "25113f83dd8c016140a08a4b2f255bc28fc26119093cf104385bad18d2d8f254",
+      "body_sha256": "95d4b268d2290b949c9bef325037548bf81385be856bdf06b92481c934de4973",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "question-dialogue",
+      "module": "shared",
+      "path": "modules/question-dialogue.md",
+      "title": "Ask needed questions and preserve their meaning",
+      "bytes": 5806,
+      "sha256": "d5ec09bb1a5bfe8df56da5585d0f6f13973a65602d82b1b1eb7978e2c25019e4",
+      "body_sha256": "e5d5291e07bc6173e2a3437f2dbc0803e66cd4d333fda11b5a8114b19f130773",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "question-ledger",
+      "module": "shared",
+      "path": "modules/question-ledger.md",
+      "title": "Compute and display honest progress",
+      "bytes": 3662,
+      "sha256": "192aa7a09d8b2f58b0953dd483470fccaf24a96dee6b7d5e80af5e93e4d34487",
+      "body_sha256": "ea8c1ebb30dff9f891037a35275e32aeb3be1351eb5f9b3d33227917111c4027",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Actual question ledger; newly asked questions require their own dialogue and definition prerequisites"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "context-records",
+      "module": "M01",
+      "path": "modules/context-records.md",
+      "title": "Review useful context files",
+      "bytes": 5607,
+      "sha256": "d986043adb69ebb6817915b9fc9b4d1aa46100d25c0b54fa402ef4a67b1f5281",
+      "body_sha256": "6f398e4c1aa0e4cdb725641fed577454ce842f5b083e435ebe7d343dc174f4e4",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Chosen relevant confirmed context; load context-input only if intake or interpretation is still needed"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "context-gaps",
+      "module": "M01",
+      "path": "modules/context-gaps.md",
+      "title": "Ask only useful remaining gaps",
+      "bytes": 4747,
+      "sha256": "db93d03cc431b75b7f852588b1e762b8cc211a2934f73fb9f9c0ef4e0f6046e2",
+      "body_sha256": "126cedef8be2c718adc9905f47ec8555589b368680af0346a1ae528f86015682",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": []
+    },
+    {
+      "id": "workspace-layout",
+      "module": "M02",
+      "path": "modules/workspace-layout.md",
+      "title": "Review optional organization",
+      "bytes": 4876,
+      "sha256": "f660fe9af300493dac8b684a9fac70fccb0ad29546ead292a796dfe817c18a1a",
+      "body_sha256": "e6d006b79b0fcae615a1526c66d73aba2590c23f0bfe3dac7390245d03930c24",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "inbox-intake",
+      "module": "M03",
+      "path": "modules/inbox-intake.md",
+      "title": "Select a useful, permitted batch",
+      "bytes": 3935,
+      "sha256": "04d40b8de0950fc0fc5b6554a286efba84e9e18a5732ed4311e7e7f2e7e6dbc8",
+      "body_sha256": "3bd0d65b99ab3285bafb65dd903832d2b78da9013f87f026f3ed618a7bb20bca",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "inbox-proposal",
+      "module": "M03",
+      "path": "modules/inbox-proposal.md",
+      "title": "Propose one home and a useful next step",
+      "bytes": 4155,
+      "sha256": "0dbd79fcfb8dceca799ad709eceded0b87f9c05fb5ca3685196b21899c5c0803",
+      "body_sha256": "f31cbfd815fd9ae8e8213289fa4bbf5dc7b5cc54bfce21a2f4ea5977922a363e",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Sufficient permitted intake and provenance for the selected items"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "inbox-review",
+      "module": "M03",
+      "path": "modules/inbox-review.md",
+      "title": "Review the clear items together; leave uncertainty visible",
+      "bytes": 3297,
+      "sha256": "8a7bdf72425b89d0a97f348d09723e6312c8c73effcb21852d684dc6fe9d5470",
+      "body_sha256": "4935bfd53519d600c5d9f009f796bc20b9cc1a4d89436734070a22233964e603",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Current source-bound proposal; inspect relevant routing rules if changing a destination"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "inbox-apply",
+      "module": "M03",
+      "path": "modules/inbox-apply.md",
+      "title": "Apply only supported actions and verify what happened",
+      "bytes": 4683,
+      "sha256": "ed3fef5fd401667e1decdfaf8b120187de0a50de52c824f9c0059bb30ab10c02",
+      "body_sha256": "923f0f221a267f38a4cbea38539b4c302d332e56d8de4d719c01a82d9a9fd548",
+      "required_instruction_units": [
+        "core",
+        "inbox-review"
+      ],
+      "required_context_or_evidence": [
+        "Current exact operation proposal",
+        "Actual applicable permission, not a saved permission claim",
+        "Fresh source/target state and known outcome of previous attempts"
+      ],
+      "cold_body_reads_after_core": 2,
+      "question_ids": []
+    },
+    {
+      "id": "inbox-return",
+      "module": "M03",
+      "path": "modules/inbox-return.md",
+      "title": "Keep a useful continuation without another interview",
+      "bytes": 3547,
+      "sha256": "f69dbbb4074d2ea2e0550391a2624a021cdb268754afcf07da72865022ce4eb0",
+      "body_sha256": "48010f483d51f54ade41495b9672d29a6586ad410d3274fd6d056366da6cc80a",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Actual prior disposition and execution evidence, or explicit unknowns"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "useful-task",
+      "module": "M04",
+      "path": "modules/useful-task.md",
+      "title": "Do a useful task with sufficient context and capability",
+      "bytes": 5759,
+      "sha256": "a4416476b54773aae1a356e4fc182c215b012e3d05ac0a045336843e600853c5",
+      "body_sha256": "ba369c1eca153e9bc3019702ba3ad241c0aa6854ddb6a3513d5bb0eec68a8a29",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "optional-skills",
+      "module": "M04",
+      "path": "modules/optional-skills.md",
+      "title": "Relevant optional skills with existing restrictions",
+      "bytes": 5970,
+      "sha256": "8e8122ed21ff669c64d0e8a960da2dc7da9e84b91be59cd174f8ea595606f102",
+      "body_sha256": "e8d7b0350312142db36b72ea9a24a25e19c32d0bd7a420a6b04487134b25c6f3",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "assistant-switch",
+      "module": "M05",
+      "path": "modules/assistant-switch.md",
+      "title": "Review a voluntary change of assistant",
+      "bytes": 2508,
+      "sha256": "275ed40ff52b89bbb49f790aa0ea993c5060fc287dfb67454f39e79250d0856f",
+      "body_sha256": "232330bc1676b6868a2ee21e6b2d142877bc3213f4fe3a8c3c72e36903ac65c5",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "transfer-preview",
+      "module": "M05",
+      "path": "modules/transfer-preview.md",
+      "title": "Review the personal continuation content",
+      "bytes": 4000,
+      "sha256": "d415dc06c3ea428a614c8b7ca31ab9caef776189f23c0881b64b307d9bf73d06",
+      "body_sha256": "9d23c9227d238214949ff9b0dffa07a6414e267da57477f1a39320e012c0a7f0",
+      "required_instruction_units": [
+        "core",
+        "question-ledger",
+        "checkpoint"
+      ],
+      "required_context_or_evidence": [
+        "Actual relevant answers and results; separate intended target/capability evidence"
+      ],
+      "cold_body_reads_after_core": 3,
+      "question_ids": []
+    },
+    {
+      "id": "transfer-assembly",
+      "module": "M05",
+      "path": "modules/transfer-assembly.md",
+      "title": "Assemble exact complete-method continuation",
+      "bytes": 3696,
+      "sha256": "6231fa84a0453c53fd1bd707e4113862a3c1fe4c46fcc72289c5b63d9fe4ace6",
+      "body_sha256": "d8b6a7c2064978a2893fdb3fed24da4546be4bf1e655da7e089b0a1a724f75c2",
+      "required_instruction_units": [
+        "core",
+        "transfer-preview"
+      ],
+      "required_context_or_evidence": [
+        "Reviewed continuation content",
+        "Actual complete method export bytes, not just links or a marker"
+      ],
+      "cold_body_reads_after_core": 4,
+      "question_ids": []
+    },
+    {
+      "id": "transfer-receive",
+      "module": "M05",
+      "path": "modules/transfer-receive.md",
+      "title": "Receive and reuse actual continuation",
+      "bytes": 3313,
+      "sha256": "0271c52f4bdcf213df3febcb66509913a7183104a2bfbc38237512cd2e2f1263",
+      "body_sha256": "15b2f983697b12cfc5f127a63fe035c779d8832044910b618a0c535aec5bb128",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "pause-return",
+      "module": "M05",
+      "path": "modules/pause-return.md",
+      "title": "Pause or continue without false saved-state claims",
+      "bytes": 4055,
+      "sha256": "42ec24522c030e5b347a98b31351eca9e200ab0479e3cfa709bf58b4bcfbb4a7",
+      "body_sha256": "99fa6c29e30429f0ba13afc7a07bcfd261e1ba4588d56fcbb8896950bc5dfb15",
+      "required_instruction_units": [
+        "core",
+        "checkpoint"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": []
+    },
+    {
+      "id": "save-progress",
+      "module": "M05",
+      "path": "modules/save-progress.md",
+      "title": "Save approved state and verify the result",
+      "bytes": 4947,
+      "sha256": "f06526aa0e334ea0582e93319a837da3d7d5c818d7ce9cf782ee6ab37e56db10",
+      "body_sha256": "70a4f37364ea15bda5aed5063f37278732726e4fa2b44f2551ba9a84bf0b04d7",
+      "required_instruction_units": [
+        "core",
+        "question-ledger",
+        "checkpoint"
+      ],
+      "required_context_or_evidence": [
+        "Reviewed current progress and exact destination/delta",
+        "Current permitted save scope"
+      ],
+      "cold_body_reads_after_core": 3,
+      "question_ids": []
+    },
+    {
+      "id": "edition-review",
+      "module": "M00",
+      "path": "modules/edition-review.md",
+      "title": "Compare actual prior progress and relevant deltas",
+      "bytes": 5738,
+      "sha256": "945920033786e4933d40fef4990e8f6fd79d1b67f7131ee544c0551dd3779bc8",
+      "body_sha256": "4b73bf8ee4e03878b4059c1b180682972ec3e7c912507e7ad8fb156ecdfbf45a",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "edition-manifest",
+      "module": "M00",
+      "path": "modules/edition-manifest.md",
+      "title": "Cumulative method changes; no permission or completion evidence",
+      "bytes": 6128,
+      "sha256": "959b368640b5e8a0dd4a085c8b3204174cb635ee9393d4607c8ff3c2415a15e4",
+      "body_sha256": "f77387889fbbe76bac888ecbb5c85fa05f81d87d9dc2b4bc595a286e9fa1db67",
+      "required_instruction_units": [
+        "core",
+        "edition-review"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": []
+    },
+    {
+      "id": "questions-core",
+      "module": "questions",
+      "path": "modules/questions-core.md",
+      "title": "CORE question definitions (individual activation only)",
+      "bytes": 2629,
+      "sha256": "c9ec026abb7d398c4e63ba1dd489af819f52fdbdad7fed5d094a09ca00018bf5",
+      "body_sha256": "b572fa6fc84b0b005e4fa4a4253f91e1ba33f0ae3e7951a2108395d06d35388b",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "CORE-01",
+        "CORE-02",
+        "CORE-03",
+        "CORE-04",
+        "CORE-05"
+      ]
+    },
+    {
+      "id": "questions-ctx",
+      "module": "questions",
+      "path": "modules/questions-ctx.md",
+      "title": "CTX question definitions (individual activation only)",
+      "bytes": 3558,
+      "sha256": "d2e9f389e7ec1f46e476325f32182e0923f147d1a23635ebf00f26fb63205c83",
+      "body_sha256": "10e92467ada5dfb9dbc3e36c3002616263eb8b616fed927580491edab7c59139",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "CTX-01",
+        "CTX-02",
+        "CTX-03"
+      ]
+    },
+    {
+      "id": "questions-goal",
+      "module": "questions",
+      "path": "modules/questions-goal.md",
+      "title": "GOAL question definitions (individual activation only)",
+      "bytes": 4254,
+      "sha256": "39d97f0512761929ce0e9a078b869a4bf101578487a480c4c4d8c83c9f52e3e4",
+      "body_sha256": "bd39db0849baf094017db12032b60e8e652cb4ae9cb5aae532de82172bafe7f0",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "GOAL-01",
+        "GOAL-02",
+        "GOAL-03",
+        "GOAL-04",
+        "GOAL-05",
+        "GOAL-06",
+        "GOAL-07"
+      ]
+    },
+    {
+      "id": "questions-comms",
+      "module": "questions",
+      "path": "modules/questions-comms.md",
+      "title": "COMMS question definitions (individual activation only)",
+      "bytes": 2620,
+      "sha256": "7c40f85192077484c4186c06c7d6240fd57e8e677a0650bd8232862c9b9f2fae",
+      "body_sha256": "0b36b2ad58e342c585e0a9d05dfd876a88844506d8ee06cc236711a1f9573224",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "COMMS-01",
+        "COMMS-02",
+        "COMMS-03",
+        "COMMS-04",
+        "COMMS-05",
+        "COMMS-06"
+      ]
+    },
+    {
+      "id": "questions-auth",
+      "module": "questions",
+      "path": "modules/questions-auth.md",
+      "title": "AUTH question definitions (individual activation only)",
+      "bytes": 3035,
+      "sha256": "1081b035237d1df564ab599b8e461d0bddfac829383dd5b92b2d26955637b9dc",
+      "body_sha256": "fda408c1d49ffd1a1119eb458063adcf248b40773f2093e8d8a12bd50b5a6345",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "AUTH-01",
+        "AUTH-02",
+        "AUTH-03",
+        "AUTH-04",
+        "AUTH-05",
+        "AUTH-06",
+        "AUTH-07"
+      ]
+    },
+    {
+      "id": "questions-data",
+      "module": "questions",
+      "path": "modules/questions-data.md",
+      "title": "DATA question definitions (individual activation only)",
+      "bytes": 2905,
+      "sha256": "353d3b45e7013d2f42c9336e88125146ce4f6eddb37585302577721e2af927fe",
+      "body_sha256": "2eab5fd054f93c92d5ebf8b4ed198b6cc0a1cd282ef7e08cf122c0d5f0371423",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "DATA-01",
+        "DATA-02",
+        "DATA-03",
+        "DATA-04",
+        "DATA-05",
+        "DATA-06",
+        "DATA-07"
+      ]
+    },
+    {
+      "id": "questions-work",
+      "module": "questions",
+      "path": "modules/questions-work.md",
+      "title": "WORK question definitions (individual activation only)",
+      "bytes": 3617,
+      "sha256": "add6373a2909cf4b98c562ddc29d7e3a1938032472d4646f7d260806bbf54524",
+      "body_sha256": "2bc96c764ca5bf9b9306df6d0cbf0db3b463c28cd6b02eda5cdc996d5eb000cc",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "WORK-01",
+        "WORK-02",
+        "WORK-03",
+        "WORK-04",
+        "WORK-05",
+        "WORK-06",
+        "WORK-07"
+      ]
+    },
+    {
+      "id": "questions-now",
+      "module": "questions",
+      "path": "modules/questions-now.md",
+      "title": "NOW question definitions (individual activation only)",
+      "bytes": 1798,
+      "sha256": "8c92ded421ffb8ba7a9b2664b93fba54be10a11a382be52526d4268fce892c32",
+      "body_sha256": "64d5737ed99415d80fd68867017286dd663a57889ae4ca30b77e9eb70b13eb78",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "NOW-01"
+      ]
+    },
+    {
+      "id": "questions-org",
+      "module": "questions",
+      "path": "modules/questions-org.md",
+      "title": "ORG question definitions (individual activation only)",
+      "bytes": 4152,
+      "sha256": "c7878022af059c2d8b80fc07e4d01f77fc01ffcb1d054a2965d8344e8624382f",
+      "body_sha256": "22a174313bc8fbbaf16eacbf4038bf85a2d43227e2f583a3ba727845f554e283",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "ORG-01",
+        "ORG-02",
+        "ORG-03",
+        "ORG-04",
+        "ORG-05",
+        "ORG-06",
+        "ORG-07",
+        "ORG-08",
+        "ORG-09",
+        "ORG-10",
+        "ORG-11",
+        "ORG-12"
+      ]
+    },
+    {
+      "id": "questions-org-portfolio",
+      "module": "questions",
+      "path": "modules/questions-org-portfolio.md",
+      "title": "ORG-portfolio question definitions (individual activation only)",
+      "bytes": 3643,
+      "sha256": "e23c0f3e151c0d863ef237bb882cd37cec72dcbd0d979477812eb2a2a4d796e7",
+      "body_sha256": "f242d9ebd765718d379a38f8d6240f4f50ee07b424f5cb95cae7f5f828ed9f2c",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "ORG-13",
+        "ORG-14",
+        "ORG-15"
+      ]
+    },
+    {
+      "id": "questions-res",
+      "module": "questions",
+      "path": "modules/questions-res.md",
+      "title": "RES question definitions (individual activation only)",
+      "bytes": 2881,
+      "sha256": "43b93aa29f9228de660f81740ba0e06c2944bc433ce2b3d861cdd3ed357f78b8",
+      "body_sha256": "fea3ca57988c06b4ef0774a2bc681a5996848eab4d2d48efb017e65b3a13465a",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "RES-01",
+        "RES-02",
+        "RES-03",
+        "RES-04",
+        "RES-05",
+        "RES-06",
+        "RES-07",
+        "RES-08"
+      ]
+    },
+    {
+      "id": "questions-content",
+      "module": "questions",
+      "path": "modules/questions-content.md",
+      "title": "CONTENT question definitions (individual activation only)",
+      "bytes": 2798,
+      "sha256": "71bbb61ccd58ddd70ae6c855b82d38df68d6fb4dc048cc90636e45063bcba485",
+      "body_sha256": "90aac072ce79cd77f3eb6cecf5d42192d2c403d3f6f27f8e14999b56fb9a56fd",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "CONTENT-01",
+        "CONTENT-02",
+        "CONTENT-03",
+        "CONTENT-04",
+        "CONTENT-05",
+        "CONTENT-06",
+        "CONTENT-07"
+      ]
+    },
+    {
+      "id": "questions-prod",
+      "module": "questions",
+      "path": "modules/questions-prod.md",
+      "title": "PROD question definitions (individual activation only)",
+      "bytes": 2670,
+      "sha256": "d2c41e4bc74f8ac8ec1a6be8b264d8f5f6c6141a4ddefcfacadcaec11a819336",
+      "body_sha256": "0f7ae342c6d56150eb22457624f200429cc3660f1d79d2585595c97bc7b0cd17",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "PROD-01",
+        "PROD-02",
+        "PROD-03",
+        "PROD-04",
+        "PROD-05",
+        "PROD-06",
+        "PROD-07"
+      ]
+    },
+    {
+      "id": "questions-dev",
+      "module": "questions",
+      "path": "modules/questions-dev.md",
+      "title": "DEV question definitions (individual activation only)",
+      "bytes": 2674,
+      "sha256": "34eed1e28acc5689919a81a9742da497da05078e6101c9fafb88af389c9a5ea0",
+      "body_sha256": "bd70fcb8ef957010105a0c2c2d16f891296e021566b7a4f39edb5cf0e4d0b721",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "DEV-01",
+        "DEV-02",
+        "DEV-03",
+        "DEV-04",
+        "DEV-05",
+        "DEV-06",
+        "DEV-07"
+      ]
+    },
+    {
+      "id": "questions-tools",
+      "module": "questions",
+      "path": "modules/questions-tools.md",
+      "title": "TOOLS question definitions (individual activation only)",
+      "bytes": 2221,
+      "sha256": "862cfe0b349c0871055f84b3523c04cca19ea5386bb8d057b01f68ea02efb658",
+      "body_sha256": "32962a8a88786d01e81626f92bb869a1aef863219987e8a32ff1f9b6a0aa82be",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "TOOLS-01",
+        "TOOLS-02",
+        "TOOLS-03",
+        "TOOLS-04",
+        "TOOLS-05"
+      ]
+    },
+    {
+      "id": "questions-rem",
+      "module": "questions",
+      "path": "modules/questions-rem.md",
+      "title": "REM question definitions (individual activation only)",
+      "bytes": 2491,
+      "sha256": "ddcbb2aab3674561010d69ef911206fadc91c4aac2b9599ad3865c05fb4faab0",
+      "body_sha256": "5d325458cff31ac5967e06ecdd2802a8a60bcb5a1f93df55d84e70de1adef836",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "REM-01",
+        "REM-02",
+        "REM-03",
+        "REM-04",
+        "REM-05",
+        "REM-06",
+        "REM-07"
+      ]
+    },
+    {
+      "id": "questions-maint",
+      "module": "questions",
+      "path": "modules/questions-maint.md",
+      "title": "MAINT question definitions (individual activation only)",
+      "bytes": 1864,
+      "sha256": "ff530c6a332fa44b2add537b6890c9c6ffa3f674a77bbf386fd913721d1d5921",
+      "body_sha256": "90a9e0fa111b60935f0026f4a5c94a709bda15b91ffdd8c68178f57d6dd4faec",
+      "required_instruction_units": [
+        "core",
+        "question-dialogue"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 2,
+      "question_ids": [
+        "MAINT-01",
+        "MAINT-02",
+        "MAINT-03",
+        "MAINT-04"
+      ]
+    },
+    {
+      "id": "entry-details",
+      "module": "M00",
+      "path": "modules/entry-details.md",
+      "title": "Choose or reuse the entry and welcome",
+      "bytes": 5062,
+      "sha256": "adc3f6afd9ea59dc5666101e5db4fe714ee36947f3605426e9ea09deb72b01d6",
+      "body_sha256": "9b61ce0872f7c491d948db1926aac129db433d6bdcf362d7f7eaee86a3a45a26",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [
+        "Actual known goal, language and entry intent; unknown history is not empty history"
+      ],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "assistant-attach",
+      "module": "M05",
+      "path": "modules/assistant-attach.md",
+      "title": "Connect another assistant using actual capabilities",
+      "bytes": 4990,
+      "sha256": "c4ba2a9259f3956fd3226fba7901290d29619dcd041c2d72d3e03c8436eade9a",
+      "body_sha256": "4233e5ec20d97aedac4c93a2b4c3bb5d1bf6be326d70270b41bbc7dd6ba16d2e",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "return-route",
+      "module": "M00",
+      "path": "modules/return-route.md",
+      "title": "Resume the actual selected goal",
+      "bytes": 5465,
+      "sha256": "dd04f053073b01170b7230ce313893dc1daba1668bfb730937086248d3f8d92f",
+      "body_sha256": "b7f39b4fbfc3ef43fbae0500cd059c4d0bd874cc04784d78029771863f22dfcb",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "checkpoint",
+      "module": "M05",
+      "path": "modules/checkpoint.md",
+      "title": "Keep one readable continuation point",
+      "bytes": 4472,
+      "sha256": "42204dc6f9c70ce64346aa7db87149f48cb21e402e270c03093e46f27fdc0d6d",
+      "body_sha256": "ca1833ead53e297af5aa9549ce55d7fde572728fcdebd8eb5376a30309be6823",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "return-modes",
+      "module": "M00",
+      "path": "modules/return-modes.md",
+      "title": "Continue with the actual available host and input",
+      "bytes": 4913,
+      "sha256": "422993768a3f53799079a7c4898d961e08eb6e66a3510fcb5b6a991d2a2ca964",
+      "body_sha256": "df90e720965dcf618c74d4cc024c0cbb057730a7013cbd2426cc2c3f87291953",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "load-recovery",
+      "module": "M00",
+      "path": "modules/load-recovery.md",
+      "title": "Recover only missing required instructions",
+      "bytes": 4099,
+      "sha256": "421483c32d508d8a32c937e8c36fd993412cbd365022a6cb0da7a13934c66c02",
+      "body_sha256": "3cd37e838478957fd53a236717c7047336755f36395659041b1d66266eaf4457",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    },
+    {
+      "id": "question-index",
+      "module": "M01",
+      "path": "modules/question-index.md",
+      "title": "Find only the relevant question meanings",
+      "bytes": 3548,
+      "sha256": "4e90cbfa18cd3c7c6d9f6ffbf46950ace847e190bd857372c4958316dde2b31a",
+      "body_sha256": "bb2c651a730209ed9a336765565facfb826e0983c7c267ebd6e666e201c8ab4e",
+      "required_instruction_units": [
+        "core"
+      ],
+      "required_context_or_evidence": [],
+      "cold_body_reads_after_core": 1,
+      "question_ids": []
+    }
+  ],
+  "copy_prompts": {
+    "en": {
+      "path": "prompts/en.txt",
+      "bytes": 6104,
+      "sha256": "949f70efb35a4bfa74017f425dc9cbfc2d2a0a5c2a31fa81401dccd02996627c"
+    },
+    "es": {
+      "path": "prompts/es.txt",
+      "bytes": 6108,
+      "sha256": "e0ef8b0022e0ea49308ab85ddd6544d5743d6c02c35684a2851d0f11e19bc31a"
+    },
+    "pt": {
+      "path": "prompts/pt.txt",
+      "bytes": 6122,
+      "sha256": "2bf5186794c7b56c6d5d99d3790e4e7f247814c36a5fb9b7ad151a0bfb4d42cf"
+    },
+    "ja": {
+      "path": "prompts/ja.txt",
+      "bytes": 6127,
+      "sha256": "2b59ce4266875f623760888af5c2c23e378b50dc289c107ed52e2e19a8fa6115"
+    },
+    "de": {
+      "path": "prompts/de.txt",
+      "bytes": 6117,
+      "sha256": "67879719dda3fd9859d7d3648f78ae87c1fb0b41846b05cad552f7e8d7e83e5f"
+    },
+    "fr": {
+      "path": "prompts/fr.txt",
+      "bytes": 6117,
+      "sha256": "a6d4c45576d601554d56ced7709aa6953f08b9ad5f87c43e55e810594cac41fd"
+    },
+    "ru": {
+      "path": "prompts/ru.txt",
+      "bytes": 6138,
+      "sha256": "03ebb8c17efb75ef91d11a5ddd5f6cdf77b28fe5bcb500cd6721ffbc73c25f81"
+    },
+    "zh": {
+      "path": "prompts/zh.txt",
+      "bytes": 6109,
+      "sha256": "14555f66649856c97d337ca7e4cc157ca82680ecff014b16ea9a583d3940f9eb"
+    }
+  }
+}

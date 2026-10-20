@@ -6,7 +6,7 @@ Ayuda a tu IA a entender cómo trabajas. Una guía gratuita te ayuda a definir r
 
 ## Cómo empezar
 
-1. Copia el [prompt de inicio](START_PROMPT.txt).
+1. Copia el [prompt de inicio](prompts/es.txt).
 2. Pégalo en tu chat de IA y envíalo. Pide que la conversación sea en español.
 3. Responde a las preguntas pertinentes y elige una tarea para trabajar juntos.
 
@@ -14,7 +14,7 @@ Puedes empezar en tu chat actual. Dile a tu asistente qué herramienta usas y c�
 
 ## Edición actual
 
-[La guía completa](STARTER.md) corresponde a la edición `0.17.1`, actualizada el `2026-10-19`. Tu asistente debe hacer preguntas pertinentes, explicar por qué importan y reutilizar las respuestas que ya hayas dado.
+[La guía completa](COMPLETE.md) corresponde a la edición `0.19`, actualizada el `2026-10-19`. Tu asistente debe hacer preguntas pertinentes, explicar por qué importan y reutilizar las respuestas que ya hayas dado.
 
 Si no puede leer la fuente, sigue los [pasos para proporcionar el texto completo](docs/getting-started.md#if-the-guide-cannot-be-read). El contenido que falte debe pedirse, no inventarse. La página [Compatibilidad y límites](docs/compatibility.md) explica qué se ha verificado y qué no. Estos documentos de referencia y la guía original están en inglés.
 
@@ -23,6 +23,10 @@ Si no puede leer la fuente, sigue los [pasos para proporcionar el texto completo
 Si te resulta útil, también puedes organizar tu espacio de trabajo actual y preparar un pequeño conjunto de archivos revisados sobre ti, tus objetivos y tu trabajo. Empieza con materiales que ya tengas, como un currículum o notas de los proyectos que elijas. Tú decides qué cambios hacer; puedes saltarte preguntas o dejarlas para más adelante.
 
 Cuando retomes el trabajo, aporta tu progreso guardado o el resumen para continuar, para que tu asistente pueda reutilizar las respuestas confirmadas y revisar los pasos pendientes o nuevos que sean relevantes. Los archivos solo se guardan con tu aprobación y con el acceso que realmente tenga tu asistente; crearlos no garantiza memoria ni sincronización automáticas.
+
+## Organizar materiales seleccionados, si te resulta útil
+
+Pide a tu asistente que te ayude a organizar los archivos, enlaces o notas que elijas. Puede sugerir a qué proyecto pertenece cada material, dónde guardarlo y qué conviene resumir, conservando las referencias a los originales. Revisa la propuesta y decide qué cambiar o dejar para más adelante. Solo se guardan o mueven archivos con tu aprobación y el acceso necesario; si no es posible, recibes un plan para hacerlo manualmente. Cuando retomes el trabajo, aporta el registro revisado para que el asistente se centre en los materiales nuevos, modificados o pendientes.
 
 ## Skills
 
