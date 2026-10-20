@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Keep a useful continuation without another interview
+# SetupKit 0.19.1 · Keep a useful continuation without another interview
 
-Block: inbox-return. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-return/
+Block: inbox-return. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-return/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Keep a useful continuation without another interview
 
@@ -19,6 +19,6 @@ On return, reuse current applicable preferences and unchanged reviewed dispositi
 
 ## Related steps — only when relevant
 
-[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-return 0.19
+END OF SETUPKIT BLOCK inbox-return 0.19.1

@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Continue with the actual available host and input
+# SetupKit 0.19.1 · Continue with the actual available host and input
 
-Block: return-modes. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/return-modes/
+Block: return-modes. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/return-modes/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Different hosts and input modes
 
@@ -39,6 +39,6 @@ These are templates to adapt to actual evidence and the person's language. They 
 
 ## Related steps — only when relevant
 
-[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-attach.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/load-recovery.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-attach.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/load-recovery.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK return-modes 0.19
+END OF SETUPKIT BLOCK return-modes 0.19.1

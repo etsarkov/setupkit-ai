@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Choose or reuse the entry and welcome
+# SetupKit 0.19.1 · Choose or reuse the entry and welcome
 
-Block: entry-details. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/entry-details/
+Block: entry-details. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/entry-details/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Choose or reuse the entry
 
@@ -27,6 +27,6 @@ If unsure, offer help through `EXISTING_SETUP_AUDIT`; invisible state is UNVERIF
 
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-attach.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-attach.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK entry-details 0.19
+END OF SETUPKIT BLOCK entry-details 0.19.1

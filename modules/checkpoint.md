@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Keep one readable continuation point
+# SetupKit 0.19.1 · Keep one readable continuation point
 
-Block: checkpoint. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/checkpoint/
+Block: checkpoint. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/checkpoint/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## One checkpoint, existing state
 
@@ -33,6 +33,6 @@ One checkpoint describes the current foreground goal. Other unfinished goals sta
 
 ## Related steps — only when relevant
 
-[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK checkpoint 0.19
+END OF SETUPKIT BLOCK checkpoint 0.19.1

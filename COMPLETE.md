@@ -1,6 +1,6 @@
 # SetupKit — Complete guide
 
-Edition: 0.19. Updated: 2026-10-19. English source; use the person's language. Author: Eugene Tsarkov.
+Edition: 0.19.1. Updated: 2026-10-20. English source; use the person's language. Author: Eugene Tsarkov.
 
 SetupKit starter guide © 2026 Eugene Tsarkov. The authored guide text is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the author and copyright notice, link to the original guide and license, and indicate changes as required by the license. No endorsement is implied. The guide is provided as-is, without warranties, as set out in the license. This grant excludes SetupKit branding, logos, website code, third-party assets and users' personal materials.
 
@@ -28,35 +28,35 @@ Use only visible authorized sources/capabilities; do not request a broad machine
 
 Choose the needed same-edition instructions. Reuse confirmed earlier results without replay. Past read receipts do not prove current text availability.
 
-- [Context and agreement](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/entry-details.md)
-- [Projects and files](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/project-overview.md)
-- [Incoming material](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-intake.md)
-- [A useful task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/useful-task.md)
-- [Save or transfer](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md)
-- [Unclear return or edition change](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/return-route.md)
+- [Context and agreement](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/entry-details.md)
+- [Projects and files](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/project-overview.md)
+- [Incoming material](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-intake.md)
+- [A useful task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/useful-task.md)
+- [Save or transfer](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md)
+- [Unclear return or edition change](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/return-route.md)
 
 Read only missing complete instruction bodies and declared prerequisites; reuse supplied compatible text. Limit: two body reads per block, eight per phase including mirrors/pages; renaming cannot reset it. Stop on policy/access denial. No personal state in method requests. Markers alone do not prove completeness; never invent hash checks.
 
 Never invent missing text. Complete input resumes; no recovery command. Partial input blocks only dependent work. Never mix editions silently or overwrite unsupported state. Read needed return/save rules.
 
-Copy help: https://setupkit.ai/kit/0.19/
+Copy help: https://setupkit.ai/kit/0.19.1/
 
 ## Before each reply
 
-- Missing instructions: put link and paste request in one sentence, even with a draft or no web access. https://setupkit.ai/kit/0.19/<id>/; es/pt/ja/de/fr/ru/zh: https://setupkit.ai/<lang>/kit/0.19/<id>/. Omit <id>/ for core. “Open [the instructions](URL), copy and paste the text here; I'll use your available answers.” No codes/checks/extra steps.
+- Missing instructions: put link and paste request in one sentence, even with a draft or no web access. https://setupkit.ai/kit/0.19.1/<id>/; es/pt/ja/de/fr/ru/zh: https://setupkit.ai/<lang>/kit/0.19.1/<id>/. Omit <id>/ for core. “Open [the instructions](URL), copy and paste the text here; I'll use your available answers.” No codes/checks/extra steps.
 - Check all tasks against prohibitions. No sending means no invitations, reminders or distribution by you or the person. Offer drafting/review here; never ask to lift the ban. Example: “I'll draft the agenda and notes here in the chat.” Check tool effects separately; goals never override bans.
 
-END OF SETUPKIT CORE 0.19 2026-10-19
+END OF SETUPKIT CORE 0.19.1 2026-10-20
 
 This complete export includes all method blocks and question definitions below. Reuse the parts required for the selected task; reading or copying it does not prove personal setup completion.
 
-# SetupKit 0.19 · Use chosen personal material
+# SetupKit 0.19.1 · Use chosen personal material
 
-Block: context-input. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/context-input/
+Block: context-input. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/context-input/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Use selected material before personal or project questions
 
@@ -78,17 +78,17 @@ The path is: known answers → selected permitted material → short summary or 
 
 ## Related steps — only when relevant
 
-[context-records](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-records.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-gaps.md), [project-overview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/project-overview.md). These are choices, not a required reading sequence.
+[context-records](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-records.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-gaps.md), [project-overview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/project-overview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-input 0.19
+END OF SETUPKIT BLOCK context-input 0.19.1
 
-# SetupKit 0.19 · Review only selected projects
+# SetupKit 0.19.1 · Review only selected projects
 
-Block: project-overview. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/project-overview/
+Block: project-overview. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/project-overview/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 For a wanted project overview, reuse the known working area and current read permission. If the location or permission is missing, explain the bounded read and manual alternative before asking: “I can look at the folders and short project descriptions in the working folder you choose, then show you the projects I can identify. You can choose which ones we set up. This review does not change or move files. If access is unavailable, a folder list or a few project descriptions is enough to start.” Reuse an already clear current authorization for this exact read instead of asking again merely to follow a script.
 
@@ -104,17 +104,17 @@ The path is: known answers → selected permitted material → short summary or 
 
 ## Related steps — only when relevant
 
-[workspace-layout](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/workspace-layout.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-input.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-gaps.md), [useful-task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/useful-task.md). These are choices, not a required reading sequence.
+[workspace-layout](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/workspace-layout.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-input.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-gaps.md), [useful-task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/useful-task.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK project-overview 0.19
+END OF SETUPKIT BLOCK project-overview 0.19.1
 
-# SetupKit 0.19 · Ask needed questions and preserve their meaning
+# SetupKit 0.19.1 · Ask needed questions and preserve their meaning
 
-Block: question-dialogue. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/question-dialogue/
+Block: question-dialogue. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/question-dialogue/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Understand the person and how they use AI
 
@@ -134,32 +134,32 @@ Before marking a question answered, deferred or declined, compare the person's a
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-ledger.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK question-dialogue 0.19
+END OF SETUPKIT BLOCK question-dialogue 0.19.1
 
-# SetupKit 0.19 · Compute and display honest progress
+# SetupKit 0.19.1 · Compute and display honest progress
 
-Block: question-ledger. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/question-ledger/
+Block: question-ledger. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/question-ledger/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Track OPEN, ANSWERED, DEFERRED, NOT_APPLICABLE and DECLINED. Report counts and named dependencies in currently active areas, never percent of all questions or invented elapsed/completion estimates. Explain denominator changes. Useful result, saved profile and full completion are distinct. COMPLETE requires all active questions terminal, unresolved dependencies resolved or actions explicitly disabled, no material conflicts and user review; deferred remains open.
 Maintain one question ledger with one row per stable question ID: active (yes/no), one of those five states, known answer summary, missing detail, source and confirmation. A partial answer stays OPEN with its known part recorded; never use PARTIALLY ANSWERED or another invented question state, even with a correcting footnote. Audit labels such as KEEP or CONFLICT and task labels such as BLOCKED are separate from question states. On a progress request, pause or continuation, show numeric counts for all five states and the total of active rows, computed from that same ledger. Retain inactive answers but exclude them from those counts. Before showing/exporting, check unique IDs, valid states and that the five counts sum to the active total. If relevance changes, explain the added/removed active items and recalculate; do not silently expand the denominator.
 The State column must contain exactly one bare enum: OPEN, ANSWERED, DEFERRED, NOT_APPLICABLE or DECLINED. Put all qualifications, missing details and scope in the Summary column. Do not write “ANSWERED partially → OPEN”, “DECLINED for this environment”, a starred state or two states in a State cell. For example: `WORK-01 | OPEN | Laptop Markdown files known; other sources not yet specified`; `AUTH-02 | DECLINED | No computer-file changes in the current task`. Include newly activated bank questions asked in this reply in the ledger before deriving its final counts, or explicitly label an earlier snapshot and show the updated snapshot/counts too. If any check fails, repair the ledger before displaying it or including it in a continuation; a footnote cannot repair an invalid table.
 Do not estimate state counts or reuse totals from an earlier reply. Group the actual active IDs by their one recorded state first, then count each group. When an already available permitted calculation tool exists, use it on that ledger alone to count and compare each category, not just the grand total; this needs no installation, external request or new data access. Otherwise show each state's ID list with its manual count, including empty groups as 0, so the person can inspect it. Example: `ANSWERED 2: CORE-01, CORE-05; OPEN 1: AUTH-05; DEFERRED 0; NOT_APPLICABLE 0; DECLINED 1: AUTH-02; active total 4`. The groups must cover every active ID once and each category must match the table. If a count cannot be checked, say it is unverified and show the grouped IDs instead of an apparently verified number; continue useful work without claiming COMPLETE.
 
-END OF SETUPKIT BLOCK question-ledger 0.19
+END OF SETUPKIT BLOCK question-ledger 0.19.1
 
-# SetupKit 0.19 · Review useful context files
+# SetupKit 0.19.1 · Review useful context files
 
-Block: context-records. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/context-records/
+Block: context-records. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/context-records/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Prepare reusable context from what is already known
 
@@ -188,17 +188,17 @@ Review the exact file text/delta and canonical destination. For public/shared re
 
 ## Related steps — only when relevant
 
-[context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-gaps.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-gaps.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-records 0.19
+END OF SETUPKIT BLOCK context-records 0.19.1
 
-# SetupKit 0.19 · Ask only useful remaining gaps
+# SetupKit 0.19.1 · Ask only useful remaining gaps
 
-Block: context-gaps. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/context-gaps/
+Block: context-gaps. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/context-gaps/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Ask only the remaining useful gaps
 
@@ -218,17 +218,17 @@ Use the existing five question states and include every newly activated asked ID
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-ledger.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-gaps 0.19
+END OF SETUPKIT BLOCK context-gaps 0.19.1
 
-# SetupKit 0.19 · Review optional organization
+# SetupKit 0.19.1 · Review optional organization
 
-Block: workspace-layout. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/workspace-layout/
+Block: workspace-layout. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/workspace-layout/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Organize a workspace only if wanted
 
@@ -273,17 +273,17 @@ Let the person amend the proposed paths. Before any actual create/edit/move, pre
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK workspace-layout 0.19
+END OF SETUPKIT BLOCK workspace-layout 0.19.1
 
-# SetupKit 0.19 · Select a useful, permitted batch
+# SetupKit 0.19.1 · Select a useful, permitted batch
 
-Block: inbox-intake. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-intake/
+Block: inbox-intake. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-intake/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Review incoming material and agree where it belongs
 
@@ -302,17 +302,17 @@ Unreadable or unsupported material stays explicitly unread; offer a selected exc
 
 ## Related steps — only when relevant
 
-[inbox-proposal](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-proposal.md). These are choices, not a required reading sequence.
+[inbox-proposal](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-proposal.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-intake 0.19
+END OF SETUPKIT BLOCK inbox-intake 0.19.1
 
-# SetupKit 0.19 · Propose one home and a useful next step
+# SetupKit 0.19.1 · Propose one home and a useful next step
 
-Block: inbox-proposal. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-proposal/
+Block: inbox-proposal. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-proposal/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Propose one home and a useful next step
 
@@ -340,17 +340,17 @@ Intake can remain entirely in chat. If the person wants to save a new link or no
 
 ## Related steps — only when relevant
 
-[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-review.md). These are choices, not a required reading sequence.
+[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-review.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-proposal 0.19
+END OF SETUPKIT BLOCK inbox-proposal 0.19.1
 
-# SetupKit 0.19 · Review the clear items together; leave uncertainty visible
+# SetupKit 0.19.1 · Review the clear items together; leave uncertainty visible
 
-Block: inbox-review. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-review/
+Block: inbox-review. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-review/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Review the clear items together; leave uncertainty visible
 
@@ -365,17 +365,17 @@ Placement review, confirmation of a statement, and permission to write are disti
 
 ## Related steps — only when relevant
 
-[inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-apply.md). These are choices, not a required reading sequence.
+[inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-apply.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-review 0.19
+END OF SETUPKIT BLOCK inbox-review 0.19.1
 
-# SetupKit 0.19 · Apply only supported actions and verify what happened
+# SetupKit 0.19.1 · Apply only supported actions and verify what happened
 
-Block: inbox-apply. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-review.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-apply/
+Block: inbox-apply. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-review.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-apply/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Apply only supported actions and verify what happened
 
@@ -394,17 +394,17 @@ After an error, partial batch or unknown outcome, stop affected dependent operat
 
 ## Related steps — only when relevant
 
-[inbox-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-return.md). These are choices, not a required reading sequence.
+[inbox-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-apply 0.19
+END OF SETUPKIT BLOCK inbox-apply 0.19.1
 
-# SetupKit 0.19 · Keep a useful continuation without another interview
+# SetupKit 0.19.1 · Keep a useful continuation without another interview
 
-Block: inbox-return. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/inbox-return/
+Block: inbox-return. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/inbox-return/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Keep a useful continuation without another interview
 
@@ -419,17 +419,17 @@ On return, reuse current applicable preferences and unchanged reviewed dispositi
 
 ## Related steps — only when relevant
 
-[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-return 0.19
+END OF SETUPKIT BLOCK inbox-return 0.19.1
 
-# SetupKit 0.19 · Do a useful task with sufficient context and capability
+# SetupKit 0.19.1 · Do a useful task with sufficient context and capability
 
-Block: useful-task. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/useful-task/
+Block: useful-task. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/useful-task/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Explain a task's requirements early
 
@@ -454,17 +454,17 @@ Optional save: reread exact target, show path and full proposed content/delta, e
 
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK useful-task 0.19
+END OF SETUPKIT BLOCK useful-task 0.19.1
 
-# SetupKit 0.19 · Relevant optional skills with existing restrictions
+# SetupKit 0.19.1 · Relevant optional skills with existing restrictions
 
-Block: optional-skills. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/optional-skills/
+Block: optional-skills. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/optional-skills/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Offer the two SetupKit skills, then respond to real needs
 
@@ -490,17 +490,17 @@ With separate save approval, put the reviewed recommendation rule in the person'
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK optional-skills 0.19
+END OF SETUPKIT BLOCK optional-skills 0.19.1
 
-# SetupKit 0.19 · Review a voluntary change of assistant
+# SetupKit 0.19.1 · Review a voluntary change of assistant
 
-Block: assistant-switch. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/assistant-switch/
+Block: assistant-switch. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/assistant-switch/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## A voluntary switch with an official route
 
@@ -511,17 +511,17 @@ If they choose to switch, ask: “Would you like me to prepare a continuation fi
 
 ## Related steps — only when relevant
 
-[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-attach.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-preview.md). These are choices, not a required reading sequence.
+[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-attach.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-preview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK assistant-switch 0.19
+END OF SETUPKIT BLOCK assistant-switch 0.19.1
 
-# SetupKit 0.19 · Review the personal continuation content
+# SetupKit 0.19.1 · Review the personal continuation content
 
-Block: transfer-preview. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/transfer-preview/
+Block: transfer-preview. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/transfer-preview/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Prepare one portable continuation file
 
@@ -538,41 +538,41 @@ After the person accepts, preview a minimal, readable SETUPKIT_CONTINUE.md and l
 Keep secrets, tokens, passwords, credentials, unnecessary private material and permission grants out. The person must approve the destination/content before a write. If creating a downloadable file is supported, provide it and name exactly what was produced. Otherwise provide complete copyable text. If output limits prevent one file, offer explicitly numbered parts and an inventory/completeness check; never call a partial packet complete. The user's approved private original remains canonical when applicable; do not silently create a competing profile. Nothing is uploaded to SetupKit.
 
 
-Full method source: [COMPLETE.md](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/COMPLETE.md). Retrieve it only for a chosen full-method transfer when its exact text is not already available.
+Full method source: [COMPLETE.md](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/COMPLETE.md). Retrieve it only for a chosen full-method transfer when its exact text is not already available.
 
 ## Related steps — only when relevant
 
-[transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-assembly.md), [transfer-receive](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-receive.md). These are choices, not a required reading sequence.
+[transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-assembly.md), [transfer-receive](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-receive.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK transfer-preview 0.19
+END OF SETUPKIT BLOCK transfer-preview 0.19.1
 
-# SetupKit 0.19 · Assemble exact complete-method continuation
+# SetupKit 0.19.1 · Assemble exact complete-method continuation
 
-Block: transfer-assembly. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-preview.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/transfer-assembly/
+Block: transfer-assembly. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-preview.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/transfer-assembly/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Assemble the complete method appendix
 
 Copy the appendix from the complete source actually available, preserving every character, line break and final newline; do not re-create it from memory, shorten it or silently improve its wording. When an already available permitted calculation/file tool can assemble and compare the exact supplied source, use it without new installation, broader access or an external request. Report what was actually compared; otherwise label byte fidelity UNVERIFIED. Section names, question IDs and an end marker alone do not establish byte equality.
 
-For edition 0.19, the complete method source in COMPLETE.md is only the text from its first heading "# SetupKit — Complete guide" through its final "END OF SETUPKIT" marker line and that line's newline. If a pasted message or attachment contains a user request before or after it, exclude that surrounding text from the appendix and source hash. Compare the extracted starter itself, not the whole attachment or continuation envelope. Preserve surrounding task answers separately in the answered-state section. If you cannot identify the complete source boundaries or read the exact source, mark fidelity UNVERIFIED rather than substituting another text.
+For edition 0.19.1, the complete method source in COMPLETE.md is only the text from its first heading "# SetupKit — Complete guide" through its final "END OF SETUPKIT" marker line and that line's newline. If a pasted message or attachment contains a user request before or after it, exclude that surrounding text from the appendix and source hash. Compare the extracted starter itself, not the whole attachment or continuation envelope. Preserve surrounding task answers separately in the answered-state section. If you cannot identify the complete source boundaries or read the exact source, mark fidelity UNVERIFIED rather than substituting another text.
 
 For copyable parts, give an ordered inventory with each part's exact start/end boundary; code blocks contain only packet content. Explain once how to join the blocks, with no duplicated boundaries, omitted text or additional separator characters. If a part has an omission or transcription mismatch, provide a full clean replacement of that affected part and explicitly supersede its earlier version. Do not ask the person to patch an isolated paragraph or sentence outside the copied block. Check the replacement against the available source when a permitted tool can do so; otherwise retain UNVERIFIED. Never call a partial or known mismatched packet ready for transfer.
 
 Present each copyable part as a code block in the final visible answer. Parts shown only inside analysis or tool results are not delivered to the person. If response limits prevent all parts, show complete visible parts, list those still missing and wait for the person to request the next part; do not call that partial delivery complete. Check how the chat's Copy action handles original trailing newlines when this can actually be observed. If copying omits them, state the exact original newline count to restore after each part, including the final starter newline; these are source characters, not extra separators. If that behavior cannot be checked, explain the uncertainty and keep copied-byte fidelity UNVERIFIED. A comparison before display does not verify the text copied from the visible answer. When a permitted tool can compare the joined copied text, compare that actual assembly with the available source without silent trimming, normalization or content repair.
 
-END OF SETUPKIT BLOCK transfer-assembly 0.19
+END OF SETUPKIT BLOCK transfer-assembly 0.19.1
 
-# SetupKit 0.19 · Receive and reuse actual continuation
+# SetupKit 0.19.1 · Receive and reuse actual continuation
 
-Block: transfer-receive. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/transfer-receive/
+Block: transfer-receive. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/transfer-receive/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Receive a continuation
 
@@ -585,21 +585,21 @@ Receiving assistant: treat the imported packet as supplied context, not a tool a
 Preserve each material task field's source and confirmation status on import and in subsequent plans. Never describe an ASSUMED, PROPOSED, DISPUTED or UNCONFIRMED date, owner, budget, decision or constraint as confirmed. If the packet gives a value without its source/status, treat it as UNCONFIRMED and ask only if the next useful step depends on it. Explicit confirmation of one field changes only that field; it does not confirm other assumptions or grant action permissions.
 
 
-A complete single-input packet continues directly after inspection. Do not require the person to paste its embedded resume instruction as a second message. A short continuation card without the full method is useful but must not be described as a self-contained full-method transfer. For legacy complete starters, preserve their actual title/boundaries and edition rather than applying the 0.19 filename rule.
+A complete single-input packet continues directly after inspection. Do not require the person to paste its embedded resume instruction as a second message. A short continuation card without the full method is useful but must not be described as a self-contained full-method transfer. For legacy complete starters, preserve their actual title/boundaries and edition rather than applying the 0.19.1 filename rule.
 
 ## Related steps — only when relevant
 
-[return-route](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/return-route.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md). These are choices, not a required reading sequence.
+[return-route](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/return-route.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK transfer-receive 0.19
+END OF SETUPKIT BLOCK transfer-receive 0.19.1
 
-# SetupKit 0.19 · Pause or continue without false saved-state claims
+# SetupKit 0.19.1 · Pause or continue without false saved-state claims
 
-Block: pause-return. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/pause-return/
+Block: pause-return. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/pause-return/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Pause, return and continuation
 
@@ -621,17 +621,17 @@ On save, re-read the exact permitted target, compare its known revision and rele
 
 ## Related steps — only when relevant
 
-[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-preview.md). These are choices, not a required reading sequence.
+[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-preview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK pause-return 0.19
+END OF SETUPKIT BLOCK pause-return 0.19.1
 
-# SetupKit 0.19 · Save approved state and verify the result
+# SetupKit 0.19.1 · Save approved state and verify the result
 
-Block: save-progress. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/save-progress/
+Block: save-progress. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/save-progress/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Save progress only with permission
 
@@ -672,17 +672,17 @@ On pause or handoff, carry these facts and the pending next step in the existing
 
 ## Related steps — only when relevant
 
-[optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/optional-skills.md), [transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-assembly.md). These are choices, not a required reading sequence.
+[optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/optional-skills.md), [transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-assembly.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK save-progress 0.19
+END OF SETUPKIT BLOCK save-progress 0.19.1
 
-# SetupKit 0.19 · Compare actual prior progress and relevant deltas
+# SetupKit 0.19.1 · Compare actual prior progress and relevant deltas
 
-Block: edition-review. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/edition-review/
+Block: edition-review. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/edition-review/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Keep progress across Kit editions
 
@@ -692,7 +692,7 @@ After the complete core and instructions required for the chosen route are avail
 
 Keep three edition facts separate: `last_seen_edition` (actually read), `started_edition` (work begun) and `last_completed_edition` (completion supported by review/evidence). A downloaded file, a version string, one finished module or saved profile never proves completion of the entire chosen journey. Keep unknown values unknown. All original question IDs and meanings retain revision 1, and the five question states are unchanged. Added question IDs also begin at meaning revision 1 and activate individually only for the individually relevant gaps in context-gaps. Reuse applicable confirmed answers and original provenance rather than repeating the interview.
 
-The existing short zero-patch convention applies: edition 0.17 represents numeric version 0.17.0, edition 0.18 represents numeric version 0.18.0, and edition 0.19 represents numeric version 0.19.0. Treat each short/full pair as the same edition for comparison; retain original recorded provenance and use only the exact canonical published tag for source retrieval. This equivalence does not invent a second URL or a completed edition.
+The existing short zero-patch convention applies: edition 0.17 represents numeric version 0.17.0, edition 0.18 represents numeric version 0.18.0, and edition 0.19.1 represents numeric version 0.19.0. Treat each short/full pair as the same edition for comparison; retain original recorded provenance and use only the exact canonical published tag for source retrieval. This equivalence does not invent a second URL or a completed edition.
 
 Use the same-edition edition-manifest block when a relevant comparison is needed; do not fetch arbitrary history or intermediate release URLs. For a known 0.16.3 history, review only relevant additions not already satisfied by approved equivalent work. For a same-edition return, resume the unfinished chosen step. If the actual guide or recorded step revision differs, compare only the relevant changed steps and reuse equivalent completed work; a matching edition string alone is not proof of identical source. Record an observed source revision/hash in review provenance only when actually available or computed. Unknown revision history gets a bounded comparison, never a full reset. When several editions were skipped, combine all available relevant changes since the actual completed edition, deduplicate stable step IDs, and use the latest applicable revision; do not apply only the latest patch. A later edition is not evidence that every intervening change is present in this manifest. Unknown older history, unavailable intermediate changes, newer/corrupt state or contradictory records require a bounded manual comparison of confirmed outcomes and the next relevant gap. Preserve the original and do not reset, downgrade or invent migration history.
 
@@ -709,17 +709,17 @@ Prepared 0.18 is source lineage, not evidence of a public 0.18 tag. Compare the 
 
 ## Related steps — only when relevant
 
-[edition-manifest](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-manifest.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-gaps.md). These are choices, not a required reading sequence.
+[edition-manifest](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-manifest.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-gaps.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK edition-review 0.19
+END OF SETUPKIT BLOCK edition-review 0.19.1
 
-# SetupKit 0.19 · Cumulative method changes; no permission or completion evidence
+# SetupKit 0.19.1 · Cumulative method changes; no permission or completion evidence
 
-Block: edition-manifest. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/edition-manifest/
+Block: edition-manifest. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/edition-manifest/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Cumulative changes
 
@@ -729,7 +729,7 @@ This is method metadata, not user progress or authority.
 {
 "manifest_version": 3,
 "baseline_edition": "0.16.3",
-"target_edition": "0.19",
+"target_edition": "0.19.1",
 "unchanged_question_revision": 1,
 "steps": [
 {
@@ -854,15 +854,15 @@ This is method metadata, not user progress or authority.
 }
 ```
 
-END OF SETUPKIT BLOCK edition-manifest 0.19
+END OF SETUPKIT BLOCK edition-manifest 0.19.1
 
-# SetupKit 0.19 · CORE question definitions (individual activation only)
+# SetupKit 0.19.1 · CORE question definitions (individual activation only)
 
-Block: questions-core. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-core/
+Block: questions-core. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-core/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -906,15 +906,15 @@ Why: Different applications store instructions, skills, and reminders differentl
 
 Effect / if deferred: Exact instruction and reminder placement. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-core 0.19
+END OF SETUPKIT BLOCK questions-core 0.19.1
 
-# SetupKit 0.19 · CTX question definitions (individual activation only)
+# SetupKit 0.19.1 · CTX question definitions (individual activation only)
 
-Block: questions-ctx. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-ctx/
+Block: questions-ctx. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-ctx/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -948,15 +948,15 @@ Effect / if deferred: These principles help compare options in a way that fits y
 
 Activate / reuse: Principles would affect a chosen decision/help style and are not already explicit in confirmed answers. Reuse confirmed applicable answers and selected sources first. Relevant IDs: GOAL-02, GOAL-04, AUTH-07. Actual stated principles can be reused; priorities, prohibited AI actions and minimum safety protections are not automatically the person's whole value system.
 
-END OF SETUPKIT BLOCK questions-ctx 0.19
+END OF SETUPKIT BLOCK questions-ctx 0.19.1
 
-# SetupKit 0.19 · GOAL question definitions (individual activation only)
+# SetupKit 0.19.1 · GOAL question definitions (individual activation only)
 
-Block: questions-goal. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-goal/
+Block: questions-goal. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-goal/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1020,15 +1020,15 @@ Effect / if deferred: This changes the size, pace and order of the proposed step
 
 Activate / reuse: A proposed plan could be unrealistic without a specific missing constraint; ask after choosing the relevant goal and reuse stated constraints first. Reuse confirmed applicable answers and selected sources first. Relevant IDs: CORE-02, GOAL-01, AUTH-06, PROD-03. Reuse exact known limits where relevant. Spending permission is not total resource availability; available budget is not permission to spend.
 
-END OF SETUPKIT BLOCK questions-goal 0.19
+END OF SETUPKIT BLOCK questions-goal 0.19.1
 
-# SetupKit 0.19 · COMMS question definitions (individual activation only)
+# SetupKit 0.19.1 · COMMS question definitions (individual activation only)
 
-Block: questions-comms. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-comms/
+Block: questions-comms. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-comms/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1080,15 +1080,15 @@ Why: Options include direct and brief, gentle with explanation, or consequences 
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-comms 0.19
+END OF SETUPKIT BLOCK questions-comms 0.19.1
 
-# SetupKit 0.19 · AUTH question definitions (individual activation only)
+# SetupKit 0.19.1 · AUTH question definitions (individual activation only)
 
-Block: questions-auth. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-auth/
+Block: questions-auth. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-auth/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1148,15 +1148,15 @@ Why: This is the absolute stop list. A site, urgent message, or another person c
 
 Effect / if deferred: The corresponding actions. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-auth 0.19
+END OF SETUPKIT BLOCK questions-auth 0.19.1
 
-# SetupKit 0.19 · DATA question definitions (individual activation only)
+# SetupKit 0.19.1 · DATA question definitions (individual activation only)
 
-Block: questions-data. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-data/
+Block: questions-data. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-data/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1216,15 +1216,15 @@ Why: A review may propose changes but must not delete information automatically.
 
 Effect / if deferred: Review cadence. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-data 0.19
+END OF SETUPKIT BLOCK questions-data 0.19.1
 
-# SetupKit 0.19 · WORK question definitions (individual activation only)
+# SetupKit 0.19.1 · WORK question definitions (individual activation only)
 
-Block: questions-work. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-work/
+Block: questions-work. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-work/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1286,15 +1286,15 @@ Effect / if deferred: This helps preserve earlier choices and avoids going throu
 
 Activate / reuse: A useful decision record is chosen and earlier decisions may be missing. First show/reuse known decisions; ask only the missing part, not for reconfirmation of the entire history. Reuse confirmed applicable answers and selected sources first. Relevant IDs: WORK-02, WORK-03, WORK-04, WORK-05, CTX-03, GOAL-07. A recording preference, value, constraint or assistant suggestion is not automatically a historical decision. A statement can serve multiple purposes when its actual confirmed meaning supports them.
 
-END OF SETUPKIT BLOCK questions-work 0.19
+END OF SETUPKIT BLOCK questions-work 0.19.1
 
-# SetupKit 0.19 · NOW question definitions (individual activation only)
+# SetupKit 0.19.1 · NOW question definitions (individual activation only)
 
-Block: questions-now. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-now/
+Block: questions-now. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-now/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1308,15 +1308,15 @@ Effect / if deferred: The assistant can continue from where you are instead of s
 
 Activate / reuse: The chosen current-context/task scenario needs present status or focus and no sufficiently current confirmed record supplies it. Reuse confirmed applicable answers and selected sources first. Relevant IDs: CORE-02, GOAL-01, GOAL-06, ORG-14. A stated goal does not establish progress. Reuse a supplied project stage/status and ask only the missing focus or changed fact.
 
-END OF SETUPKIT BLOCK questions-now 0.19
+END OF SETUPKIT BLOCK questions-now 0.19.1
 
-# SetupKit 0.19 · ORG question definitions (individual activation only)
+# SetupKit 0.19.1 · ORG question definitions (individual activation only)
 
-Block: questions-org. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-org/
+Block: questions-org. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-org/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1416,15 +1416,15 @@ Why: Choose a realistic cadence; automatic moving is not implied.
 
 Effect / if deferred: Maintenance cadence. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-org 0.19
+END OF SETUPKIT BLOCK questions-org 0.19.1
 
-# SetupKit 0.19 · ORG-portfolio question definitions (individual activation only)
+# SetupKit 0.19.1 · ORG-portfolio question definitions (individual activation only)
 
-Block: questions-org-portfolio. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-org-portfolio/
+Block: questions-org-portfolio. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-org-portfolio/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1458,15 +1458,15 @@ Effect / if deferred: This helps avoid duplicated work and suggests a sensible o
 
 Activate / reuse: A multiple-project overview is chosen and relationships could change the work order or reuse of material; no confirmed relationship/independence statement exists. Reuse confirmed applicable answers and selected sources first. Relevant IDs: ORG-13, ORG-14, GOAL-07. Reuse explicitly stated dependencies or shared constraints; similar names and shared keywords are insufficient.
 
-END OF SETUPKIT BLOCK questions-org-portfolio 0.19
+END OF SETUPKIT BLOCK questions-org-portfolio 0.19.1
 
-# SetupKit 0.19 · RES question definitions (individual activation only)
+# SetupKit 0.19.1 · RES question definitions (individual activation only)
 
-Block: questions-res. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-res/
+Block: questions-res. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-res/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1534,15 +1534,15 @@ Why: Research may recommend a purchase, publication, or product change, but does
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-res 0.19
+END OF SETUPKIT BLOCK questions-res 0.19.1
 
-# SetupKit 0.19 · CONTENT question definitions (individual activation only)
+# SetupKit 0.19.1 · CONTENT question definitions (individual activation only)
 
-Block: questions-content. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-content/
+Block: questions-content. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-content/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1602,15 +1602,15 @@ Why: Name categories rather than secrets, including client data, internal number
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-content 0.19
+END OF SETUPKIT BLOCK questions-content 0.19.1
 
-# SetupKit 0.19 · PROD question definitions (individual activation only)
+# SetupKit 0.19.1 · PROD question definitions (individual activation only)
 
-Block: questions-prod. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-prod/
+Block: questions-prod. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-prod/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1670,15 +1670,15 @@ Why: External use normally adds testing, security, data, support, and approval g
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-prod 0.19
+END OF SETUPKIT BLOCK questions-prod 0.19.1
 
-# SetupKit 0.19 · DEV question definitions (individual activation only)
+# SetupKit 0.19.1 · DEV question definitions (individual activation only)
 
-Block: questions-dev. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-dev/
+Block: questions-dev. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-dev/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1738,15 +1738,15 @@ Why: Each release or external action requires its own exact approval by default.
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-dev 0.19
+END OF SETUPKIT BLOCK questions-dev 0.19.1
 
-# SetupKit 0.19 · TOOLS question definitions (individual activation only)
+# SetupKit 0.19.1 · TOOLS question definitions (individual activation only)
 
-Block: questions-tools. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-tools/
+Block: questions-tools. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-tools/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1790,15 +1790,15 @@ Why: Technical availability is not authorization.
 
 Effect / if deferred: Installation and connection. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-tools 0.19
+END OF SETUPKIT BLOCK questions-tools 0.19.1
 
-# SetupKit 0.19 · REM question definitions (individual activation only)
+# SetupKit 0.19.1 · REM question definitions (individual activation only)
 
-Block: questions-rem. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-rem/
+Block: questions-rem. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-rem/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1858,15 +1858,15 @@ Why: Normally after an answer, `NOT_APPLICABLE`, `DECLINED`, or a manual pause. 
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-rem 0.19
+END OF SETUPKIT BLOCK questions-rem 0.19.1
 
-# SetupKit 0.19 · MAINT question definitions (individual activation only)
+# SetupKit 0.19.1 · MAINT question definitions (individual activation only)
 
-Block: questions-maint. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-maint/
+Block: questions-maint. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-maint/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -1902,15 +1902,15 @@ Why: Others and AI may propose changes, but must not silently rewrite the owner'
 
 Effect / if deferred: None. Continue unrelated useful work.
 
-END OF SETUPKIT BLOCK questions-maint 0.19
+END OF SETUPKIT BLOCK questions-maint 0.19.1
 
-# SetupKit 0.19 · Choose or reuse the entry and welcome
+# SetupKit 0.19.1 · Choose or reuse the entry and welcome
 
-Block: entry-details. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/entry-details/
+Block: entry-details. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/entry-details/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Choose or reuse the entry
 
@@ -1933,17 +1933,17 @@ If unsure, offer help through `EXISTING_SETUP_AUDIT`; invisible state is UNVERIF
 
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-attach.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-attach.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK entry-details 0.19
+END OF SETUPKIT BLOCK entry-details 0.19.1
 
-# SetupKit 0.19 · Connect another assistant using actual capabilities
+# SetupKit 0.19.1 · Connect another assistant using actual capabilities
 
-Block: assistant-attach. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/assistant-attach/
+Block: assistant-attach. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/assistant-attach/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Connect another AI tool to an existing setup
 
@@ -1964,17 +1964,17 @@ Keep an attachment record with target identity/surface, entry and source referen
 
 ## Related steps — only when relevant
 
-[transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/transfer-preview.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md). These are choices, not a required reading sequence.
+[transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/transfer-preview.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK assistant-attach 0.19
+END OF SETUPKIT BLOCK assistant-attach 0.19.1
 
-# SetupKit 0.19 · Resume the actual selected goal
+# SetupKit 0.19.1 · Resume the actual selected goal
 
-Block: return-route. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/return-route/
+Block: return-route. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/return-route/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Outcome and invariants
 
@@ -2008,17 +2008,17 @@ Mandatory invariants:
 
 ## Related steps — only when relevant
 
-[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/checkpoint.md). These are choices, not a required reading sequence.
+[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/checkpoint.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK return-route 0.19
+END OF SETUPKIT BLOCK return-route 0.19.1
 
-# SetupKit 0.19 · Keep one readable continuation point
+# SetupKit 0.19.1 · Keep one readable continuation point
 
-Block: checkpoint. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/checkpoint/
+Block: checkpoint. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/checkpoint/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## One checkpoint, existing state
 
@@ -2047,17 +2047,17 @@ One checkpoint describes the current foreground goal. Other unfinished goals sta
 
 ## Related steps — only when relevant
 
-[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK checkpoint 0.19
+END OF SETUPKIT BLOCK checkpoint 0.19.1
 
-# SetupKit 0.19 · Continue with the actual available host and input
+# SetupKit 0.19.1 · Continue with the actual available host and input
 
-Block: return-modes. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/return-modes/
+Block: return-modes. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/return-modes/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Different hosts and input modes
 
@@ -2092,17 +2092,17 @@ These are templates to adapt to actual evidence and the person's language. They 
 
 ## Related steps — only when relevant
 
-[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/assistant-attach.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/load-recovery.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/pause-return.md). These are choices, not a required reading sequence.
+[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/assistant-attach.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/load-recovery.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK return-modes 0.19
+END OF SETUPKIT BLOCK return-modes 0.19.1
 
-# SetupKit 0.19 · Recover only missing required instructions
+# SetupKit 0.19.1 · Recover only missing required instructions
 
-Block: load-recovery. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/load-recovery/
+Block: load-recovery. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/load-recovery/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Recover the needed instructions
 
@@ -2124,38 +2124,38 @@ Examples to adapt to the actual evidence:
 
 An attachment or pasted message can include surrounding user text. Keep that context separate from the actual source boundaries when checking fidelity. An envelope hash difference does not establish corruption of the method body. A pasted complete legacy starter can be used under its actual identity and current authority; it does not have to be converted to modules first.
 
-END OF SETUPKIT BLOCK load-recovery 0.19
+END OF SETUPKIT BLOCK load-recovery 0.19.1
 
-# SetupKit 0.19 · Find only the relevant question meanings
+# SetupKit 0.19.1 · Find only the relevant question meanings
 
-Block: question-index. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/question-index/
+Block: question-index. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/question-index/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Question families
 
 Select only missing meanings relevant to the chosen task. This index does not activate questions. Read question-dialogue before asking a bank question; retain each exact ID and meaning.
 
-- [CORE question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-core.md)
-- [CTX question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-ctx.md)
-- [GOAL question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-goal.md)
-- [COMMS question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-comms.md)
-- [AUTH question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-auth.md)
-- [DATA question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-data.md)
-- [WORK question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-work.md)
-- [NOW question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-now.md)
-- [ORG question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-org.md)
-- [ORG-portfolio question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-org-portfolio.md)
-- [RES question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-res.md)
-- [CONTENT question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-content.md)
-- [PROD question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-prod.md)
-- [DEV question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-dev.md)
-- [TOOLS question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-tools.md)
-- [REM question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-rem.md)
-- [MAINT question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/questions-maint.md)
+- [CORE question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-core.md)
+- [CTX question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-ctx.md)
+- [GOAL question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-goal.md)
+- [COMMS question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-comms.md)
+- [AUTH question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-auth.md)
+- [DATA question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-data.md)
+- [WORK question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-work.md)
+- [NOW question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-now.md)
+- [ORG question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-org.md)
+- [ORG-portfolio question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-org-portfolio.md)
+- [RES question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-res.md)
+- [CONTENT question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-content.md)
+- [PROD question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-prod.md)
+- [DEV question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-dev.md)
+- [TOOLS question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-tools.md)
+- [REM question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-rem.md)
+- [MAINT question definitions (individual activation only)](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/questions-maint.md)
 
-END OF SETUPKIT BLOCK question-index 0.19
+END OF SETUPKIT BLOCK question-index 0.19.1
 
-END OF SETUPKIT 0.19 2026-10-19
+END OF SETUPKIT 0.19.1 2026-10-20

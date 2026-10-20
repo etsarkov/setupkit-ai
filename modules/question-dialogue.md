@@ -1,10 +1,10 @@
-# SetupKit 0.19 · Ask needed questions and preserve their meaning
+# SetupKit 0.19.1 · Ask needed questions and preserve their meaning
 
-Block: question-dialogue. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/question-dialogue/
+Block: question-dialogue. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/question-dialogue/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Understand the person and how they use AI
 
@@ -24,6 +24,6 @@ Before marking a question answered, deferred or declined, compare the person's a
 
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-ledger.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-index.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-ledger.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK question-dialogue 0.19
+END OF SETUPKIT BLOCK question-dialogue 0.19.1

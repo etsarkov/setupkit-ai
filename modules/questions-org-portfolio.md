@@ -1,10 +1,10 @@
-# SetupKit 0.19 · ORG-portfolio question definitions (individual activation only)
+# SetupKit 0.19.1 · ORG-portfolio question definitions (individual activation only)
 
-Block: questions-org-portfolio. Updated: 2026-10-19.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19/questions-org-portfolio/
+Block: questions-org-portfolio. Updated: 2026-10-20.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.1/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.19.1/questions-org-portfolio/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19/; localize as https://setupkit.ai/<lang>/kit/0.19/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.1/; localize as https://setupkit.ai/<lang>/kit/0.19.1/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -38,4 +38,4 @@ Effect / if deferred: This helps avoid duplicated work and suggests a sensible o
 
 Activate / reuse: A multiple-project overview is chosen and relationships could change the work order or reuse of material; no confirmed relationship/independence statement exists. Reuse confirmed applicable answers and selected sources first. Relevant IDs: ORG-13, ORG-14, GOAL-07. Reuse explicitly stated dependencies or shared constraints; similar names and shared keywords are insufficient.
 
-END OF SETUPKIT BLOCK questions-org-portfolio 0.19
+END OF SETUPKIT BLOCK questions-org-portfolio 0.19.1

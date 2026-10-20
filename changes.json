@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "baseline_edition": "0.16.3",
-  "target_edition": "0.19",
+  "target_edition": "0.19.1",
   "unchanged_question_revision": 1,
   "steps": [
     {
@@ -122,5 +122,10 @@
       "introduced_in": "0.17",
       "activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
     }
-  ]
+  ],
+  "release_correction": {
+    "from_edition": "0.19",
+    "method_rules_changed": false,
+    "question_revision_changed": false
+  }
 }
