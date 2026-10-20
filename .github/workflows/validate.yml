@@ -41,7 +41,14 @@ jobs:
               release = json.loads(payload['release.json'])
               assert hashlib.sha256(payload['STARTER.md']).hexdigest() == release['starter_sha256']
               assert hashlib.sha256(payload['START_PROMPT.txt']).hexdigest() == release['start_prompt_sha256']
-              assert ('END OF SETUPKIT ' + release['version'] + ' ' + release['revision_date']) in payload['STARTER.md'].decode()
+              assert ('END OF SETUPKIT CORE ' + release['version'] + ' ' + release['revision_date']) in payload['STARTER.md'].decode()
+              distribution = json.loads(payload['distribution.json'])
+              assert distribution['edition'] == release['version']
+              assert distribution['core_sha256'] == release['starter_sha256']
+              assert hashlib.sha256(payload['COMPLETE.md']).hexdigest() == distribution['complete_sha256']
+              assert ('END OF SETUPKIT ' + release['version'] + ' ' + release['revision_date']) in payload['COMPLETE.md'].decode()
+              for block in distribution['blocks']:
+                  assert hashlib.sha256(payload[block['path']]).hexdigest() == block['sha256']
               assert release['planned_ref'] == 'setupkit-v' + release['version']
               for name, data in payload.items():
                   if name.endswith(('.md', '.txt', '.json')):

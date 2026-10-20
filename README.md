@@ -6,7 +6,7 @@ Help your AI understand how you work. One free guide helps you create working ru
 
 ## How to start
 
-1. Copy the [start prompt](START_PROMPT.txt).
+1. Copy the [start prompt](prompts/en.txt).
 2. Paste it into your AI chat and send it.
 3. Answer the relevant questions and choose a task to work on together.
 
@@ -14,7 +14,7 @@ You can start in your current chat. Tell your assistant which tool you use and h
 
 ## Current edition
 
-[The complete guide](STARTER.md) is edition `0.17.1`, updated `2026-10-19`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
+[The complete guide](COMPLETE.md) is edition `0.19`, updated `2026-10-19`. Your assistant should ask relevant questions, explain why they matter and reuse answers you have already supplied.
 
 If the source cannot be read, follow [the complete-text recovery steps](docs/getting-started.md#if-the-guide-cannot-be-read). Missing content must be requested, not invented. [Compatibility and limits](docs/compatibility.md) explain what has and has not been verified.
 
@@ -23,6 +23,10 @@ If the source cannot be read, follow [the complete-text recovery steps](docs/get
 If useful, you can also organize your existing workspace and prepare a small set of reviewed files about you, your goals and your work. Start with material you already have, such as a CV or selected project notes. Choose which changes to make; you can skip questions or leave them for later.
 
 When you return, bring your saved progress or continuation so your assistant can reuse confirmed answers and review relevant unfinished or new steps. Files are saved only with your approval and the access your assistant actually has; creating them does not guarantee automatic memory or synchronization.
+
+## Sort selected materials — if useful
+
+Ask your assistant to help sort selected files, links or notes. It can suggest which project each item belongs to, where to keep it and what is useful to summarize, while keeping references to the originals. Review the proposal and choose what to change or leave for later. Files are saved or moved only with your approval and suitable access; otherwise, you get a plan to follow manually. Bring the reviewed record when you return so the assistant can focus on new, changed or unfinished items.
 
 ## Skills
 

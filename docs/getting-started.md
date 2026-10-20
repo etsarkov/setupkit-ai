@@ -4,9 +4,9 @@ Copy the start prompt, paste it into your current AI chat and send it. Answer yo
 
 ## If the guide cannot be read
 
-Open [the complete current text](https://setupkit.ai/kit/) and copy the complete text, including its final marker. Paste it into the same chat. If it is too long, paste numbered parts in order. Wait until all parts are supplied, then send the completion instruction shown on that page. The assistant should confirm the edition, date, complete sections and final marker, reuse your answers and continue from your last confirmed step. It must ask for missing parts instead of reconstructing them.
+The start prompt already contains the core instructions. If your assistant needs another section and gives you its link, open it, copy the text and paste it into the same chat. If no link was provided, ask which instructions are missing. Your assistant should reuse earlier answers and continue when the required text is complete; no separate recovery command is needed.
 
-If the website is unavailable, open [the complete guide in this repository](../STARTER.md) and copy its text instead. Do not connect an account or bypass restrictions just to retrieve the guide.
+If you need the whole guide, use [the current complete text](https://setupkit.ai/kit/) or [the complete guide in this repository](../COMPLETE.md). Send numbered parts if necessary. Ask only for missing parts rather than reconstructing them. Do not connect an account or bypass restrictions to obtain instructions.
 
 ## When another work mode is useful
 
@@ -20,6 +20,16 @@ If you want reusable context, start with selected material you already have and 
 
 ## A brief welcome, then your next step
 
-After loading the complete guide, your assistant gives a short introduction in your language: what you can achieve together, how to answer in ordinary words, and how to skip or pause. If you already supplied your goal, it uses that goal.
+After receiving the start prompt, your assistant gives a short introduction in your language: what you can achieve together, how to answer in ordinary words, and how to skip or pause. If you already supplied your goal, it uses that goal.
 
 When you return with relevant continuation available, the assistant briefly picks up the known next step. If that context is unavailable, it asks only for what is needed rather than claiming to remember. A new Kit edition does not require repeating the introduction or your previous answers.
+
+## Sort selected incoming materials
+
+If useful for your task, ask your assistant to sort a selected set of files, links or notes. Start with the materials and answers already available; you do not need to repeat setup or answer a new full questionnaire.
+
+The assistant proposes which project each item belongs to, where to keep it in your existing workspace, and what is worth summarizing. References to the originals stay with summaries. Working notes, ready results and confirmed decisions remain distinct; agreeing on a location does not confirm every claim inside a source.
+
+Review the proposal, change individual destinations or leave items for later. Saving or moving needs your approval of the specific changes and suitable tool access. If those are unavailable, the assistant provides a complete manual plan and labels it as not applied. Nothing is sorted automatically in the background.
+
+When you return, supply the reviewed record or continuation. The assistant can then focus on new, changed or unfinished items instead of repeating completed work. Saving that record is optional and does not create automatic memory or synchronization.
