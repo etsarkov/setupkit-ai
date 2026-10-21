@@ -13,7 +13,7 @@
   "raw_root": "https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/",
   "reader_root": "https://setupkit.ai/kit/0.20/",
   "core_sha256": "2aed51dd12f165b2432d41ec2ab3d9a3813ead0d807285230c1c27dd74665df3",
-  "complete_sha256": "dc646ee3e8da259081984682d544694f4d7d746793cd8bf0df2d69021836681c",
+  "complete_sha256": "c20689990db79add27f661af6b878953a9547227065dce24dd2b0938beb57d69",
   "baseline_sha256": "121659a585931b16c1401506eb5cc1e835e940736d6c5915d107b18e21a92049",
   "body_byte_budget": 6144,
   "block_count": 47,
@@ -283,9 +283,9 @@
       "module": "M05",
       "path": "modules/transfer-assembly.md",
       "title": "Assemble exact complete-method continuation",
-      "bytes": 3698,
-      "sha256": "e24a116eb27757dd20b797546d317df149e9d08a5199016c0897bacfc6605ed4",
-      "body_sha256": "4dc4886fb04c5e1ad77b3b1a3fc487ddca37ff602b94ed41f28115986a2b2e53",
+      "bytes": 3696,
+      "sha256": "acfd5a72ede7d0581385ded3a25355fb8b7d850ea27d966c8dbc5e7ebc900efb",
+      "body_sha256": "d63bf66743ca1c2b7c36c6d1067d6521c36cdb3e27f127a9ff5ce57c6edbf2d4",
       "required_instruction_units": [
         "core",
         "transfer-preview"
@@ -353,9 +353,9 @@
       "module": "M00",
       "path": "modules/edition-review.md",
       "title": "Compare actual prior progress and relevant deltas",
-      "bytes": 5899,
-      "sha256": "c4f562313479243f624bb4eee7c240d90c449ea053ac380f927daebae64f4986",
-      "body_sha256": "59f4ce77bad0af2965b0c75121251298663c8e9a5276bc46f4c90caa33a5bc2b",
+      "bytes": 5947,
+      "sha256": "7dfb066b06eb74442ca6ffb13172dc4a04e5f6d6d0db5bb1099de5454323a872",
+      "body_sha256": "62f0493b2f12e77d1ecebf1b1fe34dbf6fa76f22ca0cdcbe024dc0adff864428",
       "required_instruction_units": [
         "core"
       ],

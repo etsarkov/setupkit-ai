@@ -40,15 +40,25 @@ jobs:
                   assert hashlib.sha256(payload[name]).hexdigest() == expected, 'Content mismatch: ' + name
               release = json.loads(payload['release.json'])
               assert release['schema_version'] == 2
-              # Version aliases are mathematical identities, independent of packaging replacements.
+              # Current and historical aliases are identities, independent of packaging replacements.
+              distribution = json.loads(payload['distribution.json'])
+              assert distribution['edition'] == release['version']
+              current = (distribution['edition'], distribution['numeric_version'])
+              expected_aliases = {('0.17', '0.17.0'), ('0.18', '0.18.0'), ('0.19', '0.19.0')}
+              if len(current[0].split('.')) == 2:
+                  assert current[1] == current[0] + '.0', 'Invalid current numeric version'
+                  expected_aliases.add(current)
               for name in ('modules/edition-review.md', 'COMPLETE.md'):
                   pairs = re.findall(r'edition (\d+\.\d+(?:\.\d+)?) represents numeric version (\d+\.\d+(?:\.\d+)?)', payload[name].decode())
-                  assert len(pairs) == 3, 'Missing historical aliases: ' + name
+                  assert len(pairs) == len(expected_aliases), 'Missing or duplicate edition aliases: ' + name
                   for left, right in pairs:
                       left_parts = left.split('.')
                       right_parts = right.split('.')
                       assert tuple(map(int, left_parts + ['0'] * (3-len(left_parts)))) == tuple(map(int, right_parts + ['0'] * (3-len(right_parts)))), 'Invalid edition alias: ' + name
-                  assert set(pairs) == {('0.17', '0.17.0'), ('0.18', '0.18.0'), ('0.19', '0.19.0')}, 'Historical aliases changed: ' + name
+                  assert set(pairs) == expected_aliases, 'Current or historical aliases changed: ' + name
+              for name in ('modules/transfer-assembly.md', 'COMPLETE.md'):
+                  selectors = re.findall(r'For edition (\d+\.\d+(?:\.\d+)?), the complete method source', payload[name].decode())
+                  assert selectors == [release['version']], 'Incorrect complete-source edition: ' + name
               assert not {'published_at', 'public_source_verified', 'website_deployed', 'supported_hosts_verified'} & release.keys()
               assert release['publication_status_url'] == 'https://api.github.com/repos/etsarkov/setupkit-ai/releases/tags/' + release['planned_ref']
               edition_line = 'Edition: ' + release['version'] + '. Updated: ' + release['revision_date'] + '.'
