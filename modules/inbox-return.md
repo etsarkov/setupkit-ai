@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Keep a useful continuation without another interview
+# SetupKit 0.20 · Keep a useful continuation without another interview
 
-Block: inbox-return. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/inbox-return/
+Block: inbox-return. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/inbox-return/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Keep a useful continuation without another interview
 
@@ -14,11 +14,13 @@ The chat table is enough by default. If a durable record is wanted, reuse the pe
 
 Optional progress uses the existing state shape: record WC-INBOX revision1 and the person's choice in module_choices, appropriate permitted record references in context_refs, and any pending next_step. No new state schema, material-body store or durable permission grant is created. Saving progress still needs its own exact permitted delta/readback. Unknown or malformed state remains unchanged under the existing recovery rules.
 
-On return, reuse current applicable preferences and unchanged reviewed dispositions. Inspect only new, changed or relevant unresolved material within current read permission. Use an available trustworthy version marker or re-inspect affected content; a filename or remembered success is not freshness evidence. Leave deferred/declined items alone unless explicitly requested or a materially relevant change warrants a brief explained revisit. If history is missing, ask only for the necessary prior result or continuation; do not invent completion or restart setup. A newer Kit edition can introduce this relevant procedure, but cannot reset prior answers, re-offer a declined branch merely because of the version, auto-run the inbox or claim the procedure completed. The existing two-skill policy remains separate; neither skill is a prerequisite for sorting.
+On return, reuse current applicable preferences and unchanged reviewed dispositions. Inspect only new, changed or relevant unresolved material within current read permission. Use an available trustworthy version marker or re-inspect affected content; a filename or remembered success is not freshness evidence. Leave deferred/declined items alone unless explicitly requested or a materially relevant change warrants a brief explained revisit. If history is missing, ask only for the necessary prior result or continuation; do not invent completion or restart setup. A newer Kit edition can introduce this relevant procedure, but cannot reset prior answers, re-offer a declined branch merely because of the version, auto-run the inbox or claim the procedure completed. The contextual optional-skill policy remains separate; neither skill is a prerequisite for sorting.
 
+
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
 
 ## Related steps — only when relevant
 
-[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/pause-return.md). These are choices, not a required reading sequence.
+[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-review.md), [inbox-apply](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-apply.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-return 0.19.2
+END OF SETUPKIT BLOCK inbox-return 0.20

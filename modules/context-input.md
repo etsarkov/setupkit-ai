@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Use chosen personal material
+# SetupKit 0.20 · Use chosen personal material
 
-Block: context-input. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/context-input/
+Block: context-input. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/context-input/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Use selected material before personal or project questions
 
@@ -26,6 +26,6 @@ The path is: known answers → selected permitted material → short summary or 
 
 ## Related steps — only when relevant
 
-[context-records](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-records.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-gaps.md), [project-overview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/project-overview.md). These are choices, not a required reading sequence.
+[context-records](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-records.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-gaps.md), [project-overview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/project-overview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-input 0.19.2
+END OF SETUPKIT BLOCK context-input 0.20

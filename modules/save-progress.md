@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Save approved state and verify the result
+# SetupKit 0.20 · Save approved state and verify the result
 
-Block: save-progress. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/save-progress/
+Block: save-progress. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/save-progress/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Save progress only with permission
 
@@ -37,7 +37,7 @@ Each question record retains stable ID, meaning revision if known, active flag, 
 
 Before saving, review the exact record/delta, privacy and destination under the existing save rules. Re-read the target and retain the previous revision; count a state revision as committed only after the authorized write/readback succeeds. A failed/unknown write leaves persisted state unverified and does not advance confirmed saved progress. Save/readback evidence is reported after the operation, not invented inside a pre-write preview. No file is deleted or overwritten destructively to recover. Stop the dependent action if the actual environment cannot enforce path scope, approval and safe parameter handling; use complete manual text instead of treating these instructions as a runtime security boundary.
 
-At review, distinguish chosen, applied, saved and verified outcomes. Only set the current `last_completed_edition` when the existing COMPLETE conditions are met for the active chosen scope: all active questions terminal, dependent actions resolved or explicitly disabled, no material conflicts and the person's review. Declining an optional module leaves its unasked questions inactive; do not fabricate their answers or a completed module. Agreed active work deferred for later is still unfinished. A deliberately disabled optional branch can allow completion of the chosen scope without claiming it was performed. Preserve a supported earlier completed edition while a newer run is partial. Manual completion can be reviewed in the chat, explicitly unsaved, with no promise that a future assistant will remember it.
+At review, distinguish chosen, applied, saved and verified outcomes. To advance last_completed_edition, use the selected-scope completion criteria in [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md). Preserve an earlier supported completed edition while newer work is partial. A saved profile alone never proves setup completion. Manual completion can be reviewed in chat, explicitly unsaved.
 
 On pause or handoff, carry these facts and the pending next step in the existing continuation card/file, together with the exact full current method when that format is chosen. Preserve all source-boundary, visible-part and newline fidelity rules in transfer-assembly. No automatic transfer or permission inheritance follows from saved progress.
 
@@ -45,6 +45,6 @@ On pause or handoff, carry these facts and the pending next step in the existing
 
 ## Related steps — only when relevant
 
-[optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/optional-skills.md), [transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-assembly.md). These are choices, not a required reading sequence.
+[optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/optional-skills.md), [transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-assembly.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK save-progress 0.19.2
+END OF SETUPKIT BLOCK save-progress 0.20

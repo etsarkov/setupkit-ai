@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Pause or continue without false saved-state claims
+# SetupKit 0.20 · Pause or continue without false saved-state claims
 
-Block: pause-return. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/pause-return/
+Block: pause-return. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/pause-return/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Pause, return and continuation
 
@@ -24,8 +24,10 @@ A pre-action checkpoint can record the intended action and unresolved outcome. A
 On save, re-read the exact permitted target, compare its known revision and relevant content, preserve the prior revision, and count the new revision as committed only after authorized write/readback succeeds. If concurrent change is detected, stop that write and reconcile relevant facts. Do not implement automatic locking or storage services in this method. Hosts lacking safe scoped writes use manual continuation. Sensitive state should not enter diagnostics or public method requests.
 
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-preview.md). These are choices, not a required reading sequence.
+[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/save-progress.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-preview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK pause-return 0.19.2
+END OF SETUPKIT BLOCK pause-return 0.20

@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Assemble exact complete-method continuation
+# SetupKit 0.20 · Assemble exact complete-method continuation
 
-Block: transfer-assembly. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-preview.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/transfer-assembly/
+Block: transfer-assembly. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-preview.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/transfer-assembly/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Assemble the complete method appendix
 
@@ -16,4 +16,4 @@ For copyable parts, give an ordered inventory with each part's exact start/end b
 
 Present each copyable part as a code block in the final visible answer. Parts shown only inside analysis or tool results are not delivered to the person. If response limits prevent all parts, show complete visible parts, list those still missing and wait for the person to request the next part; do not call that partial delivery complete. Check how the chat's Copy action handles original trailing newlines when this can actually be observed. If copying omits them, state the exact original newline count to restore after each part, including the final starter newline; these are source characters, not extra separators. If that behavior cannot be checked, explain the uncertainty and keep copied-byte fidelity UNVERIFIED. A comparison before display does not verify the text copied from the visible answer. When a permitted tool can compare the joined copied text, compare that actual assembly with the available source without silent trimming, normalization or content repair.
 
-END OF SETUPKIT BLOCK transfer-assembly 0.19.2
+END OF SETUPKIT BLOCK transfer-assembly 0.20

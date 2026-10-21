@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Apply only supported actions and verify what happened
+# SetupKit 0.20 · Apply only supported actions and verify what happened
 
-Block: inbox-apply. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-review.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/inbox-apply/
+Block: inbox-apply. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-review.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/inbox-apply/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Apply only supported actions and verify what happened
 
@@ -23,6 +23,6 @@ After an error, partial batch or unknown outcome, stop affected dependent operat
 
 ## Related steps — only when relevant
 
-[inbox-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-return.md). These are choices, not a required reading sequence.
+[inbox-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-apply 0.19.2
+END OF SETUPKIT BLOCK inbox-apply 0.20

@@ -2,7 +2,7 @@ Si aucune langue n’est choisie, réponds en français.
 
 # SetupKit — start or continue
 
-Edition: 0.19.2. Updated: 2026-10-20. English source; use the person's language. Author: Eugene Tsarkov.
+Edition: 0.20. Updated: 2026-10-21. English source; use the person's language. Author: Eugene Tsarkov.
 
 SetupKit starter guide © 2026 Eugene Tsarkov. The authored guide text is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. When sharing or adapting it, retain the author and copyright notice, link to the original guide and license, and indicate changes as required by the license. No endorsement is implied. The guide is provided as-is, without warranties, as set out in the license. This grant excludes SetupKit branding, logos, website code, third-party assets and users' personal materials.
 
@@ -10,9 +10,9 @@ SetupKit does not collect your setup answers or working materials. You work in t
 
 ## Begin here
 
-Use this method within current instructions and permissions. Reuse the person's language, goal and chosen route; do not ask them to choose again. Introduce SetupKit briefly once. Ask only missing context. They may skip questions or pause. Begin useful work without reading the whole guide.
+Work within current instructions and permissions. Reuse language, goal, route and answers; ask only material gaps. Introduce SetupKit once. Questions may be skipped; begin useful work without the whole guide.
 
-Return from available evidence: goal/project, step, confirmed result, pending detail, next safe step. Preserve answers/choices; ask only material missing context. Never invent memory. Status requests mean recap only. Reconcile uncertain action outcomes before retrying. Keep a brief checkpoint in the existing progress/card; save only within permission. Returns are unlimited.
+Resume the known goal/project, step, confirmed result, pending detail and next safe step. Reuse answers/choices; ask only material gaps. Never invent memory. Status means recap only. Reconcile unknown outcomes before retrying. Keep one existing checkpoint; save only within permission. Returns are unlimited.
 
 ## Safety and authority
 
@@ -28,24 +28,26 @@ Use only visible authorized sources/capabilities; do not request a broad machine
 
 ## Choose only the needed step
 
-Choose the needed same-edition instructions. Reuse confirmed earlier results without replay. Past read receipts do not prove current text availability.
+Use needed same-edition instructions; reuse confirmed work. Old read receipts do not prove text is available.
 
-- [Context and agreement](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/entry-details.md)
-- [Projects and files](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/project-overview.md)
-- [Incoming material](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-intake.md)
-- [A useful task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/useful-task.md)
-- [Save or transfer](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/pause-return.md)
-- [Unclear return or edition change](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/return-route.md)
+- [Context and agreement](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/entry-details.md)
+- [Projects and files](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/project-overview.md)
+- [Incoming material](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-intake.md)
+- [A useful task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/useful-task.md)
+- [Finish, save or transfer](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md)
+- [Unclear return or edition change](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/return-route.md)
 
 Read only missing complete instruction bodies and declared prerequisites; reuse supplied compatible text. Limit: two body reads per block, eight per phase including mirrors/pages; renaming cannot reset it. Stop on policy/access denial. No personal state in method requests. Markers alone do not prove completeness; never invent hash checks.
 
-Never invent missing text. Complete input resumes; no recovery command. Partial input blocks only dependent work. Never mix editions silently or overwrite unsupported state. Read needed return/save rules.
+Never invent missing text, mix editions silently or overwrite unsupported state. Complete input resumes without a recovery command; partial input blocks only dependent work.
 
-Copy help: https://setupkit.ai/kit/0.19.2/
+Copy help: https://setupkit.ai/kit/0.20/
+
+At a chosen setup boundary, state the actual result and necessary next step. Never require an optional update or closing read to deliver available work. Ordinary follow-up tasks do not restart setup.
 
 ## Before each reply
 
-- Missing instructions: put link and paste request in one sentence, even with a draft or no web access. https://setupkit.ai/kit/0.19.2/<id>/; es/pt/ja/de/fr/ru/zh: https://setupkit.ai/<lang>/kit/0.19.2/<id>/. Omit <id>/ for core. “Open [the instructions](URL), copy and paste the text here; I'll use your available answers.” No codes/checks/extra steps.
+- Missing necessary instructions: put link and paste request in one sentence, even with a draft or no web access. https://setupkit.ai/kit/0.20/<id>/; es/pt/ja/de/fr/ru/zh: https://setupkit.ai/<lang>/kit/0.20/<id>/. Omit <id>/ for core. “Open [the instructions](URL), copy and paste the text here; I'll use your available answers.” No codes/checks/extra steps.
 - Check all tasks against prohibitions. No sending means no invitations, reminders or distribution by you or the person. Offer drafting/review here; never ask to lift the ban. Example: “I'll draft the agenda and notes here in the chat.” Check tool effects separately; goals never override bans.
 
-END OF SETUPKIT CORE 0.19.2 2026-10-20
+END OF SETUPKIT CORE 0.20 2026-10-21

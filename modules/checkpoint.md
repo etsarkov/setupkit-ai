@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Keep one readable continuation point
+# SetupKit 0.20 · Keep one readable continuation point
 
-Block: checkpoint. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/checkpoint/
+Block: checkpoint. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/checkpoint/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## One checkpoint, existing state
 
@@ -33,6 +33,6 @@ One checkpoint describes the current foreground goal. Other unfinished goals sta
 
 ## Related steps — only when relevant
 
-[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/pause-return.md). These are choices, not a required reading sequence.
+[save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/save-progress.md), [pause-return](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/pause-return.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK checkpoint 0.19.2
+END OF SETUPKIT BLOCK checkpoint 0.20

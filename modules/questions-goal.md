@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · GOAL question definitions (individual activation only)
+# SetupKit 0.20 · GOAL question definitions (individual activation only)
 
-Block: questions-goal. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/questions-goal/
+Block: questions-goal. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-dialogue.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/questions-goal/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 Loading this family does not activate every question. Ask only individually relevant missing meanings.
 
@@ -68,4 +68,4 @@ Effect / if deferred: This changes the size, pace and order of the proposed step
 
 Activate / reuse: A proposed plan could be unrealistic without a specific missing constraint; ask after choosing the relevant goal and reuse stated constraints first. Reuse confirmed applicable answers and selected sources first. Relevant IDs: CORE-02, GOAL-01, AUTH-06, PROD-03. Reuse exact known limits where relevant. Spending permission is not total resource availability; available budget is not permission to spend.
 
-END OF SETUPKIT BLOCK questions-goal 0.19.2
+END OF SETUPKIT BLOCK questions-goal 0.20
