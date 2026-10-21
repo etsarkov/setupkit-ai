@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Review a voluntary change of assistant
+# SetupKit 0.20 · Review a voluntary change of assistant
 
-Block: assistant-switch. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/assistant-switch/
+Block: assistant-switch. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/assistant-switch/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## A voluntary switch with an official route
 
@@ -15,6 +15,6 @@ If they choose to switch, ask: “Would you like me to prepare a continuation fi
 
 ## Related steps — only when relevant
 
-[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/assistant-attach.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-preview.md). These are choices, not a required reading sequence.
+[assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/assistant-attach.md), [transfer-preview](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-preview.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK assistant-switch 0.19.2
+END OF SETUPKIT BLOCK assistant-switch 0.20

@@ -1,142 +1,17 @@
-# SetupKit 0.19.2 · Cumulative method changes; no permission or completion evidence
+# SetupKit 0.20 · Cumulative method changes; no permission or completion evidence
 
-Block: edition-manifest. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-review.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/edition-manifest/
+Block: edition-manifest. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/edition-manifest/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Cumulative changes
 
 This is method metadata, not user progress or authority.
 
 ```json
-{
-"manifest_version": 3,
-"baseline_edition": "0.16.3",
-"target_edition": "0.19.2",
-"unchanged_question_revision": 1,
-"steps": [
-{
-"id": "WC-ENTRY",
-"revision": 3,
-"introduced_in": "0.17",
-"relevance": "all entry routes",
-"change": "Reuse known edition, intent, answers and permitted sources without a new onboarding route. Give a brief first-run welcome or an evidence-based return greeting in the person’s language; reuse known intent. This presentation-only delta requires no repeated entry or onboarding exercise. The copied compact core routes to complete phase instructions; complete recovery continues without a second command."
-},
-{
-"id": "WC-DELTA",
-"revision": 3,
-"introduced_in": "0.17",
-"relevance": "continuation or optional progress saving",
-"change": "Separate seen/started/completed editions; compare actual relevant step revisions even when an edition string matches, preserving known answers and choices. Keep a readable evidence-based checkpoint in existing state/card; reconcile unknown action outcomes and concurrent changes before dependent work."
-},
-{
-"id": "WC-ORG",
-"revision": 2,
-"introduced_in": "0.17",
-"relevance": "organization chosen by the person",
-"change": "Review the agreed working area narrowly, show source-bound project candidates for selection, then adapt the optional layout and accompany only approved adoption."
-},
-{
-"id": "WC-CONTEXT",
-"revision": 2,
-"introduced_in": "0.17",
-"relevance": "reusable personal/work context chosen by the person",
-"change": "Offer selected CV/professional-page/notes first, show a short reviewable summary, then ask only individually relevant gaps; preserve manual and skip paths."
-},
-{
-"id": "WC-NAV",
-"revision": 1,
-"introduced_in": "0.17",
-"relevance": "a real task needs available context",
-"change": "Select the minimum relevant context and verify one source detail and one applicable preference."
-},
-{
-"id": "WC-SKILLS",
-"revision": 1,
-"introduced_in": "0.17",
-"relevance": "chosen-journey completion or a later suitable task, with suggestions permitted",
-"change": "Offer both owned skills optionally once at completion; after no-install-now, allow a relevant later offer while respecting no-more-suggestions."
-},
-{
-"id": "WC-GAPS",
-"revision": 1,
-"introduced_in": "0.17",
-"relevance": "chosen personal/work context or project overview has a material missing fact after source/answer reuse",
-"change": "Use only the individually needed added questions; preserve why/effect/fallback, five states, honest counts and no repeat of known facts."
-},
-{
-"id": "WC-INBOX",
-"revision": 1,
-"introduced_in": "0.18",
-"relevance": "the person chooses a task using selected incoming materials or an inbox; never a background or mandatory onboarding step",
-"change": "Review permitted incoming material with provenance, propose one canonical home and useful extraction, distinguish routing from knowledge confirmation, apply only exact approved supported actions or provide an unapplied manual plan, and resume only relevant new/changed/pending material without repeated questions."
-}
-],
-"question_additions": [
-{
-"id": "CTX-01",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "CTX-02",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "CTX-03",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "GOAL-06",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "GOAL-07",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "NOW-01",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "ORG-13",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "ORG-14",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "ORG-15",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-},
-{
-"id": "WORK-07",
-"meaning_revision": 1,
-"introduced_in": "0.17",
-"activation": "Individual activation and compatible answer reuse as specified in this question’s bank entry; never blanket module activation."
-}
-]
-}
+{"manifest_version":3,"baseline_edition":"0.16.3","target_edition":"0.20","unchanged_question_revision":1,"steps":[{"id":"WC-ENTRY","revision":3,"introduced_in":"0.17","relevance":"all entry routes","change":"Reuse known edition, intent, answers and permitted sources. Give one brief first-run welcome or evidence-based return greeting in the person's language, without replaying onboarding. The compact core routes to needed phase instructions; complete recovery needs no second command."},{"id":"WC-DELTA","revision":4,"introduced_in":"0.17","relevance":"continuation or optional progress saving","change":"Keep seen/started/completed editions distinct. Compare actual relevant revisions; preserve answers, choices and one readable checkpoint. Reconcile unknown outcomes/concurrent changes before dependent work. Optionally check the active site edition once per real entry/return; user-selected coherent updates reuse prior work."},{"id":"WC-ORG","revision":2,"introduced_in":"0.17","relevance":"organization chosen by the person","change":"Review the agreed working area narrowly, show source-bound project candidates for selection, then adapt the optional layout and accompany only approved adoption."},{"id":"WC-CONTEXT","revision":2,"introduced_in":"0.17","relevance":"reusable personal/work context chosen by the person","change":"Offer selected CV/professional-page/notes first, show a short reviewable summary, then ask only individually relevant gaps; preserve manual and skip paths."},{"id":"WC-NAV","revision":1,"introduced_in":"0.17","relevance":"a real task needs available context","change":"Select the minimum relevant context and verify one source detail and one applicable preference."},{"id":"WC-SKILLS","revision":2,"introduced_in":"0.17","relevance":"chosen-journey completion or a later suitable task, with suggestions permitted","change":"Offer only a concretely relevant optional skill or respond to a request; no default two-skill closing bundle, forced preference question or installation grant. Respect existing choices and suggestion restrictions."},{"id":"WC-GAPS","revision":1,"introduced_in":"0.17","relevance":"chosen personal/work context or project overview has a material missing fact after source/answer reuse","change":"Use only the individually needed added questions; preserve why/effect/fallback, five states, honest counts and no repeat of known facts."},{"id":"WC-INBOX","revision":1,"introduced_in":"0.18","relevance":"the person chooses a task using selected incoming materials or an inbox; never a background or mandatory onboarding step","change":"Review permitted incoming material with provenance, propose one canonical home and useful extraction, distinguish routing from knowledge confirmation, apply only exact approved supported actions or provide an unapplied manual plan, and resume only relevant new/changed/pending material without repeated questions."},{"id":"WC-CLOSE","revision":1,"introduced_in":"0.20","relevance":"chosen-scope finish, pending decision or pause","change":"Close with the actual result and necessary pending step. Support independent use; offer at most one concretely useful unconfigured capability, preserving completed equivalents, declines and deferrals. No generic repeat-Kit invitation. Stop means no reads/offers; ordinary tasks do not restart setup."}],"question_additions":[{"id":"CTX-01","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"CTX-02","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"CTX-03","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"GOAL-06","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"GOAL-07","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"NOW-01","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"ORG-13","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"ORG-14","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"ORG-15","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."},{"id":"WORK-07","meaning_revision":1,"introduced_in":"0.17","activation":"Apply this bank entry's individual activation and compatible-answer reuse rules; never activate a whole module."}]}
 ```
 
-END OF SETUPKIT BLOCK edition-manifest 0.19.2
+END OF SETUPKIT BLOCK edition-manifest 0.20

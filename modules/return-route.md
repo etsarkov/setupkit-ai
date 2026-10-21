@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Resume the actual selected goal
+# SetupKit 0.20 · Resume the actual selected goal
 
-Block: return-route. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/return-route/
+Block: return-route. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/return-route/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Outcome and invariants
 
@@ -36,8 +36,10 @@ Mandatory invariants:
 
 
 
+At a real setup entry/return, the existing [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md) may make one optional active-edition check within current access/read limits. Ordinary continuation does not trigger it; available work never waits for an update.
+
 ## Related steps — only when relevant
 
-[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/checkpoint.md). These are choices, not a required reading sequence.
+[return-modes](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/return-modes.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md), [load-recovery](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/load-recovery.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/checkpoint.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK return-route 0.19.2
+END OF SETUPKIT BLOCK return-route 0.20

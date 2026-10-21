@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Review the personal continuation content
+# SetupKit 0.20 · Review the personal continuation content
 
-Block: transfer-preview. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/transfer-preview/
+Block: transfer-preview. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md), [question-ledger](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-ledger.md), [checkpoint](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/checkpoint.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/transfer-preview/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Prepare one portable continuation file
 
@@ -21,10 +21,10 @@ After the person accepts, preview a minimal, readable SETUPKIT_CONTINUE.md and l
 Keep secrets, tokens, passwords, credentials, unnecessary private material and permission grants out. The person must approve the destination/content before a write. If creating a downloadable file is supported, provide it and name exactly what was produced. Otherwise provide complete copyable text. If output limits prevent one file, offer explicitly numbered parts and an inventory/completeness check; never call a partial packet complete. The user's approved private original remains canonical when applicable; do not silently create a competing profile. Nothing is uploaded to SetupKit.
 
 
-Full method source: [COMPLETE.md](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/COMPLETE.md). Retrieve it only for a chosen full-method transfer when its exact text is not already available.
+Full method source: [COMPLETE.md](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/COMPLETE.md). Retrieve it only for a chosen full-method transfer when its exact text is not already available.
 
 ## Related steps — only when relevant
 
-[transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-assembly.md), [transfer-receive](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/transfer-receive.md). These are choices, not a required reading sequence.
+[transfer-assembly](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-assembly.md), [transfer-receive](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/transfer-receive.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK transfer-preview 0.19.2
+END OF SETUPKIT BLOCK transfer-preview 0.20

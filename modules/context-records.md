@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Review useful context files
+# SetupKit 0.20 · Review useful context files
 
-Block: context-records. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/context-records/
+Block: context-records. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/context-records/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Prepare reusable context from what is already known
 
@@ -31,8 +31,10 @@ Use existing and added bank questions by their actual meaning, only after curren
 Review the exact file text/delta and canonical destination. For public/shared repository roots, explain exposure before saving personal context and agree a private equivalent location or chat-only result; do not silently relocate the workspace or rely on an unverified ignore rule. File review, save approval, actual write and readback are distinct. Keep existing originals intact; do not migrate an older profile schema implicitly. If a write is denied, unsupported, partial or uncertain, state what is actually known, inspect the exact permitted target before any retry and provide complete manual text where possible. Do not label a partial/unknown write SAVED.
 
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-gaps.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md). These are choices, not a required reading sequence.
+[context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-gaps.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK context-records 0.19.2
+END OF SETUPKIT BLOCK context-records 0.20

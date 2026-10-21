@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Receive and reuse actual continuation
+# SetupKit 0.20 · Receive and reuse actual continuation
 
-Block: transfer-receive. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/transfer-receive/
+Block: transfer-receive. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/transfer-receive/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Receive a continuation
 
@@ -19,8 +19,10 @@ Preserve each material task field's source and confirmation status on import and
 
 A complete single-input packet continues directly after inspection. Do not require the person to paste its embedded resume instruction as a second message. A short continuation card without the full method is useful but must not be described as a self-contained full-method transfer. For legacy complete starters, preserve their actual title/boundaries and edition rather than applying the 0.19.2 filename rule.
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[return-route](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/return-route.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-review.md). These are choices, not a required reading sequence.
+[return-route](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/return-route.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK transfer-receive 0.19.2
+END OF SETUPKIT BLOCK transfer-receive 0.20

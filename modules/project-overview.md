@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Review only selected projects
+# SetupKit 0.20 · Review only selected projects
 
-Block: project-overview. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/project-overview/
+Block: project-overview. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/project-overview/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 For a wanted project overview, reuse the known working area and current read permission. If the location or permission is missing, explain the bounded read and manual alternative before asking: “I can look at the folders and short project descriptions in the working folder you choose, then show you the projects I can identify. You can choose which ones we set up. This review does not change or move files. If access is unavailable, a folder list or a few project descriptions is enough to start.” Reuse an already clear current authorization for this exact read instead of asking again merely to follow a script.
 
@@ -18,8 +18,10 @@ The path is: known answers → selected permitted material → short summary or 
 
 
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[workspace-layout](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/workspace-layout.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-input.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-gaps.md), [useful-task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/useful-task.md). These are choices, not a required reading sequence.
+[workspace-layout](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/workspace-layout.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-input.md), [context-gaps](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-gaps.md), [useful-task](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/useful-task.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK project-overview 0.19.2
+END OF SETUPKIT BLOCK project-overview 0.20

@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Do a useful task with sufficient context and capability
+# SetupKit 0.20 · Do a useful task with sufficient context and capability
 
-Block: useful-task. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/useful-task/
+Block: useful-task. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/useful-task/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Explain a task's requirements early
 
@@ -27,8 +27,10 @@ Apply preferences to one small reversible real task with an inspectable draft/re
 Optional save: reread exact target, show path and full proposed content/delta, existing authority and rollback; request exact permission. Do not write/overwrite/move/migrate until approved. Report saved only after actual write and readback. Failure/decline/unavailable filesystem gives chat-only text and manual continuation. Never upload a personal profile to SetupKit.
 
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-dialogue.md), [optional-skills](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/optional-skills.md), [assistant-switch](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/assistant-switch.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK useful-task 0.19.2
+END OF SETUPKIT BLOCK useful-task 0.20

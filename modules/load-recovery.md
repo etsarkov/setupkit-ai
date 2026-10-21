@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Recover only missing required instructions
+# SetupKit 0.20 · Recover only missing required instructions
 
-Block: load-recovery. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/load-recovery/
+Block: load-recovery. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/load-recovery/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Recover the needed instructions
 
@@ -26,4 +26,4 @@ Examples to adapt to the actual evidence:
 
 An attachment or pasted message can include surrounding user text. Keep that context separate from the actual source boundaries when checking fidelity. An envelope hash difference does not establish corruption of the method body. A pasted complete legacy starter can be used under its actual identity and current authority; it does not have to be converted to modules first.
 
-END OF SETUPKIT BLOCK load-recovery 0.19.2
+END OF SETUPKIT BLOCK load-recovery 0.20

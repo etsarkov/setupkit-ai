@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Choose or reuse the entry and welcome
+# SetupKit 0.20 · Choose or reuse the entry and welcome
 
-Block: entry-details. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/entry-details/
+Block: entry-details. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/entry-details/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Choose or reuse the entry
 
@@ -25,8 +25,10 @@ Once the required entry instructions are available, reuse an already supplied go
 If unsure, offer help through `EXISTING_SETUP_AUDIT`; invisible state is UNVERIFIED, not absent. Finding existing files never authorizes a reset. Ask about the intended route only if it remains unclear; never force first setup. Returning work never resets or downgrades. Intent is routing metadata, not a new question-bank item: preserve every stable question in the current edition’s relevant question definitions and reuse supplied answers.
 
 
+At a real setup entry/return, the existing [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md) may make one optional active-edition check within current access/read limits. Ordinary continuation does not trigger it; available work never waits for an update.
+
 ## Related steps — only when relevant
 
-[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/assistant-attach.md). These are choices, not a required reading sequence.
+[question-dialogue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-dialogue.md), [context-input](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/context-input.md), [edition-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/edition-review.md), [assistant-attach](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/assistant-attach.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK entry-details 0.19.2
+END OF SETUPKIT BLOCK entry-details 0.20

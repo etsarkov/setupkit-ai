@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Review optional organization
+# SetupKit 0.20 · Review optional organization
 
-Block: workspace-layout. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/workspace-layout/
+Block: workspace-layout. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/workspace-layout/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ## Organize a workspace only if wanted
 
@@ -47,8 +47,10 @@ Use repos only for actual code/Git needs, including private repositories; public
 Let the person amend the proposed paths. Before any actual create/edit/move, preview the exact paths, content/delta, effect and applicable rollback; obtain the required current action permission. Re-read changed targets and reject a stale preview, out-of-scope path, unapproved symlink or unexpected public/shared location. Stop only the dependent write if the host cannot enforce scope/approval; provide a manual placement plan. An archive choice never implies deletion. After permitted adoption, check one representative item can be found and used; record actual paths/results and remaining work. Do not claim the whole workspace migrated from one check.
 
 
+At the boundary of the chosen setup, use [close-and-continue](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/close-and-continue.md) for a brief truthful result/pending step and at most one useful option. Do not invoke it after every output or require a missing closing read to deliver available results.
+
 ## Related steps — only when relevant
 
-[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/save-progress.md). These are choices, not a required reading sequence.
+[question-index](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/question-index.md), [save-progress](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/save-progress.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK workspace-layout 0.19.2
+END OF SETUPKIT BLOCK workspace-layout 0.20

@@ -28,3 +28,7 @@ and integrity metadata. Method rules, question definitions and permission
 boundaries are unchanged from 0.19. The assistant observations described above
 were made on 0.19; no new 0.19.1 model tests are claimed. The correction is checked
 for instruction equivalence, dates, hashes and versioned-reader behavior.
+
+## Edition 0.20: chosen-scope closure and optional discovery
+
+Edition 0.20 adds a short shared closing block, optional active-edition discovery and contextual skill suggestions. Existing 0.19 observations are historical, not new 0.20 compatibility evidence. New candidate checks and actual host observations must be recorded separately before release. It does not create cross-chat memory, forced updates or installation permission.

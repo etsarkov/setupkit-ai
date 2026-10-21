@@ -1,10 +1,10 @@
-# SetupKit 0.19.2 · Propose one home and a useful next step
+# SetupKit 0.20 · Propose one home and a useful next step
 
-Block: inbox-proposal. Updated: 2026-10-20.
-Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/STARTER.md). Reuse complete text already available; read only what is missing.
-Copy help: https://setupkit.ai/kit/0.19.2/inbox-proposal/
+Block: inbox-proposal. Updated: 2026-10-21.
+Required instructions: [core](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/STARTER.md). Reuse complete text already available; read only what is missing.
+Copy help: https://setupkit.ai/kit/0.20/inbox-proposal/
 
-Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.19.2/; localize as https://setupkit.ai/<lang>/kit/0.19.2/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
+Missing core: say only “Open [the instructions](URL), copy the text and paste it here; I'll use your available answers” in the person's language. URL: https://setupkit.ai/kit/0.20/; localize as https://setupkit.ai/<lang>/kit/0.20/ (es/pt/ja/de/fr/ru/zh). No codes or extra steps.
 
 ### Propose one home and a useful next step
 
@@ -32,6 +32,6 @@ Intake can remain entirely in chat. If the person wants to save a new link or no
 
 ## Related steps — only when relevant
 
-[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.19.2/modules/inbox-review.md). These are choices, not a required reading sequence.
+[inbox-review](https://raw.githubusercontent.com/etsarkov/setupkit-ai/setupkit-v0.20/modules/inbox-review.md). These are choices, not a required reading sequence.
 
-END OF SETUPKIT BLOCK inbox-proposal 0.19.2
+END OF SETUPKIT BLOCK inbox-proposal 0.20
